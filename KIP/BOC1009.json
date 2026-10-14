@@ -1,0 +1,8425 @@
+{
+ "segments": [
+  {
+   "start": 2.148,
+   "end": 3.949,
+   "text": " Ok.",
+   "words": [
+    {
+     "word": "Ok.",
+     "start": 2.148,
+     "end": 3.949,
+     "score": 0.722,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.12309027512868245,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 3.989,
+   "end": 7.27,
+   "text": "Dunque, lei su quali manuali si è preparata da non frequentante?",
+   "words": [
+    {
+     "word": "Dunque,",
+     "start": 3.989,
+     "end": 4.249,
+     "score": 0.96,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "lei",
+     "start": 4.269,
+     "end": 4.429,
+     "score": 0.742,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "su",
+     "start": 4.509,
+     "end": 4.609,
+     "score": 0.692,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "quali",
+     "start": 4.689,
+     "end": 4.909,
+     "score": 0.815,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "manuali",
+     "start": 4.969,
+     "end": 5.489,
+     "score": 0.905,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 5.509,
+     "end": 5.549,
+     "score": 0.01,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "è",
+     "start": 5.649,
+     "end": 5.689,
+     "score": 0.389,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "preparata",
+     "start": 5.729,
+     "end": 6.249,
+     "score": 0.931,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "da",
+     "start": 6.309,
+     "end": 6.389,
+     "score": 0.874,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 6.429,
+     "end": 6.549,
+     "score": 0.839,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "frequentante?",
+     "start": 6.589,
+     "end": 7.27,
+     "score": 0.779,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.12309027512868245,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 7.77,
+   "end": 16.492,
+   "text": "Su Bianchi, Andorno, e poi Penco e Domaneschi e Voghera.",
+   "words": [
+    {
+     "word": "Su",
+     "start": 7.77,
+     "end": 7.95,
+     "score": 0.788,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Bianchi,",
+     "start": 8.03,
+     "end": 8.65,
+     "score": 0.737,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Andorno,",
+     "start": 8.75,
+     "end": 9.67,
+     "score": 0.794,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 11.811,
+     "end": 12.011,
+     "score": 0.885,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "poi",
+     "start": 12.071,
+     "end": 12.251,
+     "score": 0.654,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Penco",
+     "start": 12.291,
+     "end": 12.891,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 12.991,
+     "end": 13.732,
+     "score": 0.947,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Domaneschi",
+     "start": 13.892,
+     "end": 14.732,
+     "score": 0.721,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 15.872,
+     "end": 15.932,
+     "score": 0.809,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Voghera.",
+     "start": 16.012,
+     "end": 16.492,
+     "score": 0.716,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.12309027512868245,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 17.373,
+   "end": 17.813,
+   "text": "Va bene.",
+   "words": [
+    {
+     "word": "Va",
+     "start": 17.373,
+     "end": 17.473,
+     "score": 0.68,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "bene.",
+     "start": 17.533,
+     "end": 17.813,
+     "score": 0.653,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.12309027512868245,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 20.086,
+   "end": 20.946,
+   "text": " Partiamo da Voghera.",
+   "words": [
+    {
+     "word": "Partiamo",
+     "start": 20.086,
+     "end": 20.386,
+     "score": 0.854,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "da",
+     "start": 20.426,
+     "end": 20.526,
+     "score": 0.708,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Voghera.",
+     "start": 20.566,
+     "end": 20.946,
+     "score": 0.818,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.06076388821626703,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 22.086,
+   "end": 26.368,
+   "text": "Cosa si intende per correlati funzionali del parlato?",
+   "words": [
+    {
+     "word": "Cosa",
+     "start": 22.086,
+     "end": 22.247,
+     "score": 0.146,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 22.267,
+     "end": 22.327,
+     "score": 0.726,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "intende",
+     "start": 22.347,
+     "end": 22.607,
+     "score": 0.857,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "per",
+     "start": 22.667,
+     "end": 22.747,
+     "score": 0.435,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "correlati",
+     "start": 22.887,
+     "end": 23.407,
+     "score": 0.816,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "funzionali",
+     "start": 23.487,
+     "end": 24.207,
+     "score": 0.894,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "del",
+     "start": 24.728,
+     "end": 24.848,
+     "score": 0.986,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "parlato?",
+     "start": 24.908,
+     "end": 26.368,
+     "score": 0.932,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.06076388821626703,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 26.428,
+   "end": 44.937,
+   "text": "Si intendono tutte quelle caratteristiche che contraddistinguono il parlato rispetto allo scritto, ovvero il fatto che sia un metodo dinamico di esprimersi, il fatto che sia comunque...",
+   "words": [
+    {
+     "word": "Si",
+     "start": 26.428,
+     "end": 26.488,
+     "score": 0.518,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "intendono",
+     "start": 26.508,
+     "end": 27.089,
+     "score": 0.786,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutte",
+     "start": 27.129,
+     "end": 27.349,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quelle",
+     "start": 27.429,
+     "end": 27.649,
+     "score": 0.485,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "caratteristiche",
+     "start": 27.669,
+     "end": 28.769,
+     "score": 0.711,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 28.89,
+     "end": 29.09,
+     "score": 0.948,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contraddistinguono",
+     "start": 30.21,
+     "end": 31.131,
+     "score": 0.799,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 31.151,
+     "end": 31.211,
+     "score": 0.44,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 31.291,
+     "end": 31.951,
+     "score": 0.972,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rispetto",
+     "start": 32.531,
+     "end": 32.931,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "allo",
+     "start": 32.991,
+     "end": 33.172,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scritto,",
+     "start": 33.212,
+     "end": 33.792,
+     "score": 0.795,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 33.812,
+     "end": 34.232,
+     "score": 0.771,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 34.372,
+     "end": 34.452,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 34.512,
+     "end": 34.772,
+     "score": 0.806,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 34.832,
+     "end": 34.952,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 35.132,
+     "end": 35.453,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 35.593,
+     "end": 37.894,
+     "score": 0.948,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "metodo",
+     "start": 39.915,
+     "end": 40.335,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dinamico",
+     "start": 40.395,
+     "end": 41.175,
+     "score": 0.946,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 41.595,
+     "end": 41.655,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esprimersi,",
+     "start": 41.715,
+     "end": 42.556,
+     "score": 0.928,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 42.596,
+     "end": 42.676,
+     "score": 0.768,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 42.716,
+     "end": 42.996,
+     "score": 0.815,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 43.096,
+     "end": 43.316,
+     "score": 0.618,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 43.516,
+     "end": 43.756,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque...",
+     "start": 44.277,
+     "end": 44.937,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.06076388821626703,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 47.798,
+   "end": 75.933,
+   "text": " diciamo non imprimibile su un supporto fisico e il fatto che che sia più diciamo disordinato dello scritto apparentemente perché in verità il parlato usa comunque molte tecniche anche se avanti perfetto grazie mille grazie mille arrivederci",
+   "words": [
+    {
+     "word": "diciamo",
+     "start": 47.798,
+     "end": 49.159,
+     "score": 0.14,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 49.199,
+     "end": 49.319,
+     "score": 0.774,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "imprimibile",
+     "start": 49.399,
+     "end": 50.199,
+     "score": 0.843,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "su",
+     "start": 50.399,
+     "end": 50.62,
+     "score": 0.985,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 50.78,
+     "end": 51.32,
+     "score": 0.82,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "supporto",
+     "start": 51.44,
+     "end": 52.401,
+     "score": 0.986,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fisico",
+     "start": 52.861,
+     "end": 53.481,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 54.041,
+     "end": 54.161,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 54.282,
+     "end": 54.382,
+     "score": 0.567,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 54.482,
+     "end": 54.922,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 55.042,
+     "end": 55.342,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 56.843,
+     "end": 56.963,
+     "score": 0.794,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 57.123,
+     "end": 57.283,
+     "score": 0.695,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "più",
+     "start": 57.403,
+     "end": 57.623,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo",
+     "start": 57.783,
+     "end": 58.204,
+     "score": 0.675,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "disordinato",
+     "start": 58.244,
+     "end": 59.044,
+     "score": 0.811,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dello",
+     "start": 59.104,
+     "end": 59.344,
+     "score": 0.933,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scritto",
+     "start": 59.404,
+     "end": 60.125,
+     "score": 0.967,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "apparentemente",
+     "start": 61.085,
+     "end": 62.086,
+     "score": 0.92,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 62.166,
+     "end": 62.466,
+     "score": 0.542,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 62.486,
+     "end": 62.546,
+     "score": 0.993,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "verità",
+     "start": 62.566,
+     "end": 63.026,
+     "score": 0.567,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 63.927,
+     "end": 63.987,
+     "score": 0.925,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 64.047,
+     "end": 64.807,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "usa",
+     "start": 65.007,
+     "end": 65.407,
+     "score": 0.918,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 65.547,
+     "end": 66.208,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "molte",
+     "start": 66.408,
+     "end": 66.688,
+     "score": 0.902,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tecniche",
+     "start": 66.768,
+     "end": 67.629,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "anche",
+     "start": 67.689,
+     "end": 67.949,
+     "score": 0.855,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "se",
+     "start": 68.069,
+     "end": 68.269,
+     "score": 0.992,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "avanti",
+     "start": 69.83,
+     "end": 70.35,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perfetto",
+     "start": 70.49,
+     "end": 70.93,
+     "score": 0.369
+    },
+    {
+     "word": "grazie",
+     "start": 70.95,
+     "end": 71.19,
+     "score": 0.222
+    },
+    {
+     "word": "mille",
+     "start": 71.831,
+     "end": 72.391,
+     "score": 0.39
+    },
+    {
+     "word": "grazie",
+     "start": 72.451,
+     "end": 72.911,
+     "score": 0.661
+    },
+    {
+     "word": "mille",
+     "start": 72.951,
+     "end": 73.512,
+     "score": 0.525,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "arrivederci",
+     "start": 73.572,
+     "end": 75.933,
+     "score": 0.61,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.09061219506576414,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 76.947,
+   "end": 105.478,
+   "text": " Sebboghera sottolinea che spesso il parlato è stato snobbato tra virgolette dalla concezione tipica, dallo studio della linguistica o comunque dalla sistematizzazione della linguistica e dei concetti che la costituiscono perché come idea generale si prende come presupposto il fatto che il parlato sia una categoria di",
+   "words": [
+    {
+     "word": "Sebboghera",
+     "start": 76.947,
+     "end": 77.887,
+     "score": 0.664,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sottolinea",
+     "start": 78.067,
+     "end": 78.748,
+     "score": 0.69,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 78.848,
+     "end": 79.108,
+     "score": 0.862,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "spesso",
+     "start": 79.768,
+     "end": 80.228,
+     "score": 0.945,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 80.288,
+     "end": 80.368,
+     "score": 0.858,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 80.428,
+     "end": 80.848,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 80.909,
+     "end": 80.949,
+     "score": 0.497,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stato",
+     "start": 81.009,
+     "end": 81.429,
+     "score": 0.971,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "snobbato",
+     "start": 81.989,
+     "end": 82.669,
+     "score": 0.808,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tra",
+     "start": 82.709,
+     "end": 82.869,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "virgolette",
+     "start": 82.929,
+     "end": 83.71,
+     "score": 0.754,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dalla",
+     "start": 83.79,
+     "end": 84.01,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "concezione",
+     "start": 84.05,
+     "end": 84.87,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tipica,",
+     "start": 85.01,
+     "end": 85.65,
+     "score": 0.982,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dallo",
+     "start": 86.11,
+     "end": 86.351,
+     "score": 0.895,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio",
+     "start": 86.391,
+     "end": 86.691,
+     "score": 0.749,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "della",
+     "start": 86.731,
+     "end": 86.991,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "linguistica",
+     "start": 87.051,
+     "end": 87.711,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "o",
+     "start": 87.731,
+     "end": 87.751,
+     "score": 0.009,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 87.851,
+     "end": 88.371,
+     "score": 0.946,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dalla",
+     "start": 88.731,
+     "end": 88.952,
+     "score": 0.849,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sistematizzazione",
+     "start": 89.012,
+     "end": 90.172,
+     "score": 0.861,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "della",
+     "start": 90.232,
+     "end": 91.192,
+     "score": 0.846,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "linguistica",
+     "start": 91.252,
+     "end": 91.913,
+     "score": 0.866,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 91.933,
+     "end": 91.953,
+     "score": 0.261,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dei",
+     "start": 91.993,
+     "end": 92.113,
+     "score": 0.721,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "concetti",
+     "start": 92.153,
+     "end": 92.593,
+     "score": 0.969,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 92.653,
+     "end": 92.733,
+     "score": 0.32,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 92.793,
+     "end": 92.853,
+     "score": 0.798,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "costituiscono",
+     "start": 92.893,
+     "end": 93.773,
+     "score": 0.899,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 93.853,
+     "end": 94.174,
+     "score": 0.951,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "come",
+     "start": 94.594,
+     "end": 94.754,
+     "score": 0.943,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "idea",
+     "start": 94.774,
+     "end": 95.014,
+     "score": 0.575,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "generale",
+     "start": 95.054,
+     "end": 95.694,
+     "score": 0.841,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 96.915,
+     "end": 96.975,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prende",
+     "start": 97.035,
+     "end": 97.435,
+     "score": 0.931,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "come",
+     "start": 97.515,
+     "end": 97.815,
+     "score": 0.989,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "presupposto",
+     "start": 98.875,
+     "end": 99.576,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 99.636,
+     "end": 99.696,
+     "score": 0.702,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 99.756,
+     "end": 100.096,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 100.196,
+     "end": 100.436,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 102.757,
+     "end": 103.237,
+     "score": 0.966,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 103.357,
+     "end": 103.957,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 104.117,
+     "end": 104.337,
+     "score": 0.802,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 104.437,
+     "end": 104.577,
+     "score": 0.883,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "categoria",
+     "start": 104.617,
+     "end": 105.338,
+     "score": 0.925,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 105.418,
+     "end": 105.478,
+     "score": 0.408,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05543154624423811,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 106.267,
+   "end": 115.736,
+   "text": " espressione secondaria rispetto allo scritto, ovvero una categoria meno degna di attenzione.",
+   "words": [
+    {
+     "word": "espressione",
+     "start": 106.267,
+     "end": 107.088,
+     "score": 0.852,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "secondaria",
+     "start": 107.228,
+     "end": 107.889,
+     "score": 0.74,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rispetto",
+     "start": 107.909,
+     "end": 108.269,
+     "score": 0.804,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "allo",
+     "start": 108.309,
+     "end": 108.489,
+     "score": 0.887,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scritto,",
+     "start": 108.549,
+     "end": 109.09,
+     "score": 0.848,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 109.11,
+     "end": 109.57,
+     "score": 0.773,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 111.572,
+     "end": 111.692,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "categoria",
+     "start": 111.752,
+     "end": 112.573,
+     "score": 0.829,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "meno",
+     "start": 112.833,
+     "end": 113.294,
+     "score": 0.968,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "degna",
+     "start": 114.455,
+     "end": 114.795,
+     "score": 0.862,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 114.835,
+     "end": 114.915,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "attenzione.",
+     "start": 114.955,
+     "end": 115.736,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.06435210476147718,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 117.377,
+   "end": 130.99,
+   "text": "Quindi Boghera pone l'attenzione sul fatto che le grammatiche diano un'immagine della lingua che non è veritiera,",
+   "words": [
+    {
+     "word": "Quindi",
+     "start": 117.377,
+     "end": 117.818,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Boghera",
+     "start": 119.399,
+     "end": 119.76,
+     "score": 0.785,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "pone",
+     "start": 120.3,
+     "end": 120.5,
+     "score": 0.903,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'attenzione",
+     "start": 120.58,
+     "end": 121.261,
+     "score": 0.879,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sul",
+     "start": 121.361,
+     "end": 121.521,
+     "score": 0.815,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 121.561,
+     "end": 121.801,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 121.861,
+     "end": 121.962,
+     "score": 0.688,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 122.022,
+     "end": 122.102,
+     "score": 0.689,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "grammatiche",
+     "start": 122.162,
+     "end": 123.043,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diano",
+     "start": 123.663,
+     "end": 124.124,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un'immagine",
+     "start": 125.765,
+     "end": 126.566,
+     "score": 0.903,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "della",
+     "start": 127.627,
+     "end": 127.867,
+     "score": 0.945,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lingua",
+     "start": 127.907,
+     "end": 128.367,
+     "score": 0.761,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 128.468,
+     "end": 128.568,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 128.628,
+     "end": 128.768,
+     "score": 0.782,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 128.848,
+     "end": 128.968,
+     "score": 0.98,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "veritiera,",
+     "start": 130.309,
+     "end": 130.99,
+     "score": 0.79,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.06435210476147718,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 131.563,
+   "end": 160.148,
+   "text": " in quanto formano una lingua decontestualizzata perché prendono tutti esempi estrapolati dalla lingua standard che fondamentalmente nessuno usa alla fine e quindi relegano il parlato in una posizione marginale mentre invece il parlato anche se apparentemente non sembra che segua delle regole logiche segue delle",
+   "words": [
+    {
+     "word": "in",
+     "start": 131.563,
+     "end": 131.623,
+     "score": 0.561,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quanto",
+     "start": 131.663,
+     "end": 133.003,
+     "score": 0.736,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "formano",
+     "start": 133.063,
+     "end": 133.463,
+     "score": 0.727,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 133.523,
+     "end": 133.663,
+     "score": 0.953,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lingua",
+     "start": 133.723,
+     "end": 134.323,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "decontestualizzata",
+     "start": 134.524,
+     "end": 135.964,
+     "score": 0.938,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 136.524,
+     "end": 136.784,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prendono",
+     "start": 136.864,
+     "end": 137.284,
+     "score": 0.712,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutti",
+     "start": 137.324,
+     "end": 137.564,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esempi",
+     "start": 137.604,
+     "end": 138.384,
+     "score": 0.966,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "estrapolati",
+     "start": 139.824,
+     "end": 140.525,
+     "score": 0.831,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dalla",
+     "start": 140.585,
+     "end": 140.865,
+     "score": 0.692,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lingua",
+     "start": 140.905,
+     "end": 141.225,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "standard",
+     "start": 141.265,
+     "end": 142.065,
+     "score": 0.919,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 142.085,
+     "end": 142.145,
+     "score": 0.039,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fondamentalmente",
+     "start": 142.245,
+     "end": 143.105,
+     "score": 0.894,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nessuno",
+     "start": 143.165,
+     "end": 143.545,
+     "score": 0.857,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "usa",
+     "start": 143.745,
+     "end": 143.885,
+     "score": 0.961,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "alla",
+     "start": 143.905,
+     "end": 144.125,
+     "score": 0.575,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fine",
+     "start": 144.205,
+     "end": 144.485,
+     "score": 0.938,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 145.225,
+     "end": 145.285,
+     "score": 0.716,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 145.405,
+     "end": 145.885,
+     "score": 0.905,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "relegano",
+     "start": 147.846,
+     "end": 148.366,
+     "score": 0.787,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 148.406,
+     "end": 148.466,
+     "score": 0.49,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 148.526,
+     "end": 149.166,
+     "score": 0.988,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 149.326,
+     "end": 149.426,
+     "score": 0.792,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 149.446,
+     "end": 149.726,
+     "score": 0.827,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "posizione",
+     "start": 150.766,
+     "end": 151.566,
+     "score": 0.915,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "marginale",
+     "start": 151.966,
+     "end": 152.707,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mentre",
+     "start": 153.107,
+     "end": 153.387,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "invece",
+     "start": 153.447,
+     "end": 154.007,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 154.207,
+     "end": 154.287,
+     "score": 0.516,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 154.347,
+     "end": 155.007,
+     "score": 0.942,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "anche",
+     "start": 155.207,
+     "end": 155.447,
+     "score": 0.807,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "se",
+     "start": 155.527,
+     "end": 155.627,
+     "score": 0.807,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "apparentemente",
+     "start": 155.647,
+     "end": 156.507,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 156.567,
+     "end": 156.707,
+     "score": 0.765,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sembra",
+     "start": 156.787,
+     "end": 157.127,
+     "score": 0.808,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 157.147,
+     "end": 157.207,
+     "score": 0.057,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "segua",
+     "start": 157.327,
+     "end": 157.567,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "delle",
+     "start": 157.607,
+     "end": 157.827,
+     "score": 0.803,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 157.867,
+     "end": 158.187,
+     "score": 0.618,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "logiche",
+     "start": 158.308,
+     "end": 158.888,
+     "score": 0.803,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "segue",
+     "start": 159.448,
+     "end": 159.748,
+     "score": 0.697,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "delle",
+     "start": 159.808,
+     "end": 160.148,
+     "score": 0.62,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.055528429026405014,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 162.267,
+   "end": 178.364,
+   "text": " modalità ottimali per la sua trasmissione, che non sono naturalmente quelle dello scritto perché il canale è diverso, però sono le modalità migliori attraverso le quali può esprimere e veicolare i suoi concetti che vuole.",
+   "words": [
+    {
+     "word": "modalità",
+     "start": 162.267,
+     "end": 164.189,
+     "score": 0.1,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ottimali",
+     "start": 164.229,
+     "end": 164.97,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 165.09,
+     "end": 165.21,
+     "score": 0.622,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 165.27,
+     "end": 165.33,
+     "score": 0.986,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sua",
+     "start": 165.39,
+     "end": 165.51,
+     "score": 0.969,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "trasmissione,",
+     "start": 165.591,
+     "end": 166.431,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 166.492,
+     "end": 166.592,
+     "score": 0.646,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 166.652,
+     "end": 166.772,
+     "score": 0.777,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 166.832,
+     "end": 167.052,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "naturalmente",
+     "start": 167.132,
+     "end": 167.773,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quelle",
+     "start": 167.833,
+     "end": 168.053,
+     "score": 0.571,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dello",
+     "start": 168.073,
+     "end": 168.313,
+     "score": 0.775,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scritto",
+     "start": 168.354,
+     "end": 168.774,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 168.834,
+     "end": 169.134,
+     "score": 0.865,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 169.575,
+     "end": 169.655,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "canale",
+     "start": 169.715,
+     "end": 170.075,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 170.095,
+     "end": 170.115,
+     "score": 0.411,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diverso,",
+     "start": 170.196,
+     "end": 170.816,
+     "score": 0.942,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "però",
+     "start": 171.257,
+     "end": 171.557,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 171.757,
+     "end": 172.017,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 172.098,
+     "end": 172.218,
+     "score": 0.982,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modalità",
+     "start": 172.778,
+     "end": 173.299,
+     "score": 0.951,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "migliori",
+     "start": 173.419,
+     "end": 174.1,
+     "score": 0.711,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "attraverso",
+     "start": 174.28,
+     "end": 174.841,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 174.901,
+     "end": 174.981,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quali",
+     "start": 175.041,
+     "end": 175.321,
+     "score": 0.846,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "può",
+     "start": 175.361,
+     "end": 175.481,
+     "score": 0.289,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esprimere",
+     "start": 175.521,
+     "end": 176.062,
+     "score": 0.799,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 176.082,
+     "end": 176.102,
+     "score": 0.006,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "veicolare",
+     "start": 176.142,
+     "end": 176.703,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 176.863,
+     "end": 176.903,
+     "score": 0.527,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "suoi",
+     "start": 176.963,
+     "end": 177.143,
+     "score": 0.746,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "concetti",
+     "start": 177.263,
+     "end": 177.764,
+     "score": 0.973,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 177.804,
+     "end": 177.924,
+     "score": 0.769,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vuole.",
+     "start": 178.024,
+     "end": 178.364,
+     "score": 0.782,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.07932291785875956,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 179.686,
+   "end": 181.568,
+   "text": "Infatti vediamo che il parlato è",
+   "words": [
+    {
+     "word": "Infatti",
+     "start": 179.686,
+     "end": 180.186,
+     "score": 0.557,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vediamo",
+     "start": 180.246,
+     "end": 180.667,
+     "score": 0.627,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 180.727,
+     "end": 180.787,
+     "score": 0.005,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 180.807,
+     "end": 180.867,
+     "score": 0.255,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 180.927,
+     "end": 181.528,
+     "score": 0.638,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 181.548,
+     "end": 181.568,
+     "score": 0.0,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.07932291785875956,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 183.353,
+   "end": 210.605,
+   "text": " comunque una dimensione regolata in un certo senso da regole anche tacite tra gli interlocutori come ad esempio i turni che sono le unità minime unità minime di studio di parlato che scandiscono la conversazione e il dialogo e che implicitamente fanno sì che gli utenti sottostiano delle regole ovvero",
+   "words": [
+    {
+     "word": "comunque",
+     "start": 183.353,
+     "end": 184.013,
+     "score": 0.866,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 184.234,
+     "end": 184.574,
+     "score": 0.957,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dimensione",
+     "start": 184.734,
+     "end": 185.614,
+     "score": 0.968,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regolata",
+     "start": 187.035,
+     "end": 187.715,
+     "score": 0.926,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 187.855,
+     "end": 187.955,
+     "score": 0.552,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 187.995,
+     "end": 188.035,
+     "score": 0.259,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "certo",
+     "start": 188.095,
+     "end": 188.375,
+     "score": 0.671,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "senso",
+     "start": 188.455,
+     "end": 188.755,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 188.795,
+     "end": 188.976,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 189.056,
+     "end": 189.436,
+     "score": 0.819,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "anche",
+     "start": 189.456,
+     "end": 189.756,
+     "score": 0.693,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tacite",
+     "start": 189.876,
+     "end": 190.416,
+     "score": 0.849,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tra",
+     "start": 190.516,
+     "end": 190.616,
+     "score": 0.942,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 190.696,
+     "end": 190.796,
+     "score": 0.636,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interlocutori",
+     "start": 190.816,
+     "end": 191.697,
+     "score": 0.926,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "come",
+     "start": 192.197,
+     "end": 192.357,
+     "score": 0.855,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 192.397,
+     "end": 192.497,
+     "score": 0.762,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esempio",
+     "start": 192.537,
+     "end": 192.837,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 192.917,
+     "end": 192.957,
+     "score": 0.478,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "turni",
+     "start": 192.997,
+     "end": 193.498,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 193.998,
+     "end": 194.098,
+     "score": 0.879,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 194.238,
+     "end": 194.458,
+     "score": 0.949,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 194.518,
+     "end": 194.578,
+     "score": 0.766,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "unità",
+     "start": 194.618,
+     "end": 194.918,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "minime",
+     "start": 195.058,
+     "end": 195.698,
+     "score": 0.845,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "unità",
+     "start": 196.979,
+     "end": 197.279,
+     "score": 0.785,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "minime",
+     "start": 197.359,
+     "end": 197.679,
+     "score": 0.768,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 197.759,
+     "end": 197.839,
+     "score": 0.664,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio",
+     "start": 197.919,
+     "end": 198.38,
+     "score": 0.94,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 198.8,
+     "end": 198.98,
+     "score": 0.57,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 199.04,
+     "end": 199.72,
+     "score": 0.783,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 200.701,
+     "end": 200.801,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scandiscono",
+     "start": 200.861,
+     "end": 201.501,
+     "score": 0.89,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 201.581,
+     "end": 201.661,
+     "score": 0.776,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 201.701,
+     "end": 202.461,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 202.481,
+     "end": 202.501,
+     "score": 0.014,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 202.541,
+     "end": 202.621,
+     "score": 0.373,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dialogo",
+     "start": 202.681,
+     "end": 203.262,
+     "score": 0.719,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 203.642,
+     "end": 203.682,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 203.742,
+     "end": 203.822,
+     "score": 0.452,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "implicitamente",
+     "start": 203.842,
+     "end": 204.982,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fanno",
+     "start": 206.183,
+     "end": 206.443,
+     "score": 0.743,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sì",
+     "start": 206.543,
+     "end": 206.663,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 206.763,
+     "end": 206.903,
+     "score": 0.686,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 206.963,
+     "end": 207.063,
+     "score": 0.721,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "utenti",
+     "start": 207.083,
+     "end": 207.744,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sottostiano",
+     "start": 208.564,
+     "end": 209.244,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "delle",
+     "start": 209.324,
+     "end": 209.564,
+     "score": 0.987,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 209.624,
+     "end": 210.105,
+     "score": 0.927,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 210.185,
+     "end": 210.605,
+     "score": 0.834,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.07652243752128039,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 212.666,
+   "end": 218.108,
+   "text": " Sono scanditi da punti dove è possibile cedere la parola.",
+   "words": [
+    {
+     "word": "Sono",
+     "start": 212.666,
+     "end": 212.846,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scanditi",
+     "start": 212.906,
+     "end": 213.346,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 213.406,
+     "end": 213.526,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "punti",
+     "start": 213.666,
+     "end": 214.266,
+     "score": 0.96,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dove",
+     "start": 215.707,
+     "end": 216.047,
+     "score": 0.826,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 216.107,
+     "end": 216.147,
+     "score": 0.464,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "possibile",
+     "start": 216.287,
+     "end": 216.907,
+     "score": 0.933,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cedere",
+     "start": 216.927,
+     "end": 217.408,
+     "score": 0.629,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 217.468,
+     "end": 217.568,
+     "score": 0.776,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parola.",
+     "start": 217.628,
+     "end": 218.108,
+     "score": 0.761,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1312881126636412,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 218.928,
+   "end": 219.588,
+   "text": "Che si chiamano?",
+   "words": [
+    {
+     "word": "Che",
+     "start": 218.928,
+     "end": 219.008,
+     "score": 0.226,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 219.048,
+     "end": 219.108,
+     "score": 0.394,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "chiamano?",
+     "start": 219.168,
+     "end": 219.588,
+     "score": 0.627,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1312881126636412,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 221.309,
+   "end": 225.551,
+   "text": "Si ricorda?",
+   "words": [
+    {
+     "word": "Si",
+     "start": 221.309,
+     "end": 222.95,
+     "score": 0.804,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ricorda?",
+     "start": 224.69,
+     "end": 225.551,
+     "score": 0.647,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1312881126636412,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 226.111,
+   "end": 227.251,
+   "text": "Punti di rilevanza.",
+   "words": [
+    {
+     "word": "Punti",
+     "start": 226.111,
+     "end": 226.391,
+     "score": 0.858,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 226.451,
+     "end": 226.511,
+     "score": 0.738,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rilevanza.",
+     "start": 226.551,
+     "end": 227.251,
+     "score": 0.698,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1312881126636412,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 227.371,
+   "end": 227.892,
+   "text": "Transizionale.",
+   "words": [
+    {
+     "word": "Transizionale.",
+     "start": 227.371,
+     "end": 227.892,
+     "score": 0.332,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1312881126636412,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 229.852,
+   "end": 243.65,
+   "text": " punti di rilevanza transizionale in cui appunto l'interlocutore capisce e potrebbe prendere la parola poi ci sono molte altre regole come ad esempio la regola che",
+   "words": [
+    {
+     "word": "punti",
+     "start": 229.852,
+     "end": 230.673,
+     "score": 0.412,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 230.693,
+     "end": 230.733,
+     "score": 0.1,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rilevanza",
+     "start": 230.793,
+     "end": 231.334,
+     "score": 0.505,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "transizionale",
+     "start": 231.414,
+     "end": 232.255,
+     "score": 0.783,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 232.275,
+     "end": 232.315,
+     "score": 0.004,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 232.495,
+     "end": 232.776,
+     "score": 0.931,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "appunto",
+     "start": 233.096,
+     "end": 233.977,
+     "score": 0.928,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'interlocutore",
+     "start": 234.218,
+     "end": 234.999,
+     "score": 0.863,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "capisce",
+     "start": 235.019,
+     "end": 235.599,
+     "score": 0.856,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 235.699,
+     "end": 235.739,
+     "score": 0.599,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "potrebbe",
+     "start": 235.8,
+     "end": 236.18,
+     "score": 0.786,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prendere",
+     "start": 236.24,
+     "end": 236.641,
+     "score": 0.477,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 236.721,
+     "end": 236.781,
+     "score": 0.759,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parola",
+     "start": 236.841,
+     "end": 237.362,
+     "score": 0.851,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "poi",
+     "start": 238.022,
+     "end": 238.383,
+     "score": 0.882,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ci",
+     "start": 238.563,
+     "end": 238.643,
+     "score": 0.956,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 238.743,
+     "end": 239.164,
+     "score": 0.964,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "molte",
+     "start": 239.404,
+     "end": 239.664,
+     "score": 0.756,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "altre",
+     "start": 239.705,
+     "end": 239.985,
+     "score": 0.76,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 240.065,
+     "end": 240.486,
+     "score": 0.899,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "come",
+     "start": 240.566,
+     "end": 240.726,
+     "score": 0.861,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 240.786,
+     "end": 240.886,
+     "score": 0.668,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esempio",
+     "start": 240.926,
+     "end": 241.587,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 242.889,
+     "end": 242.989,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regola",
+     "start": 243.029,
+     "end": 243.369,
+     "score": 0.834,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 243.549,
+     "end": 243.65,
+     "score": 0.52,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08776595839794646,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 245.451,
+   "end": 259.468,
+   "text": " Al primo punto di rilevanza transizionale il parlante deve fare in modo di cedere la parola a un altro interlocutore che continua il discorso o comunque gli risponda.",
+   "words": [
+    {
+     "word": "Al",
+     "start": 245.451,
+     "end": 245.551,
+     "score": 0.937,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "primo",
+     "start": 245.611,
+     "end": 245.831,
+     "score": 0.814,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "punto",
+     "start": 245.911,
+     "end": 246.151,
+     "score": 0.816,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 246.212,
+     "end": 246.312,
+     "score": 0.462,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rilevanza",
+     "start": 246.392,
+     "end": 246.892,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "transizionale",
+     "start": 246.952,
+     "end": 248.014,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 249.456,
+     "end": 249.516,
+     "score": 0.671,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlante",
+     "start": 249.596,
+     "end": 250.096,
+     "score": 0.88,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "deve",
+     "start": 250.157,
+     "end": 250.437,
+     "score": 0.532,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fare",
+     "start": 250.477,
+     "end": 250.637,
+     "score": 0.551,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 250.697,
+     "end": 250.757,
+     "score": 0.944,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modo",
+     "start": 250.817,
+     "end": 251.138,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 251.739,
+     "end": 252.74,
+     "score": 0.941,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cedere",
+     "start": 253.321,
+     "end": 253.661,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 253.741,
+     "end": 253.821,
+     "score": 0.885,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parola",
+     "start": 253.861,
+     "end": 254.402,
+     "score": 0.899,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 254.542,
+     "end": 254.602,
+     "score": 0.647,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 254.642,
+     "end": 254.722,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "altro",
+     "start": 254.742,
+     "end": 255.003,
+     "score": 0.802,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interlocutore",
+     "start": 255.043,
+     "end": 255.984,
+     "score": 0.871,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 256.605,
+     "end": 256.765,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "continua",
+     "start": 256.985,
+     "end": 257.326,
+     "score": 0.638,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 257.426,
+     "end": 257.466,
+     "score": 0.074,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "discorso",
+     "start": 257.506,
+     "end": 258.107,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "o",
+     "start": 258.147,
+     "end": 258.167,
+     "score": 0.024,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 258.267,
+     "end": 258.627,
+     "score": 0.712,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 258.667,
+     "end": 258.788,
+     "score": 0.423,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "risponda.",
+     "start": 258.828,
+     "end": 259.468,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.04547384365097336,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 260.83,
+   "end": 285.443,
+   "text": " e poi in assenza di un interlocutore una persona si può dire volontaria per continuare il discorso oppure in assenza sia di una persona a cui è incaricata di continuare il discorso sia di una persona che è volontaria per continuarlo",
+   "words": [
+    {
+     "word": "e",
+     "start": 260.83,
+     "end": 260.89,
+     "score": 0.326,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "poi",
+     "start": 260.97,
+     "end": 261.19,
+     "score": 0.944,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 261.29,
+     "end": 261.37,
+     "score": 0.625,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "assenza",
+     "start": 261.41,
+     "end": 261.97,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 262.03,
+     "end": 262.07,
+     "score": 0.55,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 262.11,
+     "end": 262.23,
+     "score": 0.493,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interlocutore",
+     "start": 262.27,
+     "end": 263.691,
+     "score": 0.881,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 264.772,
+     "end": 264.892,
+     "score": 0.831,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "persona",
+     "start": 264.952,
+     "end": 265.652,
+     "score": 0.905,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 265.912,
+     "end": 265.992,
+     "score": 0.81,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "può",
+     "start": 266.072,
+     "end": 266.333,
+     "score": 0.886,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dire",
+     "start": 271.896,
+     "end": 272.116,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "volontaria",
+     "start": 272.196,
+     "end": 272.916,
+     "score": 0.763,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 273.016,
+     "end": 273.216,
+     "score": 0.793,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "continuare",
+     "start": 273.356,
+     "end": 273.797,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 273.857,
+     "end": 273.917,
+     "score": 0.473,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "discorso",
+     "start": 273.957,
+     "end": 274.717,
+     "score": 0.926,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "oppure",
+     "start": 275.698,
+     "end": 276.058,
+     "score": 0.797,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 276.098,
+     "end": 276.178,
+     "score": 0.673,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "assenza",
+     "start": 276.218,
+     "end": 276.838,
+     "score": 0.929,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 277.098,
+     "end": 277.298,
+     "score": 0.926,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 277.399,
+     "end": 277.579,
+     "score": 0.919,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 278.419,
+     "end": 278.559,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "persona",
+     "start": 278.619,
+     "end": 279.099,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 279.119,
+     "end": 279.139,
+     "score": 0.347,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 279.28,
+     "end": 279.44,
+     "score": 0.607,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 279.46,
+     "end": 279.48,
+     "score": 0.001,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "incaricata",
+     "start": 279.8,
+     "end": 280.46,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 280.52,
+     "end": 280.58,
+     "score": 0.874,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "continuare",
+     "start": 280.62,
+     "end": 281.041,
+     "score": 0.74,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 281.101,
+     "end": 281.161,
+     "score": 0.662,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "discorso",
+     "start": 281.201,
+     "end": 281.681,
+     "score": 0.902,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sia",
+     "start": 281.801,
+     "end": 281.901,
+     "score": 0.749,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 281.981,
+     "end": 282.061,
+     "score": 0.45,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 282.101,
+     "end": 282.201,
+     "score": 0.742,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "persona",
+     "start": 282.241,
+     "end": 282.701,
+     "score": 0.952,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 282.761,
+     "end": 283.722,
+     "score": 0.881,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 283.742,
+     "end": 283.762,
+     "score": 0.137,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "volontaria",
+     "start": 283.842,
+     "end": 284.422,
+     "score": 0.596,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 284.482,
+     "end": 284.622,
+     "score": 0.819,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "continuarlo",
+     "start": 284.702,
+     "end": 285.443,
+     "score": 0.864,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.06249999873718973,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 286.009,
+   "end": 290.571,
+   "text": " il parlante può continuare la sua conversazione riprendendo il turno.",
+   "words": [
+    {
+     "word": "il",
+     "start": 286.009,
+     "end": 286.889,
+     "score": 0.144,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlante",
+     "start": 286.929,
+     "end": 287.45,
+     "score": 0.466,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "può",
+     "start": 287.51,
+     "end": 287.65,
+     "score": 0.752,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "continuare",
+     "start": 287.75,
+     "end": 288.19,
+     "score": 0.726,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 288.29,
+     "end": 288.35,
+     "score": 0.773,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sua",
+     "start": 288.39,
+     "end": 288.51,
+     "score": 0.659,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 288.55,
+     "end": 289.33,
+     "score": 0.856,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "riprendendo",
+     "start": 289.35,
+     "end": 289.99,
+     "score": 0.783,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 290.01,
+     "end": 290.05,
+     "score": 0.212,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "turno.",
+     "start": 290.17,
+     "end": 290.571,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08170114121806453,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 291.411,
+   "end": 313.378,
+   "text": "E poi un'altra regola che scandisce un'altra unità di interesse del parlato che è stata studiata sono le mosse comunicative, ovvero un insieme di azioni che si rispettano durante una conversazione.",
+   "words": [
+    {
+     "word": "E",
+     "start": 291.411,
+     "end": 291.451,
+     "score": 0.875,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "poi",
+     "start": 291.591,
+     "end": 291.971,
+     "score": 0.958,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un'altra",
+     "start": 292.711,
+     "end": 293.411,
+     "score": 0.866,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regola",
+     "start": 294.852,
+     "end": 295.272,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 295.332,
+     "end": 295.432,
+     "score": 0.956,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "scandisce",
+     "start": 295.492,
+     "end": 296.112,
+     "score": 0.919,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un'altra",
+     "start": 296.392,
+     "end": 297.233,
+     "score": 0.52,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "unità",
+     "start": 297.273,
+     "end": 297.733,
+     "score": 0.819,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 297.853,
+     "end": 297.933,
+     "score": 0.682,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interesse",
+     "start": 297.953,
+     "end": 298.633,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "del",
+     "start": 298.653,
+     "end": 298.713,
+     "score": 0.15,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato",
+     "start": 298.813,
+     "end": 299.353,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 299.373,
+     "end": 299.513,
+     "score": 0.202,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 299.533,
+     "end": 299.553,
+     "score": 0.042,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stata",
+     "start": 299.613,
+     "end": 299.894,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studiata",
+     "start": 299.954,
+     "end": 300.554,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 301.094,
+     "end": 301.294,
+     "score": 0.89,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 301.354,
+     "end": 301.414,
+     "score": 0.296,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mosse",
+     "start": 301.474,
+     "end": 301.754,
+     "score": 0.759,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunicative,",
+     "start": 301.814,
+     "end": 302.734,
+     "score": 0.78,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 303.595,
+     "end": 304.195,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 305.595,
+     "end": 305.675,
+     "score": 0.792,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "insieme",
+     "start": 305.715,
+     "end": 306.216,
+     "score": 0.788,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 306.316,
+     "end": 306.516,
+     "score": 0.898,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "azioni",
+     "start": 307.396,
+     "end": 308.076,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 310.757,
+     "end": 310.877,
+     "score": 0.779,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 310.977,
+     "end": 311.057,
+     "score": 0.979,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rispettano",
+     "start": 311.117,
+     "end": 311.797,
+     "score": 0.797,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "durante",
+     "start": 311.857,
+     "end": 312.178,
+     "score": 0.875,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 312.218,
+     "end": 312.338,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione.",
+     "start": 312.378,
+     "end": 313.378,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08170114121806453,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 314.02,
+   "end": 342.297,
+   "text": " che spesso sono un insieme di azioni contemplate in una conversione che si definiscono proprio per la loro sequenzialità e per il fatto di definirsi sulla base di quelle che vengono prima e quelle che vengono dopo ad esempio a un saluto sappiamo che corrisponderà un altro saluto",
+   "words": [
+    {
+     "word": "che",
+     "start": 314.02,
+     "end": 314.14,
+     "score": 0.659,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "spesso",
+     "start": 314.18,
+     "end": 316.762,
+     "score": 0.922,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "sono",
+     "start": 317.062,
+     "end": 317.802,
+     "score": 0.586,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "un",
+     "start": 319.403,
+     "end": 319.503,
+     "score": 0.798,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "insieme",
+     "start": 319.523,
+     "end": 319.844,
+     "score": 0.75,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 319.904,
+     "end": 319.944,
+     "score": 0.685,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "azioni",
+     "start": 319.964,
+     "end": 320.604,
+     "score": 0.35,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contemplate",
+     "start": 320.704,
+     "end": 321.444,
+     "score": 0.932,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 321.525,
+     "end": 321.585,
+     "score": 0.291,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 321.605,
+     "end": 321.705,
+     "score": 0.504,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversione",
+     "start": 321.745,
+     "end": 324.046,
+     "score": 0.668,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "che",
+     "start": 324.186,
+     "end": 324.306,
+     "score": 0.803,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 324.426,
+     "end": 324.526,
+     "score": 0.915,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "definiscono",
+     "start": 324.606,
+     "end": 325.467,
+     "score": 0.863,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "proprio",
+     "start": 325.527,
+     "end": 325.807,
+     "score": 0.795,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 325.887,
+     "end": 326.007,
+     "score": 0.943,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 326.067,
+     "end": 326.147,
+     "score": 0.763,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "loro",
+     "start": 326.207,
+     "end": 326.668,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sequenzialità",
+     "start": 327.128,
+     "end": 328.148,
+     "score": 0.798,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 328.689,
+     "end": 328.749,
+     "score": 0.811,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 328.809,
+     "end": 328.929,
+     "score": 0.83,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 328.989,
+     "end": 329.069,
+     "score": 0.89,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 329.169,
+     "end": 329.609,
+     "score": 0.877,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 329.709,
+     "end": 332.471,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "definirsi",
+     "start": 332.531,
+     "end": 333.151,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sulla",
+     "start": 333.231,
+     "end": 333.452,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "base",
+     "start": 333.532,
+     "end": 333.992,
+     "score": 0.632,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 334.032,
+     "end": 334.092,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quelle",
+     "start": 334.132,
+     "end": 334.352,
+     "score": 0.779,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 334.412,
+     "end": 334.492,
+     "score": 0.838,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vengono",
+     "start": 334.552,
+     "end": 334.852,
+     "score": 0.814,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prima",
+     "start": 334.972,
+     "end": 335.173,
+     "score": 0.584,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 335.193,
+     "end": 335.213,
+     "score": 0.131,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quelle",
+     "start": 335.253,
+     "end": 335.453,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 335.473,
+     "end": 335.573,
+     "score": 0.104,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vengono",
+     "start": 335.593,
+     "end": 335.953,
+     "score": 0.82,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dopo",
+     "start": 336.013,
+     "end": 336.253,
+     "score": 0.811,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 336.293,
+     "end": 336.413,
+     "score": 0.488,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esempio",
+     "start": 336.453,
+     "end": 336.914,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 337.974,
+     "end": 338.034,
+     "score": 0.707,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 338.054,
+     "end": 338.114,
+     "score": 0.198,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "saluto",
+     "start": 338.214,
+     "end": 338.875,
+     "score": 0.939,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sappiamo",
+     "start": 339.275,
+     "end": 339.835,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 339.935,
+     "end": 340.176,
+     "score": 0.796,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "corrisponderà",
+     "start": 340.656,
+     "end": 341.316,
+     "score": 0.746,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 341.396,
+     "end": 341.456,
+     "score": 0.554,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "altro",
+     "start": 341.496,
+     "end": 341.716,
+     "score": 0.79,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "saluto",
+     "start": 341.817,
+     "end": 342.297,
+     "score": 0.851,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.10422091755188173,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 342.936,
+   "end": 347.418,
+   "text": " ad un favore o comunque un ringraziamento eccetera.",
+   "words": [
+    {
+     "word": "ad",
+     "start": 342.936,
+     "end": 343.056,
+     "score": 0.562,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 343.156,
+     "end": 344.437,
+     "score": 0.73,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "favore",
+     "start": 344.497,
+     "end": 344.997,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "o",
+     "start": 345.017,
+     "end": 345.037,
+     "score": 0.009,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 345.197,
+     "end": 345.577,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 345.617,
+     "end": 345.697,
+     "score": 0.517,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ringraziamento",
+     "start": 345.757,
+     "end": 346.778,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "eccetera.",
+     "start": 346.838,
+     "end": 347.418,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.09283088563996203,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 347.478,
+   "end": 356.802,
+   "text": "Quindi sono comunque regole che condizionano il parlato.",
+   "words": [
+    {
+     "word": "Quindi",
+     "start": 347.478,
+     "end": 347.858,
+     "score": 0.892,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 348.338,
+     "end": 348.538,
+     "score": 0.963,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 348.618,
+     "end": 349.039,
+     "score": 0.849,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 349.119,
+     "end": 349.599,
+     "score": 0.839,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 351.28,
+     "end": 351.52,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "condizionano",
+     "start": 351.64,
+     "end": 352.58,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 356.022,
+     "end": 356.102,
+     "score": 0.959,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parlato.",
+     "start": 356.162,
+     "end": 356.802,
+     "score": 0.853,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.09283088563996203,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 359.263,
+   "end": 361.064,
+   "text": "Senta, come definiamo contesto?",
+   "words": [
+    {
+     "word": "Senta,",
+     "start": 359.263,
+     "end": 359.523,
+     "score": 0.462,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "come",
+     "start": 359.623,
+     "end": 359.803,
+     "score": 0.773,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "definiamo",
+     "start": 359.863,
+     "end": 360.404,
+     "score": 0.838,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "contesto?",
+     "start": 360.464,
+     "end": 361.064,
+     "score": 0.872,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.09283088563996203,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 361.124,
+   "end": 362.084,
+   "text": "Cos'è il contesto?",
+   "words": [
+    {
+     "word": "Cos'è",
+     "start": 361.124,
+     "end": 361.364,
+     "score": 0.601,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 361.464,
+     "end": 361.504,
+     "score": 0.154,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "contesto?",
+     "start": 361.524,
+     "end": 362.084,
+     "score": 0.662,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.09283088563996203,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 362.885,
+   "end": 369.788,
+   "text": "Allora, il contesto è l'insieme degli elementi extralinguistici che condiziona",
+   "words": [
+    {
+     "word": "Allora,",
+     "start": 362.885,
+     "end": 363.165,
+     "score": 0.361,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 363.185,
+     "end": 363.225,
+     "score": 0.004,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contesto",
+     "start": 363.285,
+     "end": 364.125,
+     "score": 0.956,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 364.365,
+     "end": 364.525,
+     "score": 0.982,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'insieme",
+     "start": 365.426,
+     "end": 365.986,
+     "score": 0.941,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "degli",
+     "start": 366.086,
+     "end": 366.346,
+     "score": 0.762,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "elementi",
+     "start": 366.386,
+     "end": 366.906,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "extralinguistici",
+     "start": 366.986,
+     "end": 368.247,
+     "score": 0.881,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 368.367,
+     "end": 368.547,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "condiziona",
+     "start": 368.947,
+     "end": 369.788,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.09283088563996203,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 372.364,
+   "end": 384.715,
+   "text": " un enunciato o comunque fornisce l'ambiente in cui un enunciato prende significato.",
+   "words": [
+    {
+     "word": "un",
+     "start": 372.364,
+     "end": 372.424,
+     "score": 0.532,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "enunciato",
+     "start": 372.484,
+     "end": 373.265,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "o",
+     "start": 373.725,
+     "end": 373.765,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 373.865,
+     "end": 374.486,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fornisce",
+     "start": 377.288,
+     "end": 378.169,
+     "score": 0.929,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'ambiente",
+     "start": 378.429,
+     "end": 380.091,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 380.131,
+     "end": 380.211,
+     "score": 0.746,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 380.291,
+     "end": 380.671,
+     "score": 0.948,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 381.192,
+     "end": 381.272,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "enunciato",
+     "start": 381.312,
+     "end": 381.892,
+     "score": 0.813,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prende",
+     "start": 382.092,
+     "end": 384.034,
+     "score": 0.561,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "significato.",
+     "start": 384.094,
+     "end": 384.715,
+     "score": 0.529,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.051992186307907105,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 387.773,
+   "end": 412.806,
+   "text": " quindi diciamo che lo condiziona all'interno del quale assume un significato un enunciato ovvero tutta una serie di referenti di valori extralinguistici che fanno in modo che l'enunciato stesso abbia significato perché",
+   "words": [
+    {
+     "word": "quindi",
+     "start": 387.773,
+     "end": 388.153,
+     "score": 0.665,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo",
+     "start": 388.513,
+     "end": 388.954,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 389.074,
+     "end": 389.314,
+     "score": 0.783,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 390.414,
+     "end": 390.495,
+     "score": 0.825,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "condiziona",
+     "start": 390.555,
+     "end": 391.715,
+     "score": 0.86,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "all'interno",
+     "start": 391.815,
+     "end": 394.957,
+     "score": 0.778,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "del",
+     "start": 394.997,
+     "end": 395.197,
+     "score": 0.468,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "quale",
+     "start": 395.257,
+     "end": 395.797,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "assume",
+     "start": 396.858,
+     "end": 397.218,
+     "score": 0.835,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 397.258,
+     "end": 397.318,
+     "score": 0.612,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "significato",
+     "start": 397.378,
+     "end": 398.059,
+     "score": 0.795,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 398.079,
+     "end": 398.159,
+     "score": 0.353,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "enunciato",
+     "start": 398.199,
+     "end": 398.899,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 399.639,
+     "end": 400.04,
+     "score": 0.853,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutta",
+     "start": 400.12,
+     "end": 400.32,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 400.36,
+     "end": 400.5,
+     "score": 0.743,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "serie",
+     "start": 400.58,
+     "end": 400.88,
+     "score": 0.777,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 400.98,
+     "end": 401.16,
+     "score": 0.931,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "referenti",
+     "start": 401.961,
+     "end": 402.861,
+     "score": 0.994,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 405.422,
+     "end": 405.703,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "valori",
+     "start": 406.323,
+     "end": 406.783,
+     "score": 0.872,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "extralinguistici",
+     "start": 406.943,
+     "end": 408.204,
+     "score": 0.886,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 408.264,
+     "end": 408.384,
+     "score": 0.722,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fanno",
+     "start": 408.484,
+     "end": 408.724,
+     "score": 0.905,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 408.764,
+     "end": 408.844,
+     "score": 0.719,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modo",
+     "start": 408.904,
+     "end": 409.264,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 409.405,
+     "end": 409.585,
+     "score": 0.809,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'enunciato",
+     "start": 409.605,
+     "end": 410.245,
+     "score": 0.772,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stesso",
+     "start": 410.345,
+     "end": 410.805,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "abbia",
+     "start": 410.905,
+     "end": 411.225,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "significato",
+     "start": 411.726,
+     "end": 412.466,
+     "score": 0.817,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 412.546,
+     "end": 412.806,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1278286594255217,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 414.641,
+   "end": 440.546,
+   "text": " è stato sottolineato varie volte in questi libri che un enunciato è appunto un discorso in un contesto e quindi per capirlo veramente è necessario comprendere tutte le variabili che lo compongono ad esempio i referenti che in un discorso vengono menzionati ovvero l'entità extralinguistica a cui questo si rifà",
+   "words": [
+    {
+     "word": "è",
+     "start": 414.641,
+     "end": 414.681,
+     "score": 0.389,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stato",
+     "start": 414.741,
+     "end": 415.121,
+     "score": 0.514,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sottolineato",
+     "start": 415.161,
+     "end": 415.821,
+     "score": 0.683,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "varie",
+     "start": 415.901,
+     "end": 416.101,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "volte",
+     "start": 416.161,
+     "end": 416.601,
+     "score": 0.851,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 417.161,
+     "end": 417.221,
+     "score": 0.797,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "questi",
+     "start": 417.261,
+     "end": 417.542,
+     "score": 0.897,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "libri",
+     "start": 417.622,
+     "end": 417.962,
+     "score": 0.932,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 418.062,
+     "end": 418.262,
+     "score": 0.416,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 419.262,
+     "end": 419.342,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "enunciato",
+     "start": 419.382,
+     "end": 420.342,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 420.502,
+     "end": 420.562,
+     "score": 0.627,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "appunto",
+     "start": 420.622,
+     "end": 421.342,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 421.882,
+     "end": 422.362,
+     "score": 0.95,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "discorso",
+     "start": 422.762,
+     "end": 423.703,
+     "score": 0.929,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 424.263,
+     "end": 424.343,
+     "score": 0.843,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 424.403,
+     "end": 424.483,
+     "score": 0.741,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contesto",
+     "start": 424.543,
+     "end": 425.143,
+     "score": 0.813,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 425.183,
+     "end": 425.243,
+     "score": 0.583,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 425.343,
+     "end": 425.663,
+     "score": 0.91,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 425.723,
+     "end": 425.863,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "capirlo",
+     "start": 425.943,
+     "end": 426.323,
+     "score": 0.872,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "veramente",
+     "start": 426.383,
+     "end": 427.203,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 427.623,
+     "end": 427.683,
+     "score": 0.729,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "necessario",
+     "start": 427.763,
+     "end": 428.524,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comprendere",
+     "start": 428.604,
+     "end": 429.284,
+     "score": 0.872,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutte",
+     "start": 429.344,
+     "end": 429.564,
+     "score": 0.827,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 429.624,
+     "end": 429.704,
+     "score": 0.695,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "variabili",
+     "start": 429.764,
+     "end": 430.464,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 430.804,
+     "end": 430.904,
+     "score": 0.73,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 430.964,
+     "end": 431.024,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "compongono",
+     "start": 431.084,
+     "end": 431.864,
+     "score": 0.89,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 431.944,
+     "end": 432.044,
+     "score": 0.911,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "esempio",
+     "start": 432.104,
+     "end": 432.644,
+     "score": 0.97,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 433.604,
+     "end": 433.664,
+     "score": 0.657,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "referenti",
+     "start": 433.704,
+     "end": 434.625,
+     "score": 0.963,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 435.545,
+     "end": 435.685,
+     "score": 0.749,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 435.725,
+     "end": 435.825,
+     "score": 0.526,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 435.845,
+     "end": 435.945,
+     "score": 0.91,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "discorso",
+     "start": 436.005,
+     "end": 436.505,
+     "score": 0.925,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vengono",
+     "start": 436.545,
+     "end": 436.905,
+     "score": 0.753,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "menzionati",
+     "start": 436.985,
+     "end": 437.665,
+     "score": 0.804,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 437.725,
+     "end": 438.025,
+     "score": 0.706,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'entità",
+     "start": 438.045,
+     "end": 438.445,
+     "score": 0.758,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "extralinguistica",
+     "start": 438.465,
+     "end": 439.505,
+     "score": 0.848,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 439.525,
+     "end": 439.545,
+     "score": 0.255,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 439.605,
+     "end": 439.726,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "questo",
+     "start": 439.786,
+     "end": 440.046,
+     "score": 0.879,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 440.166,
+     "end": 440.246,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rifà",
+     "start": 440.286,
+     "end": 440.546,
+     "score": 0.692,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05378951320703002,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 443.112,
+   "end": 450.062,
+   "text": " oppure il tempo e il luogo all'interno del quale un enunciato è inserito.",
+   "words": [
+    {
+     "word": "oppure",
+     "start": 443.112,
+     "end": 443.493,
+     "score": 0.764,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 443.693,
+     "end": 443.773,
+     "score": 0.594,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tempo",
+     "start": 443.813,
+     "end": 444.094,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 444.114,
+     "end": 444.134,
+     "score": 0.05,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 444.154,
+     "end": 444.194,
+     "score": 0.048,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "luogo",
+     "start": 444.294,
+     "end": 444.855,
+     "score": 0.78,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "all'interno",
+     "start": 445.596,
+     "end": 446.116,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "del",
+     "start": 446.176,
+     "end": 446.357,
+     "score": 0.88,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quale",
+     "start": 446.417,
+     "end": 446.717,
+     "score": 0.417,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 446.737,
+     "end": 446.797,
+     "score": 0.248,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "enunciato",
+     "start": 446.817,
+     "end": 447.518,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 447.679,
+     "end": 447.759,
+     "score": 0.937,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "inserito.",
+     "start": 449.281,
+     "end": 450.062,
+     "score": 0.931,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.10328124761581421,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 453.122,
+   "end": 476.184,
+   "text": " Tutte queste considerazioni e elementi extralinguistici hanno bisogno di varie premesse per essere colti nel modo adeguato dagli interlocutori, ovvero che in un certo senso condividano una conoscenza generale",
+   "words": [
+    {
+     "word": "Tutte",
+     "start": 453.122,
+     "end": 453.362,
+     "score": 0.513,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "queste",
+     "start": 453.463,
+     "end": 454.003,
+     "score": 0.688,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "considerazioni",
+     "start": 454.483,
+     "end": 455.564,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 455.584,
+     "end": 455.604,
+     "score": 0.003,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "elementi",
+     "start": 455.805,
+     "end": 456.926,
+     "score": 0.87,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "extralinguistici",
+     "start": 456.966,
+     "end": 458.207,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "hanno",
+     "start": 458.667,
+     "end": 458.908,
+     "score": 0.864,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "bisogno",
+     "start": 458.988,
+     "end": 459.548,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 459.668,
+     "end": 459.848,
+     "score": 0.992,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "varie",
+     "start": 460.649,
+     "end": 460.909,
+     "score": 0.702,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "premesse",
+     "start": 460.969,
+     "end": 461.59,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 461.65,
+     "end": 461.77,
+     "score": 0.988,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "essere",
+     "start": 461.83,
+     "end": 462.331,
+     "score": 0.979,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "colti",
+     "start": 463.151,
+     "end": 463.552,
+     "score": 0.911,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nel",
+     "start": 463.612,
+     "end": 463.772,
+     "score": 0.919,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modo",
+     "start": 463.832,
+     "end": 464.032,
+     "score": 0.712,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "adeguato",
+     "start": 464.072,
+     "end": 464.753,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dagli",
+     "start": 464.853,
+     "end": 464.953,
+     "score": 0.357,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interlocutori,",
+     "start": 465.033,
+     "end": 465.994,
+     "score": 0.72,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 466.034,
+     "end": 466.495,
+     "score": 0.728,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 467.516,
+     "end": 467.716,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 468.136,
+     "end": 468.236,
+     "score": 0.837,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 468.256,
+     "end": 468.336,
+     "score": 0.67,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "certo",
+     "start": 468.376,
+     "end": 468.677,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "senso",
+     "start": 468.757,
+     "end": 469.217,
+     "score": 0.895,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "condividano",
+     "start": 469.297,
+     "end": 470.198,
+     "score": 0.961,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 474.722,
+     "end": 474.842,
+     "score": 0.771,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conoscenza",
+     "start": 474.902,
+     "end": 475.503,
+     "score": 0.851,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "generale",
+     "start": 475.563,
+     "end": 476.184,
+     "score": 0.915,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.06853375983025346,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 478.086,
+   "end": 492.652,
+   "text": " in sintonia, che abbiano una conoscenza condivisa e che abbiano presente quindi lo stesso ambiente extralinguistico.",
+   "words": [
+    {
+     "word": "in",
+     "start": 478.086,
+     "end": 478.206,
+     "score": 0.316,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sintonia,",
+     "start": 478.286,
+     "end": 479.547,
+     "score": 0.34,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 479.567,
+     "end": 479.667,
+     "score": 0.785,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "abbiano",
+     "start": 479.767,
+     "end": 481.147,
+     "score": 0.899,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 481.247,
+     "end": 481.427,
+     "score": 0.595,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "conoscenza",
+     "start": 481.467,
+     "end": 483.408,
+     "score": 0.814,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "condivisa",
+     "start": 483.488,
+     "end": 484.108,
+     "score": 0.907,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 484.769,
+     "end": 484.869,
+     "score": 0.986,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 485.149,
+     "end": 485.389,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "abbiano",
+     "start": 486.709,
+     "end": 487.029,
+     "score": 0.871,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "presente",
+     "start": 487.089,
+     "end": 487.71,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 487.81,
+     "end": 488.29,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 488.45,
+     "end": 488.55,
+     "score": 0.642,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stesso",
+     "start": 488.59,
+     "end": 489.13,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ambiente",
+     "start": 489.27,
+     "end": 490.051,
+     "score": 0.959,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "extralinguistico.",
+     "start": 491.231,
+     "end": 492.652,
+     "score": 0.831,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.0918749976158142,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 492.712,
+   "end": 494.913,
+   "text": "Ecco, lei ha letto anche il libro della Bianchi.",
+   "words": [
+    {
+     "word": "Ecco,",
+     "start": 492.712,
+     "end": 492.972,
+     "score": 0.64,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lei",
+     "start": 493.012,
+     "end": 493.172,
+     "score": 0.706,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ha",
+     "start": 493.192,
+     "end": 493.252,
+     "score": 0.401,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "letto",
+     "start": 493.332,
+     "end": 493.572,
+     "score": 0.65,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "anche",
+     "start": 493.612,
+     "end": 493.772,
+     "score": 0.829,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 493.792,
+     "end": 493.832,
+     "score": 0.836,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "libro",
+     "start": 493.872,
+     "end": 494.052,
+     "score": 0.906,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "della",
+     "start": 494.092,
+     "end": 494.292,
+     "score": 0.759,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Bianchi.",
+     "start": 494.332,
+     "end": 494.913,
+     "score": 0.807,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.0918749976158142,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 495.593,
+   "end": 499.494,
+   "text": "Nella Relevance Theory come viene definito il contesto?",
+   "words": [
+    {
+     "word": "Nella",
+     "start": 495.593,
+     "end": 495.893,
+     "score": 0.881,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Relevance",
+     "start": 495.933,
+     "end": 496.413,
+     "score": 0.686,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Theory",
+     "start": 496.433,
+     "end": 496.753,
+     "score": 0.537,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "come",
+     "start": 496.853,
+     "end": 497.013,
+     "score": 0.831,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "viene",
+     "start": 497.053,
+     "end": 497.213,
+     "score": 0.764,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "definito",
+     "start": 497.273,
+     "end": 497.634,
+     "score": 0.949,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 497.694,
+     "end": 497.754,
+     "score": 0.742,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "contesto?",
+     "start": 497.794,
+     "end": 499.494,
+     "score": 0.883,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.0918749976158142,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 499.554,
+   "end": 506.257,
+   "text": "Allora, nella Relevance Theory il contesto è molto importante in quanto",
+   "words": [
+    {
+     "word": "Allora,",
+     "start": 499.554,
+     "end": 500.034,
+     "score": 0.753,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nella",
+     "start": 501.035,
+     "end": 501.275,
+     "score": 0.828,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Relevance",
+     "start": 501.315,
+     "end": 502.015,
+     "score": 0.728,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Theory",
+     "start": 502.635,
+     "end": 503.016,
+     "score": 0.681,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 503.156,
+     "end": 503.256,
+     "score": 0.788,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contesto",
+     "start": 503.316,
+     "end": 504.076,
+     "score": 0.957,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 504.556,
+     "end": 504.616,
+     "score": 0.539,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "molto",
+     "start": 504.696,
+     "end": 504.916,
+     "score": 0.976,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "importante",
+     "start": 504.976,
+     "end": 505.617,
+     "score": 0.917,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 505.657,
+     "end": 505.737,
+     "score": 0.441,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quanto",
+     "start": 505.797,
+     "end": 506.257,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.0918749976158142,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 506.95,
+   "end": 536.197,
+   "text": " è la fonte stessa dalla quale provengono gli indizi che rendono che rendono appunto possibile la conversazione secondo la Relevance Theory infatti secondo questa teoria tutta la conversazione è ostensivo però loro parlano di contesto in un senso leggermente diverso addirittura parlano di contesto cognitivo ah ok",
+   "words": [
+    {
+     "word": "è",
+     "start": 506.95,
+     "end": 507.01,
+     "score": 0.711,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 507.21,
+     "end": 507.29,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fonte",
+     "start": 507.35,
+     "end": 507.67,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stessa",
+     "start": 507.77,
+     "end": 508.51,
+     "score": 0.928,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dalla",
+     "start": 508.67,
+     "end": 508.931,
+     "score": 0.894,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quale",
+     "start": 508.971,
+     "end": 509.271,
+     "score": 0.8,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "provengono",
+     "start": 509.331,
+     "end": 509.951,
+     "score": 0.879,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 510.011,
+     "end": 510.091,
+     "score": 0.726,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "indizi",
+     "start": 510.131,
+     "end": 510.851,
+     "score": 0.855,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 511.351,
+     "end": 511.451,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rendono",
+     "start": 511.531,
+     "end": 512.111,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 513.652,
+     "end": 513.752,
+     "score": 0.764,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rendono",
+     "start": 513.832,
+     "end": 514.272,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "appunto",
+     "start": 514.352,
+     "end": 514.972,
+     "score": 0.897,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "possibile",
+     "start": 517.393,
+     "end": 517.873,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 517.933,
+     "end": 518.033,
+     "score": 0.542,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 518.073,
+     "end": 518.953,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "secondo",
+     "start": 519.073,
+     "end": 519.413,
+     "score": 0.849,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 519.493,
+     "end": 519.553,
+     "score": 0.894,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Relevance",
+     "start": 519.613,
+     "end": 520.253,
+     "score": 0.803,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Theory",
+     "start": 520.613,
+     "end": 521.033,
+     "score": 0.588,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "infatti",
+     "start": 522.054,
+     "end": 522.614,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "secondo",
+     "start": 522.734,
+     "end": 523.114,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "questa",
+     "start": 523.174,
+     "end": 523.434,
+     "score": 0.874,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "teoria",
+     "start": 523.534,
+     "end": 524.034,
+     "score": 0.739,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutta",
+     "start": 524.934,
+     "end": 525.174,
+     "score": 0.96,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 525.254,
+     "end": 525.334,
+     "score": 0.613,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 525.374,
+     "end": 526.335,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 526.355,
+     "end": 526.375,
+     "score": 0.072,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ostensivo",
+     "start": 526.395,
+     "end": 527.455,
+     "score": 0.87,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "però",
+     "start": 528.555,
+     "end": 528.735,
+     "score": 0.365,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "loro",
+     "start": 528.775,
+     "end": 528.935,
+     "score": 0.758,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "parlano",
+     "start": 528.995,
+     "end": 529.315,
+     "score": 0.839,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 529.335,
+     "end": 529.415,
+     "score": 0.628,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "contesto",
+     "start": 529.475,
+     "end": 530.376,
+     "score": 0.899,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "in",
+     "start": 530.756,
+     "end": 530.856,
+     "score": 0.81,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "un",
+     "start": 530.896,
+     "end": 531.036,
+     "score": 0.652,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "senso",
+     "start": 531.136,
+     "end": 531.456,
+     "score": 0.959,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "leggermente",
+     "start": 531.516,
+     "end": 532.136,
+     "score": 0.928,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "diverso",
+     "start": 532.176,
+     "end": 532.716,
+     "score": 0.928,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "addirittura",
+     "start": 532.756,
+     "end": 533.156,
+     "score": 0.895,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "parlano",
+     "start": 533.216,
+     "end": 533.436,
+     "score": 0.683,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 533.456,
+     "end": 533.536,
+     "score": 0.862,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "contesto",
+     "start": 533.596,
+     "end": 534.056,
+     "score": 0.818,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "cognitivo",
+     "start": 534.096,
+     "end": 534.737,
+     "score": 0.916,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ah",
+     "start": 535.777,
+     "end": 535.877,
+     "score": 0.414,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ok",
+     "start": 536.037,
+     "end": 536.197,
+     "score": 0.428,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08934928552259373,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 536.995,
+   "end": 564.408,
+   "text": " Sì, ovvero quando io ho una nuova informazione devo trovare all'interno del mio ambiente cognitivo il contesto cognitivo con il quale si può legare nel modo ottimale per farmi avere una visione diversa del mondo e comunque far sì che i miei costi cognitivi vengano contraccambiati da degli effetti cognitivi per me.",
+   "words": [
+    {
+     "word": "Sì,",
+     "start": 536.995,
+     "end": 537.155,
+     "score": 0.666,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 537.215,
+     "end": 537.615,
+     "score": 0.861,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quando",
+     "start": 539.276,
+     "end": 539.576,
+     "score": 0.798,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "io",
+     "start": 539.756,
+     "end": 539.856,
+     "score": 0.634,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ho",
+     "start": 539.876,
+     "end": 539.916,
+     "score": 0.012,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 539.956,
+     "end": 540.076,
+     "score": 0.861,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nuova",
+     "start": 540.136,
+     "end": 540.317,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "informazione",
+     "start": 540.377,
+     "end": 541.417,
+     "score": 0.946,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "devo",
+     "start": 541.677,
+     "end": 541.897,
+     "score": 0.678,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "trovare",
+     "start": 541.977,
+     "end": 542.598,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "all'interno",
+     "start": 543.878,
+     "end": 544.438,
+     "score": 0.911,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "del",
+     "start": 544.498,
+     "end": 544.679,
+     "score": 0.705,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mio",
+     "start": 544.739,
+     "end": 545.059,
+     "score": 0.973,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ambiente",
+     "start": 546.319,
+     "end": 546.78,
+     "score": 0.716,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivo",
+     "start": 546.8,
+     "end": 547.62,
+     "score": 0.858,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 548.52,
+     "end": 548.6,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contesto",
+     "start": 548.66,
+     "end": 549.121,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivo",
+     "start": 549.201,
+     "end": 549.821,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "con",
+     "start": 549.881,
+     "end": 550.041,
+     "score": 0.609,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 550.101,
+     "end": 550.181,
+     "score": 0.778,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quale",
+     "start": 550.221,
+     "end": 550.521,
+     "score": 0.763,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 550.601,
+     "end": 550.661,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "può",
+     "start": 550.741,
+     "end": 550.841,
+     "score": 0.865,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "legare",
+     "start": 550.921,
+     "end": 551.282,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nel",
+     "start": 551.362,
+     "end": 551.522,
+     "score": 0.791,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modo",
+     "start": 551.582,
+     "end": 551.762,
+     "score": 0.816,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ottimale",
+     "start": 551.822,
+     "end": 552.542,
+     "score": 0.883,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 553.022,
+     "end": 553.142,
+     "score": 0.945,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "farmi",
+     "start": 553.223,
+     "end": 553.523,
+     "score": 0.671,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "avere",
+     "start": 553.563,
+     "end": 553.823,
+     "score": 0.903,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 554.323,
+     "end": 554.463,
+     "score": 0.736,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "visione",
+     "start": 554.523,
+     "end": 555.003,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diversa",
+     "start": 555.323,
+     "end": 555.764,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "del",
+     "start": 555.824,
+     "end": 556.004,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mondo",
+     "start": 556.064,
+     "end": 556.404,
+     "score": 0.808,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 556.424,
+     "end": 556.444,
+     "score": 0.041,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 556.564,
+     "end": 556.944,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "far",
+     "start": 557.024,
+     "end": 557.144,
+     "score": 0.986,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sì",
+     "start": 557.324,
+     "end": 557.444,
+     "score": 0.942,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 557.625,
+     "end": 557.785,
+     "score": 0.846,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 558.225,
+     "end": 558.285,
+     "score": 0.462,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "miei",
+     "start": 558.325,
+     "end": 558.445,
+     "score": 0.51,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "costi",
+     "start": 558.505,
+     "end": 558.945,
+     "score": 0.855,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivi",
+     "start": 559.005,
+     "end": 559.685,
+     "score": 0.858,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vengano",
+     "start": 559.745,
+     "end": 560.266,
+     "score": 0.801,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "contraccambiati",
+     "start": 561.646,
+     "end": 562.647,
+     "score": 0.898,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 562.707,
+     "end": 562.807,
+     "score": 0.971,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "degli",
+     "start": 562.867,
+     "end": 563.087,
+     "score": 0.845,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "effetti",
+     "start": 563.127,
+     "end": 563.507,
+     "score": 0.933,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivi",
+     "start": 563.587,
+     "end": 564.087,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 564.148,
+     "end": 564.328,
+     "score": 0.616,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "me.",
+     "start": 564.348,
+     "end": 564.408,
+     "score": 0.141,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.035739941158513915,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 566.233,
+   "end": 593.14,
+   "text": " efficaci il che è proprio la regola di base della pertinenza diciamo la pertinenza infatti si misura in termini di costi ed effetti cognitivi dove i costi cognitivi sono gli sforzi che io faccio per diciamo decodificare un determinato indizio in termini di memoria eccetera e gli effetti cognitivi",
+   "words": [
+    {
+     "word": "efficaci",
+     "start": 566.233,
+     "end": 566.993,
+     "score": 0.824,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 567.533,
+     "end": 567.613,
+     "score": 0.838,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 567.693,
+     "end": 567.874,
+     "score": 0.845,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 567.994,
+     "end": 568.034,
+     "score": 0.813,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "proprio",
+     "start": 568.134,
+     "end": 568.514,
+     "score": 0.913,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 568.574,
+     "end": 568.854,
+     "score": 0.693,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regola",
+     "start": 569.514,
+     "end": 569.894,
+     "score": 0.883,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 569.954,
+     "end": 570.034,
+     "score": 0.688,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "base",
+     "start": 570.074,
+     "end": 570.734,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "della",
+     "start": 571.194,
+     "end": 571.394,
+     "score": 0.866,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "pertinenza",
+     "start": 571.434,
+     "end": 572.195,
+     "score": 0.933,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo",
+     "start": 572.275,
+     "end": 572.775,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 572.915,
+     "end": 572.975,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "pertinenza",
+     "start": 573.015,
+     "end": 573.715,
+     "score": 0.902,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "infatti",
+     "start": 573.735,
+     "end": 574.095,
+     "score": 0.738,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 574.195,
+     "end": 574.295,
+     "score": 0.853,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "misura",
+     "start": 574.355,
+     "end": 574.795,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 575.916,
+     "end": 575.996,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "termini",
+     "start": 576.036,
+     "end": 576.436,
+     "score": 0.897,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 576.496,
+     "end": 576.576,
+     "score": 0.889,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "costi",
+     "start": 576.636,
+     "end": 577.156,
+     "score": 0.83,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ed",
+     "start": 577.176,
+     "end": 577.316,
+     "score": 0.312,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "effetti",
+     "start": 577.356,
+     "end": 577.716,
+     "score": 0.933,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivi",
+     "start": 577.776,
+     "end": 578.496,
+     "score": 0.695,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dove",
+     "start": 578.996,
+     "end": 579.136,
+     "score": 0.572,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 579.156,
+     "end": 579.196,
+     "score": 0.589,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "costi",
+     "start": 579.236,
+     "end": 579.516,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivi",
+     "start": 579.576,
+     "end": 580.137,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 580.237,
+     "end": 580.557,
+     "score": 0.81,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 581.017,
+     "end": 581.137,
+     "score": 0.759,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sforzi",
+     "start": 581.217,
+     "end": 581.777,
+     "score": 0.942,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 581.857,
+     "end": 581.957,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "io",
+     "start": 582.037,
+     "end": 582.117,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccio",
+     "start": 582.217,
+     "end": 582.797,
+     "score": 0.911,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 583.297,
+     "end": 583.938,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo",
+     "start": 585.538,
+     "end": 586.438,
+     "score": 0.614,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "decodificare",
+     "start": 587.058,
+     "end": 587.839,
+     "score": 0.825,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 587.999,
+     "end": 588.119,
+     "score": 0.779,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "determinato",
+     "start": 588.159,
+     "end": 588.719,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "indizio",
+     "start": 588.819,
+     "end": 589.259,
+     "score": 0.843,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 589.299,
+     "end": 589.359,
+     "score": 0.8,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "termini",
+     "start": 589.399,
+     "end": 589.859,
+     "score": 0.885,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 589.919,
+     "end": 589.999,
+     "score": 0.603,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "memoria",
+     "start": 590.039,
+     "end": 590.619,
+     "score": 0.744,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "eccetera",
+     "start": 590.679,
+     "end": 591.299,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 591.8,
+     "end": 591.84,
+     "score": 0.838,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 591.88,
+     "end": 591.98,
+     "score": 0.769,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "effetti",
+     "start": 592.0,
+     "end": 592.38,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cognitivi",
+     "start": 592.44,
+     "end": 593.14,
+     "score": 0.8,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05369917016072446,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 593.729,
+   "end": 603.498,
+   "text": " sono tutti quei risultati che mi portano a cambiare la mia idea del mondo, comunque ad apportare una modifica di fondo.",
+   "words": [
+    {
+     "word": "sono",
+     "start": 593.729,
+     "end": 593.949,
+     "score": 0.536,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutti",
+     "start": 593.989,
+     "end": 594.23,
+     "score": 0.651,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quei",
+     "start": 594.29,
+     "end": 596.151,
+     "score": 0.788,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "risultati",
+     "start": 596.191,
+     "end": 597.032,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 597.132,
+     "end": 597.232,
+     "score": 0.915,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mi",
+     "start": 597.292,
+     "end": 597.372,
+     "score": 0.918,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "portano",
+     "start": 597.452,
+     "end": 598.093,
+     "score": 0.907,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 598.513,
+     "end": 598.573,
+     "score": 0.671,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cambiare",
+     "start": 598.654,
+     "end": 599.134,
+     "score": 0.918,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 599.214,
+     "end": 599.294,
+     "score": 0.724,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mia",
+     "start": 599.334,
+     "end": 599.434,
+     "score": 0.494,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "idea",
+     "start": 599.494,
+     "end": 599.895,
+     "score": 0.908,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "del",
+     "start": 599.975,
+     "end": 600.135,
+     "score": 0.991,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mondo,",
+     "start": 600.195,
+     "end": 600.615,
+     "score": 0.682,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 600.715,
+     "end": 601.056,
+     "score": 0.939,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 601.096,
+     "end": 601.176,
+     "score": 0.723,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "apportare",
+     "start": 601.216,
+     "end": 601.696,
+     "score": 0.937,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 601.816,
+     "end": 601.937,
+     "score": 0.464,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modifica",
+     "start": 601.977,
+     "end": 602.537,
+     "score": 0.917,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 602.637,
+     "end": 602.797,
+     "score": 0.982,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fondo.",
+     "start": 603.058,
+     "end": 603.498,
+     "score": 0.858,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1303615231139987,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 606.921,
+   "end": 611.966,
+   "text": "Cosa ne ha interessato di più all'interno delle letture che ha fatto?",
+   "words": [
+    {
+     "word": "Cosa",
+     "start": 606.921,
+     "end": 607.041,
+     "score": 0.851,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ne",
+     "start": 607.121,
+     "end": 607.181,
+     "score": 0.568,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ha",
+     "start": 607.201,
+     "end": 607.241,
+     "score": 0.005,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "interessato",
+     "start": 607.261,
+     "end": 607.782,
+     "score": 0.849,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 607.842,
+     "end": 607.922,
+     "score": 0.522,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "più",
+     "start": 608.022,
+     "end": 608.182,
+     "score": 0.698,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "all'interno",
+     "start": 608.743,
+     "end": 609.904,
+     "score": 0.941,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "delle",
+     "start": 610.805,
+     "end": 610.985,
+     "score": 0.847,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "letture",
+     "start": 611.025,
+     "end": 611.305,
+     "score": 0.903,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "che",
+     "start": 611.345,
+     "end": 611.425,
+     "score": 0.881,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ha",
+     "start": 611.465,
+     "end": 611.525,
+     "score": 0.853,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "fatto?",
+     "start": 611.585,
+     "end": 611.966,
+     "score": 0.926,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.1303615231139987,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 617.355,
+   "end": 638.345,
+   "text": " Mi è interessata molto la trattazione sulla cortesia, sulle regole di cortesia, soprattutto quella di Brown e Levinson, che sviluppano la teoria di Goffman, che si fonda soprattutto sulla nozione di faccia,",
+   "words": [
+    {
+     "word": "Mi",
+     "start": 617.355,
+     "end": 617.596,
+     "score": 0.395,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 618.196,
+     "end": 618.256,
+     "score": 0.572,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interessata",
+     "start": 618.336,
+     "end": 619.016,
+     "score": 0.731,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "molto",
+     "start": 619.096,
+     "end": 619.476,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 619.757,
+     "end": 621.978,
+     "score": 0.88,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "trattazione",
+     "start": 622.018,
+     "end": 622.698,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sulla",
+     "start": 622.798,
+     "end": 623.018,
+     "score": 0.829,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cortesia,",
+     "start": 623.058,
+     "end": 623.978,
+     "score": 0.86,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sulle",
+     "start": 624.139,
+     "end": 624.359,
+     "score": 0.816,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "regole",
+     "start": 624.419,
+     "end": 624.739,
+     "score": 0.895,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 624.799,
+     "end": 624.899,
+     "score": 0.574,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cortesia,",
+     "start": 624.959,
+     "end": 626.299,
+     "score": 0.778,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "soprattutto",
+     "start": 627.04,
+     "end": 627.62,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quella",
+     "start": 627.7,
+     "end": 628.02,
+     "score": 0.887,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 628.1,
+     "end": 628.46,
+     "score": 0.958,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Brown",
+     "start": 629.521,
+     "end": 629.761,
+     "score": 0.693,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 629.781,
+     "end": 629.861,
+     "score": 0.923,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Levinson,",
+     "start": 629.881,
+     "end": 630.661,
+     "score": 0.791,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 631.282,
+     "end": 631.382,
+     "score": 0.913,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sviluppano",
+     "start": 631.442,
+     "end": 632.222,
+     "score": 0.882,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 632.302,
+     "end": 632.382,
+     "score": 0.694,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "teoria",
+     "start": 632.462,
+     "end": 632.762,
+     "score": 0.603,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 632.822,
+     "end": 632.903,
+     "score": 0.787,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Goffman,",
+     "start": 632.943,
+     "end": 633.803,
+     "score": 0.914,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 634.283,
+     "end": 634.423,
+     "score": 0.892,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 634.643,
+     "end": 634.823,
+     "score": 0.976,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fonda",
+     "start": 634.983,
+     "end": 635.484,
+     "score": 0.976,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "soprattutto",
+     "start": 635.664,
+     "end": 636.364,
+     "score": 0.879,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sulla",
+     "start": 636.524,
+     "end": 636.844,
+     "score": 0.981,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nozione",
+     "start": 636.944,
+     "end": 637.345,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 637.405,
+     "end": 637.485,
+     "score": 0.754,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia,",
+     "start": 637.565,
+     "end": 638.345,
+     "score": 0.71,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.07024397034394114,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 638.775,
+   "end": 666.4,
+   "text": " ovvero che comunque differisce da quella originaria di Goffman perché mentre in Goffman la faccia era l'immagine di se stessi che ognuno che veniva attribuita a un interlocutore durante la conversazione quindi durante dei processi rituali e quindi era un qualcosa di modificabile, impersistente che cambiava da conversazione a conversazione diciamo",
+   "words": [
+    {
+     "word": "ovvero",
+     "start": 638.775,
+     "end": 639.275,
+     "score": 0.754,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 639.495,
+     "end": 639.615,
+     "score": 0.809,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "comunque",
+     "start": 639.695,
+     "end": 640.035,
+     "score": 0.862,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "differisce",
+     "start": 640.115,
+     "end": 640.695,
+     "score": 0.845,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 640.755,
+     "end": 640.855,
+     "score": 0.79,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quella",
+     "start": 640.915,
+     "end": 641.115,
+     "score": 0.89,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "originaria",
+     "start": 641.175,
+     "end": 641.676,
+     "score": 0.645,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 641.736,
+     "end": 641.816,
+     "score": 0.678,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Goffman",
+     "start": 641.856,
+     "end": 642.756,
+     "score": 0.751,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "perché",
+     "start": 642.916,
+     "end": 643.236,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mentre",
+     "start": 643.736,
+     "end": 644.016,
+     "score": 0.909,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 644.056,
+     "end": 644.136,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Goffman",
+     "start": 644.176,
+     "end": 644.716,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 644.796,
+     "end": 644.896,
+     "score": 0.773,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 644.956,
+     "end": 645.516,
+     "score": 0.873,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "era",
+     "start": 645.736,
+     "end": 646.016,
+     "score": 0.861,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'immagine",
+     "start": 646.156,
+     "end": 646.656,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 646.716,
+     "end": 646.816,
+     "score": 0.504,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "se",
+     "start": 646.876,
+     "end": 646.996,
+     "score": 0.956,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stessi",
+     "start": 647.097,
+     "end": 647.737,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 647.857,
+     "end": 647.957,
+     "score": 0.756,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ognuno",
+     "start": 648.037,
+     "end": 648.557,
+     "score": 0.696,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 649.477,
+     "end": 649.577,
+     "score": 0.794,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "veniva",
+     "start": 649.657,
+     "end": 649.937,
+     "score": 0.822,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "attribuita",
+     "start": 649.997,
+     "end": 650.517,
+     "score": 0.966,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 651.037,
+     "end": 651.337,
+     "score": 0.831,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 651.457,
+     "end": 651.817,
+     "score": 0.927,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interlocutore",
+     "start": 651.937,
+     "end": 652.778,
+     "score": 0.827,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "durante",
+     "start": 652.858,
+     "end": 653.198,
+     "score": 0.877,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 653.258,
+     "end": 653.338,
+     "score": 0.715,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 653.398,
+     "end": 654.478,
+     "score": 0.886,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 654.958,
+     "end": 655.178,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "durante",
+     "start": 655.258,
+     "end": 655.698,
+     "score": 0.906,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dei",
+     "start": 655.738,
+     "end": 655.898,
+     "score": 0.567,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "processi",
+     "start": 655.918,
+     "end": 656.438,
+     "score": 0.544,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rituali",
+     "start": 656.498,
+     "end": 657.178,
+     "score": 0.75,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 658.679,
+     "end": 658.719,
+     "score": 0.743,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 658.819,
+     "end": 659.019,
+     "score": 0.536,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "era",
+     "start": 659.059,
+     "end": 659.119,
+     "score": 0.008,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 659.179,
+     "end": 659.259,
+     "score": 0.514,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "qualcosa",
+     "start": 659.299,
+     "end": 659.819,
+     "score": 0.697,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 659.879,
+     "end": 660.119,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modificabile,",
+     "start": 660.599,
+     "end": 661.539,
+     "score": 0.917,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "impersistente",
+     "start": 661.559,
+     "end": 662.879,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 663.179,
+     "end": 663.339,
+     "score": 0.937,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cambiava",
+     "start": 663.519,
+     "end": 663.94,
+     "score": 0.907,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 664.0,
+     "end": 664.12,
+     "score": 0.776,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 664.16,
+     "end": 664.88,
+     "score": 0.898,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "a",
+     "start": 664.92,
+     "end": 664.94,
+     "score": 0.91,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione",
+     "start": 665.02,
+     "end": 665.92,
+     "score": 0.965,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo",
+     "start": 666.0,
+     "end": 666.4,
+     "score": 0.412,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08369253181863105,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 667.018,
+   "end": 681.981,
+   "text": " Invece per Brown e Levinson la faccia era la concezione di sé che un individuo aveva elaborato già prima di confrontarsi con gli altri e che quindi voleva difendere durante la conversazione.",
+   "words": [
+    {
+     "word": "Invece",
+     "start": 667.018,
+     "end": 667.698,
+     "score": 0.274,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 667.718,
+     "end": 668.078,
+     "score": 0.401,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Brown",
+     "start": 668.158,
+     "end": 668.378,
+     "score": 0.691,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 668.398,
+     "end": 668.518,
+     "score": 0.711,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "Levinson",
+     "start": 668.558,
+     "end": 669.479,
+     "score": 0.807,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 669.679,
+     "end": 669.739,
+     "score": 0.917,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 669.839,
+     "end": 671.239,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "era",
+     "start": 671.419,
+     "end": 671.579,
+     "score": 0.856,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 671.659,
+     "end": 671.719,
+     "score": 0.956,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "concezione",
+     "start": 671.759,
+     "end": 672.339,
+     "score": 0.911,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 672.419,
+     "end": 672.499,
+     "score": 0.683,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sé",
+     "start": 672.619,
+     "end": 672.879,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 673.419,
+     "end": 673.539,
+     "score": 0.698,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 673.599,
+     "end": 673.659,
+     "score": 0.773,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "individuo",
+     "start": 673.719,
+     "end": 674.259,
+     "score": 0.76,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "aveva",
+     "start": 674.299,
+     "end": 674.56,
+     "score": 0.823,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "elaborato",
+     "start": 674.58,
+     "end": 675.22,
+     "score": 0.832,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "già",
+     "start": 675.28,
+     "end": 675.42,
+     "score": 0.572,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prima",
+     "start": 675.54,
+     "end": 675.84,
+     "score": 0.796,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 675.9,
+     "end": 675.96,
+     "score": 0.921,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "confrontarsi",
+     "start": 676.04,
+     "end": 676.76,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "con",
+     "start": 676.8,
+     "end": 676.9,
+     "score": 0.048,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "gli",
+     "start": 676.92,
+     "end": 677.06,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "altri",
+     "start": 677.08,
+     "end": 677.44,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 677.46,
+     "end": 677.48,
+     "score": 0.153,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 677.58,
+     "end": 677.7,
+     "score": 0.76,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 677.84,
+     "end": 678.18,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "voleva",
+     "start": 678.26,
+     "end": 678.74,
+     "score": 0.966,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "difendere",
+     "start": 679.461,
+     "end": 680.241,
+     "score": 0.895,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "durante",
+     "start": 680.461,
+     "end": 680.821,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 680.881,
+     "end": 680.961,
+     "score": 0.653,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione.",
+     "start": 680.981,
+     "end": 681.981,
+     "score": 0.918,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05897352477121684,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 682.841,
+   "end": 690.063,
+   "text": "La ponevano quindi più da un punto di vista difensivo, diciamo, la conversazione, ovvero...",
+   "words": [
+    {
+     "word": "La",
+     "start": 682.841,
+     "end": 682.921,
+     "score": 0.612,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ponevano",
+     "start": 683.001,
+     "end": 683.481,
+     "score": 0.675,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 683.521,
+     "end": 683.781,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "più",
+     "start": 683.821,
+     "end": 683.921,
+     "score": 0.847,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 683.981,
+     "end": 684.041,
+     "score": 0.876,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 684.081,
+     "end": 684.161,
+     "score": 0.653,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "punto",
+     "start": 684.221,
+     "end": 684.462,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 684.502,
+     "end": 684.582,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vista",
+     "start": 684.642,
+     "end": 685.222,
+     "score": 0.856,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "difensivo,",
+     "start": 687.202,
+     "end": 687.942,
+     "score": 0.793,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "diciamo,",
+     "start": 687.982,
+     "end": 688.362,
+     "score": 0.706,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 688.422,
+     "end": 688.482,
+     "score": 0.87,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "conversazione,",
+     "start": 688.522,
+     "end": 689.443,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero...",
+     "start": 689.523,
+     "end": 690.063,
+     "score": 0.706,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05897352477121684,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 692.718,
+   "end": 703.121,
+   "text": " tutti quei modi in cui un individuo poteva porsi per far sì che la sua faccia, ovvero l'immagine, la reputazione di se stesso non potesse essere intaccata.",
+   "words": [
+    {
+     "word": "tutti",
+     "start": 692.718,
+     "end": 692.938,
+     "score": 0.848,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quei",
+     "start": 692.978,
+     "end": 693.158,
+     "score": 0.659,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "modi",
+     "start": 693.178,
+     "end": 693.578,
+     "score": 0.606,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 693.618,
+     "end": 693.718,
+     "score": 0.594,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 693.798,
+     "end": 694.259,
+     "score": 0.912,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 694.799,
+     "end": 694.939,
+     "score": 0.713,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "individuo",
+     "start": 694.979,
+     "end": 695.539,
+     "score": 0.776,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "poteva",
+     "start": 695.619,
+     "end": 695.979,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "porsi",
+     "start": 696.059,
+     "end": 696.559,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 696.619,
+     "end": 696.759,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "far",
+     "start": 696.859,
+     "end": 696.999,
+     "score": 0.989,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sì",
+     "start": 697.14,
+     "end": 697.28,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 697.38,
+     "end": 697.48,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 697.54,
+     "end": 697.62,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sua",
+     "start": 697.68,
+     "end": 697.82,
+     "score": 0.705,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia,",
+     "start": 697.9,
+     "end": 698.3,
+     "score": 0.91,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ovvero",
+     "start": 698.36,
+     "end": 698.6,
+     "score": 0.831,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'immagine,",
+     "start": 698.68,
+     "end": 699.26,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 699.66,
+     "end": 699.76,
+     "score": 0.839,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "reputazione",
+     "start": 699.8,
+     "end": 700.441,
+     "score": 0.804,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 700.501,
+     "end": 700.581,
+     "score": 0.918,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "se",
+     "start": 700.641,
+     "end": 700.741,
+     "score": 0.841,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stesso",
+     "start": 700.801,
+     "end": 701.261,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 701.321,
+     "end": 701.441,
+     "score": 0.888,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "potesse",
+     "start": 701.481,
+     "end": 701.921,
+     "score": 0.694,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "essere",
+     "start": 701.961,
+     "end": 702.261,
+     "score": 0.794,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "intaccata.",
+     "start": 702.321,
+     "end": 703.121,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05098470215064784,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 703.722,
+   "end": 716.486,
+   "text": "E da questo punto di vista sviluppano due tipi di faccia, che sono la faccia positiva e la faccia negativa, dove la faccia positiva si rifà all'interesse di un individuo",
+   "words": [
+    {
+     "word": "E",
+     "start": 703.722,
+     "end": 703.762,
+     "score": 0.875,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "da",
+     "start": 703.822,
+     "end": 703.942,
+     "score": 0.648,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "questo",
+     "start": 703.982,
+     "end": 704.222,
+     "score": 0.891,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "punto",
+     "start": 704.302,
+     "end": 704.582,
+     "score": 0.715,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 704.642,
+     "end": 704.722,
+     "score": 0.705,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "vista",
+     "start": 704.782,
+     "end": 705.322,
+     "score": 0.958,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sviluppano",
+     "start": 705.522,
+     "end": 706.323,
+     "score": 0.866,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "due",
+     "start": 706.403,
+     "end": 706.563,
+     "score": 0.841,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tipi",
+     "start": 706.603,
+     "end": 706.823,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 706.883,
+     "end": 706.963,
+     "score": 0.757,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia,",
+     "start": 707.043,
+     "end": 707.583,
+     "score": 0.972,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 707.763,
+     "end": 707.863,
+     "score": 0.839,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sono",
+     "start": 707.983,
+     "end": 708.203,
+     "score": 0.66,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 708.283,
+     "end": 708.363,
+     "score": 0.638,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 708.403,
+     "end": 708.723,
+     "score": 0.842,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "positiva",
+     "start": 708.783,
+     "end": 709.484,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 709.944,
+     "end": 709.984,
+     "score": 0.74,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 710.044,
+     "end": 710.104,
+     "score": 0.95,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 710.144,
+     "end": 710.404,
+     "score": 0.932,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "negativa,",
+     "start": 710.464,
+     "end": 711.144,
+     "score": 0.924,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dove",
+     "start": 711.704,
+     "end": 711.864,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 711.944,
+     "end": 712.024,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 712.064,
+     "end": 712.365,
+     "score": 0.799,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "positiva",
+     "start": 712.425,
+     "end": 712.985,
+     "score": 0.916,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "si",
+     "start": 713.105,
+     "end": 713.185,
+     "score": 0.634,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "rifà",
+     "start": 713.225,
+     "end": 713.605,
+     "score": 0.877,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "all'interesse",
+     "start": 713.805,
+     "end": 714.665,
+     "score": 0.832,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 714.745,
+     "end": 715.165,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 715.246,
+     "end": 715.726,
+     "score": 0.843,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "individuo",
+     "start": 715.906,
+     "end": 716.486,
+     "score": 0.936,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.05098470215064784,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 717.055,
+   "end": 739.737,
+   "text": " di essere apprezzato, acclamato e stimato, mentre invece la faccia negativa è l'interesse che il proprio territorio non venga minacciato e quindi che venga preservata una libertà di azione e di... una libertà di movimento, di azione, insomma, globale.",
+   "words": [
+    {
+     "word": "di",
+     "start": 717.055,
+     "end": 717.215,
+     "score": 0.275,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "essere",
+     "start": 717.235,
+     "end": 717.596,
+     "score": 0.764,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "apprezzato,",
+     "start": 717.816,
+     "end": 718.577,
+     "score": 0.769,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "acclamato",
+     "start": 718.597,
+     "end": 719.417,
+     "score": 0.76,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 719.477,
+     "end": 719.658,
+     "score": 0.836,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stimato,",
+     "start": 719.818,
+     "end": 720.498,
+     "score": 0.84,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mentre",
+     "start": 721.019,
+     "end": 721.319,
+     "score": 0.557,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "invece",
+     "start": 721.359,
+     "end": 721.639,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 721.74,
+     "end": 721.8,
+     "score": 0.75,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "faccia",
+     "start": 721.84,
+     "end": 722.12,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "negativa",
+     "start": 722.2,
+     "end": 722.901,
+     "score": 0.882,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 723.061,
+     "end": 723.121,
+     "score": 0.688,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'interesse",
+     "start": 723.201,
+     "end": 723.922,
+     "score": 0.856,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 724.022,
+     "end": 724.122,
+     "score": 0.746,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 724.202,
+     "end": 724.242,
+     "score": 0.422,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "proprio",
+     "start": 724.262,
+     "end": 724.542,
+     "score": 0.61,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "territorio",
+     "start": 724.562,
+     "end": 725.123,
+     "score": 0.591,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "non",
+     "start": 725.163,
+     "end": 725.303,
+     "score": 0.751,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "venga",
+     "start": 725.343,
+     "end": 725.583,
+     "score": 0.809,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "minacciato",
+     "start": 725.663,
+     "end": 726.264,
+     "score": 0.848,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 726.324,
+     "end": 726.364,
+     "score": 0.636,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quindi",
+     "start": 726.444,
+     "end": 726.724,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 726.784,
+     "end": 726.884,
+     "score": 0.48,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "venga",
+     "start": 726.944,
+     "end": 727.165,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "preservata",
+     "start": 727.225,
+     "end": 728.046,
+     "score": 0.862,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 728.506,
+     "end": 728.666,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "libertà",
+     "start": 728.706,
+     "end": 729.087,
+     "score": 0.93,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 729.167,
+     "end": 729.247,
+     "score": 0.59,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "azione",
+     "start": 729.307,
+     "end": 729.907,
+     "score": 0.952,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 730.027,
+     "end": 730.107,
+     "score": 0.722,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di...",
+     "start": 730.208,
+     "end": 735.052,
+     "score": 0.892,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 735.112,
+     "end": 735.232,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "libertà",
+     "start": 735.292,
+     "end": 735.893,
+     "score": 0.965,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 736.013,
+     "end": 736.474,
+     "score": 0.808,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "movimento,",
+     "start": 736.614,
+     "end": 737.274,
+     "score": 0.934,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 737.314,
+     "end": 737.394,
+     "score": 0.639,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "azione,",
+     "start": 737.434,
+     "end": 738.375,
+     "score": 0.965,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "insomma,",
+     "start": 738.656,
+     "end": 739.076,
+     "score": 0.62,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "globale.",
+     "start": 739.236,
+     "end": 739.737,
+     "score": 0.828,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.08261986383020062,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 739.797,
+   "end": 741.078,
+   "text": "Va bene.",
+   "words": [
+    {
+     "word": "Va",
+     "start": 739.797,
+     "end": 740.838,
+     "score": 0.881,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "bene.",
+     "start": 740.878,
+     "end": 741.078,
+     "score": 0.287,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.08261986383020062,
+   "speaker": "SPEAKER_01"
+  }
+ ],
+ "language": "it",
+ "min_speakers": 1,
+ "max_speakers": 2
+}
