@@ -1,1477 +1,1477 @@
-token_id	tu_id	speaker	form	tsv_begin	tsv_end	whisper_segment	whisper_text	whisper_begin	whisper_end	alignment
-0-0	0	BO117	okay	1.97	2.249	0	ok	2.148	3.949	mismatch
-1-0	1	BO117	((tossisce))	2.544	3.264	_	_	_	_	skipped
-2-0	2	BO117	dunque	3.933	_	1	dunque	3.989	4.249	match
-2-1	2	BO117	lei	_	_	1	lei	4.269	4.429	match
-2-2	2	BO117	su	_	_	1	su	4.509	4.609	match
-2-3	2	BO117	quali	_	_	1	quali	4.689	4.909	match
-2-4	2	BO117	manuali	_	_	1	manuali	4.969	5.489	match
-2-5	2	BO117	si	_	_	1	si	5.509	5.549	match
-2-6	2	BO117	è	_	_	1	è	5.649	5.689	match
-2-7	2	BO117	preparata	_	_	1	preparata	5.729	6.249	match
-2-8	2	BO117	da	_	_	1	da	6.309	6.389	match
-2-9	2	BO117	non	_	_	1	non	6.429	6.549	match
-2-10	2	BO117	frequentante	_	7.308	1	frequentante	6.589	7.270	match
-3-0	3	BO142	su	7.594	_	2	su	7.770	7.950	match
-3-1	3	BO142	bianchi	_	_	2	bianchi	8.030	8.650	match
-3-2	3	BO142	andorno	_	_	2	andorno	8.750	9.670	match
-3-3	3	BO142	emh	_	10.676	_	_	_	_	tsv_only
-4-0	4	BO142	e	11.683	_	2	e	11.811	12.011	match
-4-1	4	BO142	poi	_	_	2	poi	12.071	12.251	match
-4-2	4	BO142	penco	_	_	2	penco	12.291	12.891	match
-4-3	4	BO142	e	_	_	2	e	12.991	13.732	match
-4-4	4	BO142	domaneschi	_	14.75	2	domaneschi	13.892	14.732	match
-5-0	5	BO117	mhmh	14.948	15.352	_	_	_	_	tsv_only
-6-0	6	BO142	e	15.772	_	2	e	15.872	15.932	match
-6-1	6	BO142	voghera	_	16.478	2	voghera	16.012	16.492	match
-7-0	7	BO117	va	17.276	_	3	va	17.373	17.473	match
-7-1	7	BO117	bene	_	17.909	3	bene	17.533	17.813	match
-8-0	8	BO117	eh	18.963	_	_	_	_	_	tsv_only
-8-1	8	BO117	(.)	_	_	_	_	_	_	skipped
-8-2	8	BO117	partiamo	_	_	4	partiamo	20.086	20.386	match
-8-3	8	BO117	da	_	_	4	da	20.426	20.526	match
-8-4	8	BO117	voghera	_	20.955	4	voghera	20.566	20.946	match
-9-0	9	BO117	eh	21.823	_	_	_	_	_	tsv_only
-9-1	9	BO117	cosa	_	_	5	cosa	22.086	22.247	match
-9-2	9	BO117	si	_	_	5	si	22.267	22.327	match
-9-3	9	BO117	intende	_	_	5	intende	22.347	22.607	match
-9-4	9	BO117	per	_	_	5	per	22.667	22.747	match
-9-5	9	BO117	correlati	_	_	5	correlati	22.887	23.407	match
-9-6	9	BO117	funzionali	_	_	5	funzionali	23.487	24.207	match
-9-7	9	BO117	(.)	_	_	_	_	_	_	skipped
-9-8	9	BO117	del	_	_	5	del	24.728	24.848	match
-9-9	9	BO117	parlato	_	25.382	5	parlato	24.908	26.368	match
-10-0	10	BO142	mh	25.65	25.819	_	_	_	_	tsv_only
-11-0	11	BO142	si	26.345	_	6	si	26.428	26.488	match
-11-1	11	BO142	intendono	_	_	6	intendono	26.508	27.089	match
-11-2	11	BO142	tutte	_	_	6	tutte	27.129	27.349	match
-11-3	11	BO142	quelle	_	_	6	quelle	27.429	27.649	match
-11-4	11	BO142	caratteristiche	_	_	6	caratteristiche	27.669	28.769	match
-11-5	11	BO142	che	_	_	6	che	28.890	29.090	match
-11-6	11	BO142	ehm	_	_	_	_	_	_	tsv_only
-11-7	11	BO142	contraddistinguono	_	_	6	contraddistinguono	30.210	31.131	match
-11-8	11	BO142	il	_	_	6	il	31.151	31.211	match
-11-9	11	BO142	parlato	_	32.0	6	parlato	31.291	31.951	match
-12-0	12	BO142	rispetto	32.403	_	6	rispetto	32.531	32.931	match
-12-1	12	BO142	allo	_	_	6	allo	32.991	33.172	match
-12-2	12	BO142	scritto	_	_	6	scritto	33.212	33.792	match
-12-3	12	BO142	ovvero	_	_	6	ovvero	33.812	34.232	match
-12-4	12	BO142	il	_	_	6	il	34.372	34.452	match
-12-5	12	BO142	fatto	_	_	6	fatto	34.512	34.772	match
-12-6	12	BO142	che	_	_	6	che	34.832	34.952	match
-12-7	12	BO142	sia	_	_	6	sia	35.132	35.453	match
-12-8	12	BO142	un	_	36.102	_	_	_	_	tsv_only
-13-0	13	BO142	eh	36.506	_	_	_	_	_	tsv_only
-13-1	13	BO142	cor~	_	_	_	_	_	_	tsv_only
-13-2	13	BO142	un	_	37.969	6	un	35.593	37.894	match
-14-0	14	BO142	ehm	38.396	39.61	_	_	_	_	tsv_only
-15-0	15	BO142	metodo	39.79	_	6	metodo	39.915	40.335	match
-15-1	15	BO142	dinamico	_	_	6	dinamico	40.395	41.175	match
-15-2	15	BO142	eh	_	_	_	_	_	_	tsv_only
-15-3	15	BO142	di	_	_	6	di	41.595	41.655	match
-15-4	15	BO142	esprimersi	_	_	6	esprimersi	41.715	42.556	match
-15-5	15	BO142	il	_	_	6	il	42.596	42.676	match
-15-6	15	BO142	fatto	_	_	6	fatto	42.716	42.996	match
-15-7	15	BO142	che	_	_	6	che	43.096	43.316	match
-15-8	15	BO142	sia	_	43.816	6	sia	43.516	43.756	match
-16-0	16	BO142	comunque	44.22	_	6	comunque	44.277	44.937	match
-16-1	16	BO142	ehm	_	46.087	_	_	_	_	tsv_only
-17-0	17	BO142	ehm	46.639	_	_	_	_	_	tsv_only
-17-1	17	BO142	(.)	_	_	_	_	_	_	skipped
-17-2	17	BO142	diciamo	_	_	7	diciamo	47.798	49.159	match
-17-3	17	BO142	mh	_	_	_	_	_	_	tsv_only
-17-4	17	BO142	non	_	_	7	non	49.199	49.319	match
-17-5	17	BO142	imprimibile	_	_	7	imprimibile	49.399	50.199	match
-17-6	17	BO142	su	_	_	7	su	50.399	50.620	match
-17-7	17	BO142	un	_	_	7	un	50.780	51.320	match
-17-8	17	BO142	supporto	_	52.403	7	supporto	51.440	52.401	match
-18-0	18	BO142	fisico	52.771	53.609	7	fisico	52.861	53.481	match
-19-0	19	BO142	e	53.941	_	7	e	54.041	54.161	match
-19-1	19	BO142	il	_	_	7	il	54.282	54.382	match
-19-2	19	BO142	fatto	_	_	7	fatto	54.482	54.922	match
-19-3	19	BO142	che	_	_	7	che	55.042	55.342	match
-19-4	19	BO142	eh	_	_	_	_	_	_	tsv_only
-19-5	19	BO142	segua	_	_	_	_	_	_	tsv_only
-19-6	19	BO142	che	_	_	7	che	56.843	56.963	match
-19-7	19	BO142	sia	_	_	7	sia	57.123	57.283	match
-19-8	19	BO142	più	_	_	7	più	57.403	57.623	match
-19-9	19	BO142	diciamo	_	_	7	diciamo	57.783	58.204	match
-19-10	19	BO142	disordinato	_	_	7	disordinato	58.244	59.044	match
-19-11	19	BO142	dello	_	_	7	dello	59.104	59.344	match
-19-12	19	BO142	scritto	_	60.139	7	scritto	59.404	60.125	match
-20-0	20	BO142	eh	60.558	_	_	_	_	_	tsv_only
-20-1	20	BO142	apparentemente	_	_	7	apparentemente	61.085	62.086	match
-20-2	20	BO142	perché	_	_	7	perché	62.166	62.466	match
-20-3	20	BO142	in	_	_	7	in	62.486	62.546	match
-20-4	20	BO142	verità	_	63.044	7	verità	62.566	63.026	match
-21-0	21	BO142	eh	63.352	_	_	_	_	_	tsv_only
-21-1	21	BO142	il	_	_	7	il	63.927	63.987	match
-21-2	21	BO142	parlato	_	_	7	parlato	64.047	64.807	match
-21-3	21	BO142	usa	_	_	7	usa	65.007	65.407	match
-21-4	21	BO142	comunque	_	_	7	comunque	65.547	66.208	match
-21-5	21	BO142	molte	_	_	7	molte	66.408	66.688	match
-21-6	21	BO142	tecniche	_	_	7	tecniche	66.768	67.629	match
-21-7	21	BO142	che	_	_	_	_	_	_	tsv_only
-21-8	21	BO142	anche	_	_	7	anche	67.689	67.949	match
-21-9	21	BO142	se	_	68.227	7	se	68.069	68.269	match
-22-0	22	??	((bussa))	68.259	68.891	_	_	_	_	skipped
-23-0	23	BO142	eh	68.667	69.175	_	_	_	_	tsv_only
-24-0	24	BO117	avanti	69.763	70.367	7	avanti	69.830	70.350	match
-25-0	25	??	scusatemi	72.227	73.176	_	_	_	_	tsv_only
-26-0	26	BO117	perfetto	73.341	_	7	perfetto	70.490	70.930	match
-26-1	26	BO117	grazie	_	_	7	grazie	70.950	71.190	match
-26-2	26	BO117	mille	_	74.576	7	mille	71.831	72.391	match
-27-0	27	??	grazie	74.58	_	7	grazie	72.451	72.911	match
-27-1	27	??	mille	_	_	7	mille	72.951	73.512	match
-27-2	27	??	arrivederci	_	75.963	_	_	_	_	tsv_only
-28-0	28	BO117	arrivederci	75.301	75.882	7	arrivederci	73.572	75.933	match
-29-0	29	BO142	sì	76.97	_	_	_	_	_	tsv_only
-29-1	29	BO142	voghera	_	_	8	sebboghera	76.947	77.887	mismatch
-29-2	29	BO142	sottolinea	_	_	8	sottolinea	78.067	78.748	match
-29-3	29	BO142	che	_	_	8	che	78.848	79.108	match
-29-4	29	BO142	eh	_	_	_	_	_	_	tsv_only
-29-5	29	BO142	spesso	_	_	8	spesso	79.768	80.228	match
-29-6	29	BO142	il	_	_	8	il	80.288	80.368	match
-29-7	29	BO142	parlato	_	_	8	parlato	80.428	80.848	match
-29-8	29	BO142	è	_	_	8	è	80.909	80.949	match
-29-9	29	BO142	stato	_	81.522	8	stato	81.009	81.429	match
-30-0	30	BO142	snobbato	81.852	_	8	snobbato	81.989	82.669	match
-30-1	30	BO142	tra	_	_	8	tra	82.709	82.869	match
-30-2	30	BO142	virgolette	_	_	8	virgolette	82.929	83.710	match
-30-3	30	BO142	dalla	_	_	8	dalla	83.790	84.010	match
-30-4	30	BO142	concezione	_	_	8	concezione	84.050	84.870	match
-30-5	30	BO142	tipica	_	85.654	8	tipica	85.010	85.650	match
-31-0	31	BO142	dallo	86.014	_	8	dallo	86.110	86.351	match
-31-1	31	BO142	studio	_	_	8	studio	86.391	86.691	match
-31-2	31	BO142	della	_	_	8	della	86.731	86.991	match
-31-3	31	BO142	linguistica	_	_	8	linguistica	87.051	87.711	match
-31-4	31	BO142	o	_	_	8	o	87.731	87.751	match
-31-5	31	BO142	comunque	_	88.367	8	comunque	87.851	88.371	match
-32-0	32	BO142	dalla	88.654	_	8	dalla	88.731	88.952	match
-32-1	32	BO142	sistematizzazione	_	_	8	sistematizzazione	89.012	90.172	match
-32-2	32	BO142	della	_	_	8	della	90.232	91.192	match
-32-3	32	BO142	mh	_	91.11	_	_	_	_	tsv_only
-33-0	33	BO142	linguistica	91.114	_	8	linguistica	91.252	91.913	match
-33-1	33	BO142	e	_	_	8	e	91.933	91.953	match
-33-2	33	BO142	dei	_	_	8	dei	91.993	92.113	match
-33-3	33	BO142	concetti	_	_	8	concetti	92.153	92.593	match
-33-4	33	BO142	che	_	_	8	che	92.653	92.733	match
-33-5	33	BO142	la	_	_	8	la	92.793	92.853	match
-33-6	33	BO142	costituiscono	_	_	8	costituiscono	92.893	93.773	match
-33-7	33	BO142	perché	_	94.205	8	perché	93.853	94.174	match
-34-0	34	BO142	come	94.52	_	8	come	94.594	94.754	match
-34-1	34	BO142	idea	_	_	8	idea	94.774	95.014	match
-34-2	34	BO142	generale	_	_	8	generale	95.054	95.694	match
-34-3	34	BO142	si	_	_	_	_	_	_	tsv_only
-34-4	34	BO142	è	_	_	_	_	_	_	tsv_only
-34-5	34	BO142	par~	_	_	_	_	_	_	tsv_only
-34-6	34	BO142	mh	_	_	_	_	_	_	tsv_only
-34-7	34	BO142	si	_	_	8	si	96.915	96.975	match
-34-8	34	BO142	prende	_	_	8	prende	97.035	97.435	match
-34-9	34	BO142	come	_	97.808	8	come	97.515	97.815	match
-35-0	35	BO142	eh	98.189	_	_	_	_	_	tsv_only
-35-1	35	BO142	presupposto	_	_	8	presupposto	98.875	99.576	match
-35-2	35	BO142	il	_	_	8	il	99.636	99.696	match
-35-3	35	BO142	fatto	_	_	8	fatto	99.756	100.096	match
-35-4	35	BO142	che	_	100.49	_	_	_	_	tsv_only
-36-0	36	BO142	ehm	100.851	102.25	_	_	_	_	tsv_only
-37-0	37	BO142	che	102.356	_	8	che	100.196	100.436	match
-37-1	37	BO142	il	_	_	8	il	102.757	103.237	match
-37-2	37	BO142	parlato	_	_	8	parlato	103.357	103.957	match
-37-3	37	BO142	sia	_	_	8	sia	104.117	104.337	match
-37-4	37	BO142	una	_	_	8	una	104.437	104.577	match
-37-5	37	BO142	categoria	_	_	8	categoria	104.617	105.338	match
-37-6	37	BO142	di	_	105.862	8	di	105.418	105.478	match
-38-0	38	BO142	espressione	106.117	_	9	espressione	106.267	107.088	match
-38-1	38	BO142	secondaria	_	_	9	secondaria	107.228	107.889	match
-38-2	38	BO142	rispetto	_	_	9	rispetto	107.909	108.269	match
-38-3	38	BO142	allo	_	_	9	allo	108.309	108.489	match
-38-4	38	BO142	scritto	_	_	9	scritto	108.549	109.090	match
-38-5	38	BO142	ovvero	_	109.58	9	ovvero	109.110	109.570	match
-39-0	39	BO142	ehm	110.029	111.058	_	_	_	_	tsv_only
-40-0	40	BO142	una	111.477	_	9	una	111.572	111.692	match
-40-1	40	BO142	categoria	_	_	9	categoria	111.752	112.573	match
-40-2	40	BO142	meno	_	_	9	meno	112.833	113.294	match
-40-3	40	BO142	eh	_	_	_	_	_	_	tsv_only
-40-4	40	BO142	(.)	_	_	_	_	_	_	skipped
-40-5	40	BO142	degna	_	_	9	degna	114.455	114.795	match
-40-6	40	BO142	di	_	_	9	di	114.835	114.915	match
-40-7	40	BO142	attenzione	_	115.771	9	attenzione	114.955	115.736	match
-41-0	41	BO142	e	116.852	_	_	_	_	_	tsv_only
-41-1	41	BO142	quindi	_	117.83	10	quindi	117.377	117.818	match
-42-0	42	BO142	eh	118.294	_	_	_	_	_	tsv_only
-42-1	42	BO142	voghera	_	_	_	_	_	_	tsv_only
-42-2	42	BO142	diciamo	_	_	10	boghera	119.399	119.760	mismatch
-42-3	42	BO142	pone	_	_	10	pone	120.300	120.500	match
-42-4	42	BO142	l'	_	_	10	l	120.580	120.642	match
-42-5	42	BO142	attenzione	_	_	10	attenzione	120.642	121.261	match
-42-6	42	BO142	sul	_	_	10	sul	121.361	121.521	match
-42-7	42	BO142	fatto	_	_	10	fatto	121.561	121.801	match
-42-8	42	BO142	che	_	_	10	che	121.861	121.962	match
-42-9	42	BO142	le	_	_	10	le	122.022	122.102	match
-42-10	42	BO142	gramatiche	_	123.104	10	grammatiche	122.162	123.043	mismatch
-43-0	43	BO142	diano	123.521	_	10	diano	123.663	124.124	match
-43-1	43	BO142	una	_	_	_	_	_	_	tsv_only
-43-2	43	BO142	eh	_	_	_	_	_	_	tsv_only
-43-3	43	BO142	un'	_	_	10	un	125.765	125.925	match
-43-4	43	BO142	immagine	_	_	10	immagine	125.925	126.566	match
-43-5	43	BO142	della	_	127.205	_	_	_	_	tsv_only
-44-0	44	BO142	della	127.532	_	10	della	127.627	127.867	match
-44-1	44	BO142	lingua	_	_	10	lingua	127.907	128.367	match
-44-2	44	BO142	che	_	_	10	che	128.468	128.568	match
-44-3	44	BO142	non	_	_	10	non	128.628	128.768	match
-44-4	44	BO142	è	_	_	10	è	128.848	128.968	match
-44-5	44	BO142	ehm	_	_	_	_	_	_	tsv_only
-44-6	44	BO142	veritiera	_	131.044	10	veritiera	130.309	130.990	match
-45-0	45	BO142	in	131.403	_	11	in	131.563	131.623	match
-45-1	45	BO142	quanto	_	_	11	quanto	131.663	133.003	match
-45-2	45	BO142	eh	_	_	_	_	_	_	tsv_only
-45-3	45	BO142	(.)	_	_	_	_	_	_	skipped
-45-4	45	BO142	formano	_	_	11	formano	133.063	133.463	match
-45-5	45	BO142	una	_	_	11	una	133.523	133.663	match
-45-6	45	BO142	lingua	_	_	11	lingua	133.723	134.323	match
-45-7	45	BO142	decontestualizzata	_	136.043	11	decontestualizzata	134.524	135.964	match
-46-0	46	BO142	perché	136.492	_	11	perché	136.524	136.784	match
-46-1	46	BO142	prendono	_	_	11	prendono	136.864	137.284	match
-46-2	46	BO142	tutti	_	_	11	tutti	137.324	137.564	match
-46-3	46	BO142	esempi	_	_	11	esempi	137.604	138.384	match
-46-4	46	BO142	mh	_	139.058	_	_	_	_	tsv_only
-47-0	47	BO142	mh	139.477	_	_	_	_	_	tsv_only
-47-1	47	BO142	estrapolati	_	_	11	estrapolati	139.824	140.525	match
-47-2	47	BO142	da	_	_	_	_	_	_	tsv_only
-47-3	47	BO142	una	_	_	11	dalla	140.585	140.865	mismatch
-47-4	47	BO142	lingua	_	_	11	lingua	140.905	141.225	match
-47-5	47	BO142	standard	_	_	11	standard	141.265	142.065	match
-47-6	47	BO142	che	_	_	11	che	142.085	142.145	match
-47-7	47	BO142	fondamentalmente	_	_	11	fondamentalmente	142.245	143.105	match
-47-8	47	BO142	nessuno	_	_	11	nessuno	143.165	143.545	match
-47-9	47	BO142	usa	_	_	11	usa	143.745	143.885	match
-47-10	47	BO142	alla	_	_	11	alla	143.905	144.125	match
-47-11	47	BO142	fine	_	144.455	11	fine	144.205	144.485	match
-48-0	48	BO142	e	145.131	_	11	e	145.225	145.285	match
-48-1	48	BO142	quindi	_	_	11	quindi	145.405	145.885	match
-48-2	48	BO142	ehm	_	146.977	_	_	_	_	tsv_only
-49-0	49	BO142	relegano	147.701	_	11	relegano	147.846	148.366	match
-49-1	49	BO142	il	_	_	11	il	148.406	148.466	match
-49-2	49	BO142	parlato	_	_	11	parlato	148.526	149.166	match
-49-3	49	BO142	in	_	_	11	in	149.326	149.426	match
-49-4	49	BO142	una	_	_	11	una	149.446	149.726	match
-49-5	49	BO142	mh	_	150.352	_	_	_	_	tsv_only
-50-0	50	BO142	posizione	150.74	_	11	posizione	150.766	151.566	match
-50-1	50	BO142	eh	_	_	_	_	_	_	tsv_only
-50-2	50	BO142	marginale	_	152.823	11	marginale	151.966	152.707	match
-51-0	51	BO142	mentre	153.036	_	11	mentre	153.107	153.387	match
-51-1	51	BO142	invece	_	_	11	invece	153.447	154.007	match
-51-2	51	BO142	il	_	_	11	il	154.207	154.287	match
-51-3	51	BO142	parlato	_	_	11	parlato	154.347	155.007	match
-51-4	51	BO142	anche	_	_	11	anche	155.207	155.447	match
-51-5	51	BO142	se	_	_	11	se	155.527	155.627	match
-51-6	51	BO142	apparentemente	_	_	11	apparentemente	155.647	156.507	match
-51-7	51	BO142	non	_	_	11	non	156.567	156.707	match
-51-8	51	BO142	sembra	_	_	11	sembra	156.787	157.127	match
-51-9	51	BO142	che	_	_	11	che	157.147	157.207	match
-51-10	51	BO142	segua	_	_	11	segua	157.327	157.567	match
-51-11	51	BO142	delle	_	_	11	delle	157.607	157.827	match
-51-12	51	BO142	regole	_	_	11	regole	157.867	158.187	match
-51-13	51	BO142	logiche	_	158.889	11	logiche	158.308	158.888	match
-52-0	52	BO142	segue	159.323	_	11	segue	159.448	159.748	match
-52-1	52	BO142	delle	_	_	11	delle	159.808	160.148	match
-52-2	52	BO142	eh	_	161.176	_	_	_	_	tsv_only
-53-0	53	BO142	eh	162.234	_	_	_	_	_	tsv_only
-53-1	53	BO142	(.)	_	_	_	_	_	_	skipped
-53-2	53	BO142	modalità	_	163.815	12	modalità	162.267	164.189	match
-54-0	54	BO142	ottimali	164.087	_	12	ottimali	164.229	164.970	match
-54-1	54	BO142	per	_	_	12	per	165.090	165.210	match
-54-2	54	BO142	la	_	_	12	la	165.270	165.330	match
-54-3	54	BO142	sua	_	_	12	sua	165.390	165.510	match
-54-4	54	BO142	trasmissione	_	_	12	trasmissione	165.591	166.431	match
-54-5	54	BO142	che	_	_	12	che	166.492	166.592	match
-54-6	54	BO142	non	_	_	12	non	166.652	166.772	match
-54-7	54	BO142	sono	_	_	12	sono	166.832	167.052	match
-54-8	54	BO142	naturalmente	_	_	12	naturalmente	167.132	167.773	match
-54-9	54	BO142	quelle	_	_	12	quelle	167.833	168.053	match
-54-10	54	BO142	dello	_	_	12	dello	168.073	168.313	match
-54-11	54	BO142	scritto	_	_	12	scritto	168.354	168.774	match
-54-12	54	BO142	perché	_	169.117	12	perché	168.834	169.134	match
-55-0	55	BO142	il	169.477	_	12	il	169.575	169.655	match
-55-1	55	BO142	canale	_	_	12	canale	169.715	170.075	match
-55-2	55	BO142	è	_	_	12	è	170.095	170.115	match
-55-3	55	BO142	diverso	_	170.793	12	diverso	170.196	170.816	match
-56-0	56	BO142	però	171.212	_	12	però	171.257	171.557	match
-56-1	56	BO142	(.)	_	_	_	_	_	_	skipped
-56-2	56	BO142	sono	_	_	12	sono	171.757	172.017	match
-56-3	56	BO142	le	_	_	12	le	172.098	172.218	match
-56-4	56	BO142	eh	_	_	_	_	_	_	tsv_only
-56-5	56	BO142	modalità	_	_	12	modalità	172.778	173.299	match
-56-6	56	BO142	migliori	_	_	12	migliori	173.419	174.100	match
-56-7	56	BO142	attraverso	_	_	12	attraverso	174.280	174.841	match
-56-8	56	BO142	le	_	_	12	le	174.901	174.981	match
-56-9	56	BO142	quali	_	_	12	quali	175.041	175.321	match
-56-10	56	BO142	può	_	_	12	può	175.361	175.481	match
-56-11	56	BO142	esprimere	_	_	12	esprimere	175.521	176.062	match
-56-12	56	BO142	e	_	_	12	e	176.082	176.102	match
-56-13	56	BO142	veicolare	_	_	12	veicolare	176.142	176.703	match
-56-14	56	BO142	i	_	_	12	i	176.863	176.903	match
-56-15	56	BO142	suo~	_	_	_	_	_	_	tsv_only
-56-16	56	BO142	i	_	_	12	suoi	176.963	177.143	mismatch
-56-17	56	BO142	concetti	_	_	12	concetti	177.263	177.764	match
-56-18	56	BO142	che	_	_	12	che	177.804	177.924	match
-56-19	56	BO142	vuole	_	178.366	12	vuole	178.024	178.364	match
-57-0	57	BO142	e	179.022	_	_	_	_	_	tsv_only
-57-1	57	BO142	infatti	_	_	13	infatti	179.686	180.186	match
-57-2	57	BO142	vediamo	_	_	13	vediamo	180.246	180.667	match
-57-3	57	BO142	che	_	_	13	che	180.727	180.787	match
-57-4	57	BO142	il	_	_	13	il	180.807	180.867	match
-57-5	57	BO142	parlato	_	181.639	13	parlato	180.927	181.528	match
-58-0	58	BO142	è	182.962	_	13	è	181.548	181.568	match
-58-1	58	BO142	comunque	_	_	14	comunque	183.353	184.013	match
-58-2	58	BO142	una	_	_	14	una	184.234	184.574	match
-58-3	58	BO142	dimensione	_	185.668	14	dimensione	184.734	185.614	match
-59-0	59	BO142	ehm	186.021	_	_	_	_	_	tsv_only
-59-1	59	BO142	(.)	_	_	_	_	_	_	skipped
-59-2	59	BO142	regolata	_	_	14	regolata	187.035	187.715	match
-59-3	59	BO142	in	_	_	14	in	187.855	187.955	match
-59-4	59	BO142	un	_	_	14	un	187.995	188.035	match
-59-5	59	BO142	certo	_	_	14	certo	188.095	188.375	match
-59-6	59	BO142	senso	_	_	14	senso	188.455	188.755	match
-59-7	59	BO142	da	_	_	14	da	188.795	188.976	match
-59-8	59	BO142	regole	_	_	14	regole	189.056	189.436	match
-59-9	59	BO142	anche	_	_	14	anche	189.456	189.756	match
-59-10	59	BO142	tacite	_	_	14	tacite	189.876	190.416	match
-59-11	59	BO142	tra	_	_	14	tra	190.516	190.616	match
-59-12	59	BO142	gli	_	_	14	gli	190.696	190.796	match
-59-13	59	BO142	interlocutori	_	191.742	14	interlocutori	190.816	191.697	match
-60-0	60	BO142	come	192.128	_	14	come	192.197	192.357	match
-60-1	60	BO142	ad	_	_	14	ad	192.397	192.497	match
-60-2	60	BO142	esempio	_	_	14	esempio	192.537	192.837	match
-60-3	60	BO142	i	_	_	14	i	192.917	192.957	match
-60-4	60	BO142	turni	_	193.577	14	turni	192.997	193.498	match
-61-0	61	BO142	che	193.955	_	14	che	193.998	194.098	match
-61-1	61	BO142	sono	_	_	14	sono	194.238	194.458	match
-61-2	61	BO142	le	_	_	14	le	194.518	194.578	match
-61-3	61	BO142	unità	_	_	14	unità	194.618	194.918	match
-61-4	61	BO142	minime	_	_	14	minime	195.058	195.698	match
-61-5	61	BO142	eh	_	196.5	_	_	_	_	tsv_only
-62-0	62	BO142	le	196.852	_	_	_	_	_	tsv_only
-62-1	62	BO142	unità	_	_	14	unità	196.979	197.279	match
-62-2	62	BO142	minime	_	_	14	minime	197.359	197.679	match
-62-3	62	BO142	di	_	_	14	di	197.759	197.839	match
-62-4	62	BO142	studio	_	_	14	studio	197.919	198.380	match
-62-5	62	BO142	ecco	_	_	_	_	_	_	tsv_only
-62-6	62	BO142	del	_	_	14	di	198.800	198.980	mismatch
-62-7	62	BO142	parlato	_	199.75	14	parlato	199.040	199.720	match
-63-0	63	BO117	mhmh	198.628	198.944	_	_	_	_	tsv_only
-64-0	64	BO142	eh	200.366	_	_	_	_	_	tsv_only
-64-1	64	BO142	che	_	_	14	che	200.701	200.801	match
-64-2	64	BO142	scandiscono	_	_	14	scandiscono	200.861	201.501	match
-64-3	64	BO142	la	_	_	14	la	201.581	201.661	match
-64-4	64	BO142	conversazione	_	_	14	conversazione	201.701	202.461	match
-64-5	64	BO142	e	_	_	14	e	202.481	202.501	match
-64-6	64	BO142	il	_	_	14	il	202.541	202.621	match
-64-7	64	BO142	dialogo	_	203.264	14	dialogo	202.681	203.262	match
-65-0	65	BO142	e	203.558	_	14	e	203.642	203.682	match
-65-1	65	BO142	che	_	_	14	che	203.742	203.822	match
-65-2	65	BO142	implicitamente	_	_	14	implicitamente	203.842	204.982	match
-65-3	65	BO142	ehm	_	205.83	_	_	_	_	tsv_only
-66-0	66	BO142	fanno	206.139	_	14	fanno	206.183	206.443	match
-66-1	66	BO142	sì	_	_	14	sì	206.543	206.663	match
-66-2	66	BO142	che	_	_	14	che	206.763	206.903	match
-66-3	66	BO142	gli	_	_	14	gli	206.963	207.063	match
-66-4	66	BO142	utenti	_	_	14	utenti	207.083	207.744	match
-66-5	66	BO142	(.)	_	_	_	_	_	_	skipped
-66-6	66	BO142	eh	_	_	_	_	_	_	tsv_only
-66-7	66	BO142	sottostiano	_	_	14	sottostiano	208.564	209.244	match
-66-8	66	BO142	a	_	_	_	_	_	_	tsv_only
-66-9	66	BO142	delle	_	_	14	delle	209.324	209.564	match
-66-10	66	BO142	regole	_	_	14	regole	209.624	210.105	match
-66-11	66	BO142	ovvero	_	210.69	14	ovvero	210.185	210.605	match
-67-0	67	BO142	eh	211.043	_	_	_	_	_	tsv_only
-67-1	67	BO142	scandiscon~	_	_	_	_	_	_	tsv_only
-67-2	67	BO142	cioè	_	_	_	_	_	_	tsv_only
-67-3	67	BO142	sono	_	_	15	sono	212.666	212.846	match
-67-4	67	BO142	scanditi	_	_	15	scanditi	212.906	213.346	match
-67-5	67	BO142	da	_	_	15	da	213.406	213.526	match
-67-6	67	BO142	punti	_	214.389	15	punti	213.666	214.266	match
-68-0	68	BO142	eh	214.602	_	_	_	_	_	tsv_only
-68-1	68	BO142	(.)	_	_	_	_	_	_	skipped
-68-2	68	BO142	dove	_	_	15	dove	215.707	216.047	match
-68-3	68	BO142	è	_	_	15	è	216.107	216.147	match
-68-4	68	BO142	possibile	_	_	15	possibile	216.287	216.907	match
-68-5	68	BO142	cedere	_	_	15	cedere	216.927	217.408	match
-68-6	68	BO142	la	_	_	15	la	217.468	217.568	match
-68-7	68	BO142	parola	_	218.213	15	parola	217.628	218.108	match
-69-0	69	BO117	e	218.823	_	16	che	218.928	219.008	mismatch
-69-1	69	BO117	si	_	_	16	si	219.048	219.108	match
-69-2	69	BO117	chiamano	_	219.639	16	chiamano	219.168	219.588	match
-70-0	70	BO142	e	218.823	219.11	_	_	_	_	tsv_only
-71-0	71	BO142	eh	220.437	_	_	_	_	_	tsv_only
-71-1	71	BO142	xxx	_	_	_	_	_	_	skipped
-71-2	71	BO142	eh	_	_	_	_	_	_	tsv_only
-71-3	71	BO142	x	_	_	_	_	_	_	skipped
-71-4	71	BO142	ehm	_	223.941	_	_	_	_	tsv_only
-72-0	72	BO117	ti	220.441	_	_	_	_	_	tsv_only
-72-1	72	BO117	ricordi	_	221.132	_	_	_	_	tsv_only
-73-0	73	??	((bussa))	222.481	222.952	_	_	_	_	skipped
-74-0	74	??	avanti	224.565	224.896	_	_	_	_	tsv_only
-75-0	75	BO142	posisc~	224.896	_	17	si	221.309	222.950	mismatch
-75-1	75	BO142	no	_	225.719	17	ricorda	224.690	225.551	mismatch
-76-0	76	BO117	punti	226.057	_	18	punti	226.111	226.391	match
-76-1	76	BO117	di	_	_	18	di	226.451	226.511	match
-76-2	76	BO117	rilevanza	_	227.294	18	rilevanza	226.551	227.251	match
-77-0	77	BO142	transizionale	227.3	228.256	19	transizionale	227.371	227.892	match
-78-0	78	BO117	eh	229.852	_	_	_	_	_	tsv_only
-78-1	78	BO117	(.)	_	_	_	_	_	_	skipped
-78-2	78	BO117	sì	_	231.359	_	_	_	_	tsv_only
-79-0	79	BO142	punti	230.235	_	20	punti	229.852	230.673	match
-79-1	79	BO142	di	_	_	20	di	230.693	230.733	match
-79-2	79	BO142	rilevanza	_	_	20	rilevanza	230.793	231.334	match
-79-3	79	BO142	transizionale	_	_	20	transizionale	231.414	232.255	match
-79-4	79	BO142	in	_	_	20	in	232.275	232.315	match
-79-5	79	BO142	cui	_	_	20	cui	232.495	232.776	match
-79-6	79	BO142	eh	_	_	_	_	_	_	tsv_only
-79-7	79	BO142	appunto	_	234.058	20	appunto	233.096	233.977	match
-80-0	80	BO142	l'	234.094	_	20	l	234.218	234.274	match
-80-1	80	BO142	interlocutore	_	_	20	interlocutore	234.274	234.999	match
-80-2	80	BO142	capisce	_	_	20	capisce	235.019	235.599	match
-80-3	80	BO142	che	_	_	20	e	235.699	235.739	mismatch
-80-4	80	BO142	potrebbe	_	_	20	potrebbe	235.800	236.180	match
-80-5	80	BO142	prendere	_	_	20	prendere	236.240	236.641	match
-80-6	80	BO142	la	_	_	20	la	236.721	236.781	match
-80-7	80	BO142	parola	_	237.425	20	parola	236.841	237.362	match
-81-0	81	BO142	poi	237.969	_	20	poi	238.022	238.383	match
-81-1	81	BO142	(.)	_	_	_	_	_	_	skipped
-81-2	81	BO142	ci	_	_	20	ci	238.563	238.643	match
-81-3	81	BO142	sono	_	_	20	sono	238.743	239.164	match
-81-4	81	BO142	(.)	_	_	_	_	_	_	skipped
-81-5	81	BO142	molte	_	_	20	molte	239.404	239.664	match
-81-6	81	BO142	altre	_	_	20	altre	239.705	239.985	match
-81-7	81	BO142	regole	_	_	20	regole	240.065	240.486	match
-81-8	81	BO142	come	_	_	20	come	240.566	240.726	match
-81-9	81	BO142	ad	_	_	20	ad	240.786	240.886	match
-81-10	81	BO142	esempio	_	241.719	20	esempio	240.926	241.587	match
-82-0	82	BO142	l~	242.484	_	_	_	_	_	tsv_only
-82-1	82	BO142	la	_	_	20	la	242.889	242.989	match
-82-2	82	BO142	regola	_	_	20	regola	243.029	243.369	match
-82-3	82	BO142	che	_	243.823	20	che	243.549	243.650	match
-83-0	83	BO142	eh	244.249	_	_	_	_	_	tsv_only
-83-1	83	BO142	al	_	_	21	al	245.451	245.551	match
-83-2	83	BO142	primo	_	_	21	primo	245.611	245.831	match
-83-3	83	BO142	punto	_	_	21	punto	245.911	246.151	match
-83-4	83	BO142	di	_	_	21	di	246.212	246.312	match
-83-5	83	BO142	rilevanza	_	_	21	rilevanza	246.392	246.892	match
-83-6	83	BO142	transizionale	_	248.11	21	transizionale	246.952	248.014	match
-84-0	84	BO142	ehm	248.413	_	_	_	_	_	tsv_only
-84-1	84	BO142	il	_	_	21	il	249.456	249.516	match
-84-2	84	BO142	parlante	_	_	21	parlante	249.596	250.096	match
-84-3	84	BO142	deve	_	_	21	deve	250.157	250.437	match
-84-4	84	BO142	fare	_	_	21	fare	250.477	250.637	match
-84-5	84	BO142	in	_	_	21	in	250.697	250.757	match
-84-6	84	BO142	modo	_	_	21	modo	250.817	251.138	match
-84-7	84	BO142	di	_	251.42	_	_	_	_	tsv_only
-85-0	85	BO142	da	251.543	_	_	_	_	_	tsv_only
-85-1	85	BO142	eh	_	_	_	_	_	_	tsv_only
-85-2	85	BO142	di	_	_	21	di	251.739	252.740	match
-85-3	85	BO142	mh	_	_	_	_	_	_	tsv_only
-85-4	85	BO142	cedere	_	_	21	cedere	253.321	253.661	match
-85-5	85	BO142	la	_	_	21	la	253.741	253.821	match
-85-6	85	BO142	parola	_	_	21	parola	253.861	254.402	match
-85-7	85	BO142	a	_	_	21	a	254.542	254.602	match
-85-8	85	BO142	un	_	_	21	un	254.642	254.722	match
-85-9	85	BO142	altro	_	_	21	altro	254.742	255.003	match
-85-10	85	BO142	interlocutore	_	256.079	21	interlocutore	255.043	255.984	match
-86-0	86	BO142	che	256.557	_	21	che	256.605	256.765	match
-86-1	86	BO142	continui	_	_	21	continua	256.985	257.326	mismatch
-86-2	86	BO142	il	_	_	21	il	257.426	257.466	match
-86-3	86	BO142	discorso	_	_	21	discorso	257.506	258.107	match
-86-4	86	BO142	o	_	_	21	o	258.147	258.167	match
-86-5	86	BO142	comunque	_	_	21	comunque	258.267	258.627	match
-86-6	86	BO142	gli	_	_	21	gli	258.667	258.788	match
-86-7	86	BO142	risponda	_	259.697	21	risponda	258.828	259.468	match
-87-0	87	BO142	eh	259.962	260.55	_	_	_	_	tsv_only
-88-0	88	BO142	e	260.704	_	22	e	260.830	260.890	match
-88-1	88	BO142	poi	_	_	22	poi	260.970	261.190	match
-88-2	88	BO142	in	_	_	22	in	261.290	261.370	match
-88-3	88	BO142	assenza	_	_	22	assenza	261.410	261.970	match
-88-4	88	BO142	di	_	_	22	di	262.030	262.070	match
-88-5	88	BO142	un	_	_	22	un	262.110	262.230	match
-88-6	88	BO142	interlocutore	_	_	22	interlocutore	262.270	263.691	match
-88-7	88	BO142	può	_	_	_	_	_	_	tsv_only
-88-8	88	BO142	eh	_	_	_	_	_	_	tsv_only
-88-9	88	BO142	una	_	_	22	una	264.772	264.892	match
-88-10	88	BO142	persona	_	_	22	persona	264.952	265.652	match
-88-11	88	BO142	(.)	_	_	_	_	_	_	skipped
-88-12	88	BO142	si	_	_	_	_	_	_	tsv_only
-88-13	88	BO142	può	_	266.366	_	_	_	_	tsv_only
-89-0	89	BO142	eh	266.683	_	_	_	_	_	tsv_only
-89-1	89	BO142	f~	_	_	_	_	_	_	tsv_only
-89-2	89	BO142	mh	_	_	_	_	_	_	tsv_only
-89-3	89	BO142	ehm	_	268.205	_	_	_	_	tsv_only
-90-0	90	BO142	sì	268.625	_	22	si	265.912	265.992	match
-90-1	90	BO142	può	_	_	22	può	266.072	266.333	match
-90-2	90	BO142	mh	_	269.897	_	_	_	_	tsv_only
-91-0	91	BO142	diciamo	270.404	270.963	_	_	_	_	tsv_only
-92-0	92	BO142	dire	271.731	_	22	dire	271.896	272.116	match
-92-1	92	BO142	volontaria	_	_	22	volontaria	272.196	272.916	match
-92-2	92	BO142	per	_	_	22	per	273.016	273.216	match
-92-3	92	BO142	continuare	_	_	22	continuare	273.356	273.797	match
-92-4	92	BO142	il	_	_	22	il	273.857	273.917	match
-92-5	92	BO142	discorso	_	274.797	22	discorso	273.957	274.717	match
-93-0	93	BO142	eh	275.286	_	_	_	_	_	tsv_only
-93-1	93	BO142	oppure	_	_	22	oppure	275.698	276.058	match
-93-2	93	BO142	in	_	_	22	in	276.098	276.178	match
-93-3	93	BO142	assenza	_	_	22	assenza	276.218	276.838	match
-93-4	93	BO142	sia	_	_	22	sia	277.098	277.298	match
-93-5	93	BO142	di	_	_	22	di	277.399	277.579	match
-93-6	93	BO142	una	_	_	22	una	278.419	278.559	match
-93-7	93	BO142	persona	_	279.168	22	persona	278.619	279.099	match
-_	_	_	_	_	_	22	a	279.119	279.139	whisper_only
-94-0	94	BO142	cui	279.242	_	22	cui	279.280	279.440	match
-94-1	94	BO142	(.)	_	_	_	_	_	_	skipped
-94-2	94	BO142	mh	_	_	22	è	279.460	279.480	mismatch
-94-3	94	BO142	incaricata	_	_	22	incaricata	279.800	280.460	match
-94-4	94	BO142	di	_	_	22	di	280.520	280.580	match
-94-5	94	BO142	continuare	_	_	22	continuare	280.620	281.041	match
-94-6	94	BO142	il	_	_	22	il	281.101	281.161	match
-94-7	94	BO142	discorso	_	_	22	discorso	281.201	281.681	match
-94-8	94	BO142	sia	_	_	22	sia	281.801	281.901	match
-94-9	94	BO142	di	_	_	22	di	281.981	282.061	match
-94-10	94	BO142	una	_	_	22	una	282.101	282.201	match
-94-11	94	BO142	persona	_	_	22	persona	282.241	282.701	match
-94-12	94	BO142	che	_	_	_	_	_	_	tsv_only
-94-13	94	BO142	si	_	283.286	_	_	_	_	tsv_only
-95-0	95	BO142	che	283.562	_	22	che	282.761	283.722	match
-95-1	95	BO142	è	_	_	22	è	283.742	283.762	match
-95-2	95	BO142	volontaria	_	_	22	volontaria	283.842	284.422	match
-95-3	95	BO142	per	_	_	22	per	284.482	284.622	match
-95-4	95	BO142	continuarlo	_	285.555	22	continuarlo	284.702	285.443	match
-96-0	96	BO142	l'	285.801	_	_	_	_	_	tsv_only
-96-1	96	BO142	int~	_	_	_	_	_	_	tsv_only
-96-2	96	BO142	il	_	_	_	_	_	_	tsv_only
-96-3	96	BO142	il	_	_	23	il	286.009	286.889	match
-96-4	96	BO142	parlante	_	_	23	parlante	286.929	287.450	match
-96-5	96	BO142	può	_	_	23	può	287.510	287.650	match
-96-6	96	BO142	continuare	_	_	23	continuare	287.750	288.190	match
-96-7	96	BO142	la	_	_	23	la	288.290	288.350	match
-96-8	96	BO142	sua	_	_	23	sua	288.390	288.510	match
-96-9	96	BO142	conversazione	_	_	23	conversazione	288.550	289.330	match
-96-10	96	BO142	riprendendo	_	_	23	riprendendo	289.350	289.990	match
-96-11	96	BO142	il	_	_	23	il	290.010	290.050	match
-96-12	96	BO142	turno	_	290.566	23	turno	290.170	290.571	match
-97-0	97	BO117	mhm	290.761	291.08	_	_	_	_	tsv_only
-98-0	98	BO142	e	291.312	_	24	e	291.411	291.451	match
-98-1	98	BO142	poi	_	_	24	poi	291.591	291.971	match
-98-2	98	BO142	eh	_	_	_	_	_	_	tsv_only
-98-3	98	BO142	un'	_	_	24	un	292.711	292.911	match
-98-4	98	BO142	altra	_	293.492	24	altra	292.911	293.411	match
-99-0	99	BO142	eh	294.477	_	_	_	_	_	tsv_only
-99-1	99	BO142	regola	_	_	24	regola	294.852	295.272	match
-99-2	99	BO142	che	_	_	24	che	295.332	295.432	match
-99-3	99	BO142	scandisce	_	_	24	scandisce	295.492	296.112	match
-99-4	99	BO142	la	_	_	_	_	_	_	tsv_only
-99-5	99	BO142	cioè	_	_	_	_	_	_	tsv_only
-99-6	99	BO142	un'	_	_	24	un	296.392	296.632	match
-99-7	99	BO142	altra	_	_	24	altra	296.632	297.233	match
-99-8	99	BO142	unità	_	_	24	unità	297.273	297.733	match
-99-9	99	BO142	d'	_	_	24	di	297.853	297.933	mismatch
-99-10	99	BO142	interesse	_	_	24	interesse	297.953	298.633	match
-99-11	99	BO142	del	_	_	24	del	298.653	298.713	match
-99-12	99	BO142	parlato	_	_	24	parlato	298.813	299.353	match
-99-13	99	BO142	che	_	_	24	che	299.373	299.513	match
-99-14	99	BO142	è	_	_	24	è	299.533	299.553	match
-99-15	99	BO142	stata	_	_	24	stata	299.613	299.894	match
-99-16	99	BO142	studiata	_	300.572	24	studiata	299.954	300.554	match
-100-0	100	BO142	sono	301.014	_	24	sono	301.094	301.294	match
-100-1	100	BO142	le	_	_	24	le	301.354	301.414	match
-100-2	100	BO142	mosse	_	_	24	mosse	301.474	301.754	match
-100-3	100	BO142	comunicative	_	302.764	24	comunicative	301.814	302.734	match
-101-0	101	BO117	mh	302.885	303.15	_	_	_	_	tsv_only
-102-0	102	BO142	ovvero	303.506	_	24	ovvero	303.595	304.195	match
-102-1	102	BO142	ehm	_	305.117	_	_	_	_	tsv_only
-103-0	103	BO142	un	305.485	_	24	un	305.595	305.675	match
-103-1	103	BO142	insieme	_	_	24	insieme	305.715	306.216	match
-103-2	103	BO142	di	_	_	24	di	306.316	306.516	match
-103-3	103	BO142	ehm	_	_	_	_	_	_	tsv_only
-103-4	103	BO142	azioni	_	308.132	24	azioni	307.396	308.076	match
-104-0	104	BO142	che	308.513	_	_	_	_	_	tsv_only
-104-1	104	BO142	eh	_	310.153	_	_	_	_	tsv_only
-105-0	105	BO142	che	310.69	_	24	che	310.757	310.877	match
-105-1	105	BO142	si	_	_	24	si	310.977	311.057	match
-105-2	105	BO142	rispettano	_	_	24	rispettano	311.117	311.797	match
-105-3	105	BO142	durante	_	_	24	durante	311.857	312.178	match
-105-4	105	BO142	una	_	_	24	una	312.218	312.338	match
-105-5	105	BO142	conversazione	_	313.455	24	conversazione	312.378	313.378	match
-106-0	106	BO142	che	313.948	_	25	che	314.020	314.140	match
-106-1	106	BO142	spesso	_	_	25	spesso	314.180	316.762	match
-106-2	106	BO142	sono	_	_	25	sono	317.062	317.802	match
-106-3	106	BO142	eh	_	315.881	_	_	_	_	tsv_only
-107-0	107	BO117	si	315.881	_	_	_	_	_	tsv_only
-107-1	107	BO117	rispettano	_	_	_	_	_	_	tsv_only
-107-2	107	BO117	forse	_	_	_	_	_	_	tsv_only
-107-3	107	BO117	non	_	_	_	_	_	_	tsv_only
-107-4	107	BO117	è	_	_	_	_	_	_	tsv_only
-107-5	107	BO117	proprio	_	_	_	_	_	_	tsv_only
-107-6	107	BO117	il	_	_	_	_	_	_	tsv_only
-107-7	107	BO117	termine	_	318.8	_	_	_	_	tsv_only
-108-0	108	BO142	un	319.3	_	25	un	319.403	319.503	match
-108-1	108	BO142	insieme	_	_	25	insieme	319.523	319.844	match
-108-2	108	BO142	di	_	_	25	di	319.904	319.944	match
-108-3	108	BO142	azioni	_	_	25	azioni	319.964	320.604	match
-108-4	108	BO142	contemplate	_	_	25	contemplate	320.704	321.444	match
-108-5	108	BO142	in	_	_	25	in	321.525	321.585	match
-108-6	108	BO142	una	_	_	25	una	321.605	321.705	match
-108-7	108	BO142	xxx	_	_	_	_	_	_	skipped
-108-8	108	BO142	e	_	322.955	_	_	_	_	tsv_only
-109-0	109	BO117	migliore	319.609	320.366	_	_	_	_	tsv_only
-110-0	110	BO117	ma	322.455	_	_	_	_	_	tsv_only
-110-1	110	BO117	vada	_	_	_	_	_	_	tsv_only
-110-2	110	BO117	avanti	_	_	_	_	_	_	tsv_only
-110-3	110	BO117	vada	_	_	_	_	_	_	tsv_only
-110-4	110	BO117	avanti	_	_	_	_	_	_	tsv_only
-110-5	110	BO117	comunque	_	324.087	_	_	_	_	tsv_only
-111-0	111	BO142	cioè	323.819	_	25	conversione	321.745	324.046	mismatch
-111-1	111	BO142	che	_	_	25	che	324.186	324.306	match
-111-2	111	BO142	si	_	_	25	si	324.426	324.526	match
-111-3	111	BO142	definiscono	_	_	25	definiscono	324.606	325.467	match
-111-4	111	BO142	proprio	_	_	25	proprio	325.527	325.807	match
-111-5	111	BO142	per	_	_	25	per	325.887	326.007	match
-111-6	111	BO142	la	_	_	25	la	326.067	326.147	match
-111-7	111	BO142	loro	_	326.676	25	loro	326.207	326.668	match
-112-0	112	BO142	sequenzialità	327.021	328.22	25	sequenzialità	327.128	328.148	match
-113-0	113	BO142	e	328.61	_	25	e	328.689	328.749	match
-113-1	113	BO142	per	_	_	25	per	328.809	328.929	match
-113-2	113	BO142	il	_	_	25	il	328.989	329.069	match
-113-3	113	BO142	fatto	_	_	25	fatto	329.169	329.609	match
-113-4	113	BO142	di	_	_	_	_	_	_	tsv_only
-113-5	113	BO142	ehm	_	330.933	_	_	_	_	tsv_only
-114-0	114	BO142	di	331.544	_	25	di	329.709	332.471	match
-114-1	114	BO142	diciamo	_	_	_	_	_	_	tsv_only
-114-2	114	BO142	definirsi	_	_	25	definirsi	332.531	333.151	match
-114-3	114	BO142	sulla	_	_	25	sulla	333.231	333.452	match
-114-4	114	BO142	base	_	_	25	base	333.532	333.992	match
-114-5	114	BO142	di	_	_	25	di	334.032	334.092	match
-114-6	114	BO142	quelle	_	_	25	quelle	334.132	334.352	match
-114-7	114	BO142	che	_	_	25	che	334.412	334.492	match
-114-8	114	BO142	vengono	_	_	25	vengono	334.552	334.852	match
-114-9	114	BO142	prima	_	_	25	prima	334.972	335.173	match
-114-10	114	BO142	e	_	_	25	e	335.193	335.213	match
-114-11	114	BO142	quelle	_	_	25	quelle	335.253	335.453	match
-114-12	114	BO142	che	_	_	25	che	335.473	335.573	match
-114-13	114	BO142	vengano	_	_	25	vengono	335.593	335.953	mismatch
-114-14	114	BO142	dopo	_	_	25	dopo	336.013	336.253	match
-114-15	114	BO142	ad	_	_	25	ad	336.293	336.413	match
-114-16	114	BO142	esempio	_	336.889	25	esempio	336.453	336.914	match
-115-0	115	BO142	eh	337.403	_	_	_	_	_	tsv_only
-115-1	115	BO142	a	_	_	25	a	337.974	338.034	match
-115-2	115	BO142	un	_	_	25	un	338.054	338.114	match
-115-3	115	BO142	saluto	_	_	25	saluto	338.214	338.875	match
-115-4	115	BO142	(.)	_	_	_	_	_	_	skipped
-115-5	115	BO142	sappiamo	_	_	25	sappiamo	339.275	339.835	match
-115-6	115	BO142	che	_	_	25	che	339.935	340.176	match
-115-7	115	BO142	eh	_	_	_	_	_	_	tsv_only
-115-8	115	BO142	corrisponderà	_	_	25	corrisponderà	340.656	341.316	match
-115-9	115	BO142	un	_	_	25	un	341.396	341.456	match
-115-10	115	BO142	altro	_	_	25	altro	341.496	341.716	match
-115-11	115	BO142	saluto	_	342.521	25	saluto	341.817	342.297	match
-116-0	116	BO142	ad	342.79	_	26	ad	342.936	343.056	match
-116-1	116	BO142	un	_	343.841	26	un	343.156	344.437	match
-117-0	117	BO142	favore	344.349	_	26	favore	344.497	344.997	match
-117-1	117	BO142	o	_	_	26	o	345.017	345.037	match
-117-2	117	BO142	comunque	_	_	26	comunque	345.197	345.577	match
-117-3	117	BO142	un	_	_	26	un	345.617	345.697	match
-117-4	117	BO142	rigraziamento	_	_	26	ringraziamento	345.757	346.778	mismatch
-117-5	117	BO142	eccetera	_	_	26	eccetera	346.838	347.418	match
-117-6	117	BO142	quindi	_	347.983	27	quindi	347.478	347.858	match
-118-0	118	BO142	sono	348.242	_	27	sono	348.338	348.538	match
-118-1	118	BO142	comunque	_	_	27	comunque	348.618	349.039	match
-118-2	118	BO142	regole	_	_	27	regole	349.119	349.599	match
-118-3	118	BO142	che	_	_	_	_	_	_	tsv_only
-118-4	118	BO142	eh	_	350.757	_	_	_	_	tsv_only
-119-0	119	BO142	che	351.194	_	27	che	351.280	351.520	match
-119-1	119	BO142	condizionano	_	_	27	condizionano	351.640	352.580	match
-119-2	119	BO142	il	_	353.477	_	_	_	_	tsv_only
-120-0	120	BO142	eh	354.455	_	_	_	_	_	tsv_only
-120-1	120	BO142	(.)	_	_	_	_	_	_	skipped
-120-2	120	BO142	il	_	_	27	il	356.022	356.102	match
-120-3	120	BO142	parlato	_	356.808	27	parlato	356.162	356.802	match
-121-0	121	BO142	ehm	357.624	358.977	_	_	_	_	tsv_only
-122-0	122	BO117	senta	359.187	_	28	senta	359.263	359.523	match
-122-1	122	BO117	e	_	_	_	_	_	_	tsv_only
-122-2	122	BO117	come	_	_	28	come	359.623	359.803	match
-122-3	122	BO117	definiamo	_	_	28	definiamo	359.863	360.404	match
-122-4	122	BO117	contesto	_	_	28	contesto	360.464	361.064	match
-122-5	122	BO117	cos'	_	_	29	cos	361.124	361.304	match
-122-6	122	BO117	è	_	_	29	è	361.304	361.364	match
-122-7	122	BO117	un	_	_	29	il	361.464	361.504	mismatch
-122-8	122	BO117	contesto	_	362.128	29	contesto	361.524	362.084	match
-123-0	123	BO142	allora	362.683	_	30	allora	362.885	363.165	match
-123-1	123	BO142	il	_	_	30	il	363.185	363.225	match
-123-2	123	BO142	contesto	_	_	30	contesto	363.285	364.125	match
-123-3	123	BO142	è	_	_	30	è	364.365	364.525	match
-123-4	123	BO142	eh	_	_	_	_	_	_	tsv_only
-123-5	123	BO142	l'	_	_	30	l	365.426	365.496	match
-123-6	123	BO142	insieme	_	_	30	insieme	365.496	365.986	match
-123-7	123	BO142	degli	_	_	30	degli	366.086	366.346	match
-123-8	123	BO142	elementi	_	_	30	elementi	366.386	366.906	match
-123-9	123	BO142	extralinguistici	_	_	30	extralinguistici	366.986	368.247	match
-123-10	123	BO142	che	_	368.566	30	che	368.367	368.547	match
-124-0	124	BO142	condiziona	368.86	_	30	condiziona	368.947	369.788	match
-124-1	124	BO142	eh	_	370.727	_	_	_	_	tsv_only
-125-0	125	BO142	il	371.161	_	_	_	_	_	tsv_only
-125-1	125	BO142	un	_	_	31	un	372.364	372.424	match
-125-2	125	BO142	enuciato	_	_	31	enunciato	372.484	373.265	mismatch
-125-3	125	BO142	(.)	_	_	_	_	_	_	skipped
-125-4	125	BO142	o	_	_	31	o	373.725	373.765	match
-125-5	125	BO142	comunque	_	_	31	comunque	373.865	374.486	match
-125-6	125	BO142	eh	_	375.359	_	_	_	_	tsv_only
-126-0	126	BO142	diciamo	375.999	_	_	_	_	_	tsv_only
-126-1	126	BO142	mh	_	376.932	_	_	_	_	tsv_only
-127-0	127	BO142	fornisce	377.198	_	31	fornisce	377.288	378.169	match
-127-1	127	BO142	il	_	_	_	_	_	_	tsv_only
-127-2	127	BO142	l'	_	_	31	l	378.429	378.614	match
-127-3	127	BO142	ambiente	_	_	31	ambiente	378.614	380.091	match
-127-4	127	BO142	in	_	_	31	in	380.131	380.211	match
-127-5	127	BO142	cui	_	_	31	cui	380.291	380.671	match
-127-6	127	BO142	eh	_	_	_	_	_	_	tsv_only
-127-7	127	BO142	un	_	_	_	_	_	_	tsv_only
-127-8	127	BO142	enuciato	_	_	_	_	_	_	tsv_only
-127-9	127	BO142	si	_	382.377	_	_	_	_	tsv_only
-128-0	128	BO142	eh	382.675	_	_	_	_	_	tsv_only
-128-1	128	BO142	un	_	_	31	un	381.192	381.272	match
-128-2	128	BO142	euniciato	_	_	_	_	_	_	tsv_only
-128-3	128	BO142	eh	_	385.043	31	enunciato	381.312	381.892	mismatch
-129-0	129	BO142	prende	385.764	_	31	prende	382.092	384.034	match
-129-1	129	BO142	significato	_	387.205	31	significato	384.094	384.715	match
-130-0	130	BO142	quindi	387.661	_	32	quindi	387.773	388.153	match
-130-1	130	BO142	eh	_	_	_	_	_	_	tsv_only
-130-2	130	BO142	diciamo	_	_	32	diciamo	388.513	388.954	match
-130-3	130	BO142	che	_	_	_	_	_	_	tsv_only
-130-4	130	BO142	è	_	_	_	_	_	_	tsv_only
-130-5	130	BO142	il	_	390.227	_	_	_	_	tsv_only
-131-0	131	BO117	sì	389.999	_	_	_	_	_	tsv_only
-131-1	131	BO117	che	_	_	32	che	389.074	389.314	match
-131-2	131	BO117	lo	_	_	32	lo	390.414	390.495	match
-131-3	131	BO117	condiziona	_	_	32	condiziona	390.555	391.715	match
-131-4	131	BO117	non	_	_	_	_	_	_	tsv_only
-131-5	131	BO117	è	_	_	_	_	_	_	tsv_only
-131-6	131	BO117	molto	_	_	_	_	_	_	tsv_only
-131-7	131	BO117	(.)	_	_	_	_	_	_	skipped
-131-8	131	BO117	preciso	_	_	_	_	_	_	tsv_only
-131-9	131	BO117	effettivamente	_	_	_	_	_	_	tsv_only
-131-10	131	BO117	ma	_	_	_	_	_	_	tsv_only
-131-11	131	BO117	li	_	_	_	_	_	_	tsv_only
-131-12	131	BO117	m~	_	_	_	_	_	_	tsv_only
-131-13	131	BO117	mh	_	_	_	_	_	_	tsv_only
-131-14	131	BO117	meglio	_	_	_	_	_	_	tsv_only
-131-15	131	BO117	la	_	_	_	_	_	_	tsv_only
-131-16	131	BO117	seconda	_	_	_	_	_	_	tsv_only
-131-17	131	BO117	(.)	_	_	_	_	_	_	skipped
-131-18	131	BO117	mh	_	395.47	_	_	_	_	tsv_only
-132-0	132	BO142	sì	391.312	_	_	_	_	_	tsv_only
-132-1	132	BO142	no	_	391.907	_	_	_	_	tsv_only
-133-0	133	BO142	all'	394.242	_	32	all	391.815	392.758	match
-133-1	133	BO142	interno	_	_	32	interno	392.758	394.957	match
-133-2	133	BO142	del	_	_	32	del	394.997	395.197	match
-133-3	133	BO142	quale	_	_	32	quale	395.257	395.797	match
-133-4	133	BO142	eh	_	_	_	_	_	_	tsv_only
-133-5	133	BO142	assume	_	_	32	assume	396.858	397.218	match
-133-6	133	BO142	un	_	_	32	un	397.258	397.318	match
-133-7	133	BO142	significato	_	_	32	significato	397.378	398.059	match
-133-8	133	BO142	un	_	_	32	un	398.079	398.159	match
-133-9	133	BO142	enunciato	_	398.863	32	enunciato	398.199	398.899	match
-134-0	134	BO142	ovvero	399.52	_	32	ovvero	399.639	400.040	match
-134-1	134	BO142	tutta	_	_	32	tutta	400.120	400.320	match
-134-2	134	BO142	una	_	_	32	una	400.360	400.500	match
-134-3	134	BO142	serie	_	_	32	serie	400.580	400.880	match
-134-4	134	BO142	di	_	_	32	di	400.980	401.160	match
-134-5	134	BO142	eh	_	_	_	_	_	_	tsv_only
-134-6	134	BO142	referenti	_	_	32	referenti	401.961	402.861	match
-134-7	134	BO142	di	_	403.294	_	_	_	_	tsv_only
-135-0	135	BO142	ehm	403.616	404.835	_	_	_	_	tsv_only
-136-0	136	BO142	di	405.28	_	32	di	405.422	405.703	match
-136-1	136	BO142	mh	_	_	_	_	_	_	tsv_only
-136-2	136	BO142	valore	_	_	32	valori	406.323	406.783	mismatch
-136-3	136	BO142	extraliguistici	_	_	32	extralinguistici	406.943	408.204	mismatch
-136-4	136	BO142	che	_	_	32	che	408.264	408.384	match
-136-5	136	BO142	fanno	_	_	32	fanno	408.484	408.724	match
-136-6	136	BO142	in	_	_	32	in	408.764	408.844	match
-136-7	136	BO142	modo	_	_	32	modo	408.904	409.264	match
-136-8	136	BO142	che	_	_	32	che	409.405	409.585	match
-136-9	136	BO142	l'	_	_	32	l	409.605	409.669	match
-136-10	136	BO142	enunciato	_	_	32	enunciato	409.669	410.245	match
-136-11	136	BO142	stesso	_	_	32	stesso	410.345	410.805	match
-136-12	136	BO142	abbia	_	411.253	32	abbia	410.905	411.225	match
-137-0	137	BO142	significato	411.616	_	32	significato	411.726	412.466	match
-137-1	137	BO142	perché	_	_	32	perché	412.546	412.806	match
-137-2	137	BO142	eh	_	413.527	_	_	_	_	tsv_only
-138-0	138	BO142	è	414.52	_	33	è	414.641	414.681	match
-138-1	138	BO142	stato	_	_	33	stato	414.741	415.121	match
-138-2	138	BO142	sottolineato	_	_	33	sottolineato	415.161	415.821	match
-138-3	138	BO142	varie	_	_	33	varie	415.901	416.101	match
-138-4	138	BO142	volte	_	_	33	volte	416.161	416.601	match
-138-5	138	BO142	nel	_	_	_	_	_	_	tsv_only
-138-6	138	BO142	in	_	_	33	in	417.161	417.221	match
-138-7	138	BO142	questi	_	_	33	questi	417.261	417.542	match
-138-8	138	BO142	libri	_	_	33	libri	417.622	417.962	match
-138-9	138	BO142	che	_	418.294	33	che	418.062	418.262	match
-139-0	139	BO142	eh	418.636	_	_	_	_	_	tsv_only
-139-1	139	BO142	un	_	_	33	un	419.262	419.342	match
-139-2	139	BO142	enunciato	_	_	33	enunciato	419.382	420.342	match
-139-3	139	BO142	è	_	_	33	è	420.502	420.562	match
-139-4	139	BO142	appunto	_	421.417	33	appunto	420.622	421.342	match
-140-0	140	BO142	un	421.759	422.396	_	_	_	_	tsv_only
-141-0	141	BO142	un	422.582	_	33	un	421.882	422.362	match
-141-1	141	BO142	discorso	_	_	33	discorso	422.762	423.703	match
-141-2	141	BO142	eh	_	_	_	_	_	_	tsv_only
-141-3	141	BO142	in	_	_	33	in	424.263	424.343	match
-141-4	141	BO142	un	_	_	33	un	424.403	424.483	match
-141-5	141	BO142	contesto	_	_	33	contesto	424.543	425.143	match
-141-6	141	BO142	e	_	_	33	e	425.183	425.243	match
-141-7	141	BO142	quindi	_	_	33	quindi	425.343	425.663	match
-141-8	141	BO142	per	_	_	33	per	425.723	425.863	match
-141-9	141	BO142	capirlo	_	_	33	capirlo	425.943	426.323	match
-141-10	141	BO142	veramente	_	427.226	33	veramente	426.383	427.203	match
-142-0	142	BO142	è	427.527	_	33	è	427.623	427.683	match
-142-1	142	BO142	necessario	_	_	33	necessario	427.763	428.524	match
-142-2	142	BO142	comprendere	_	_	33	comprendere	428.604	429.284	match
-142-3	142	BO142	tutte	_	_	33	tutte	429.344	429.564	match
-142-4	142	BO142	le	_	_	33	le	429.624	429.704	match
-142-5	142	BO142	variabili	_	_	33	variabili	429.764	430.464	match
-142-6	142	BO142	(.)	_	_	_	_	_	_	skipped
-142-7	142	BO142	che	_	_	33	che	430.804	430.904	match
-142-8	142	BO142	lo	_	_	33	lo	430.964	431.024	match
-142-9	142	BO142	compongono	_	_	33	compongono	431.084	431.864	match
-142-10	142	BO142	ad	_	_	33	ad	431.944	432.044	match
-142-11	142	BO142	esempio	_	432.643	33	esempio	432.104	432.644	match
-143-0	143	BO142	eh	433.054	_	_	_	_	_	tsv_only
-143-1	143	BO142	i	_	_	33	i	433.604	433.664	match
-143-2	143	BO142	referenti	_	434.657	33	referenti	433.704	434.625	match
-144-0	144	BO142	eh	434.992	_	_	_	_	_	tsv_only
-144-1	144	BO142	che	_	_	33	che	435.545	435.685	match
-144-2	144	BO142	in	_	_	33	in	435.725	435.825	match
-144-3	144	BO142	un	_	_	33	un	435.845	435.945	match
-144-4	144	BO142	discorso	_	_	33	discorso	436.005	436.505	match
-144-5	144	BO142	vengono	_	_	33	vengono	436.545	436.905	match
-144-6	144	BO142	menzionati	_	_	33	menzionati	436.985	437.665	match
-144-7	144	BO142	ovvero	_	_	33	ovvero	437.725	438.025	match
-144-8	144	BO142	le	_	_	33	l	438.045	438.102	mismatch
-144-9	144	BO142	entità	_	_	33	entità	438.102	438.445	match
-144-10	144	BO142	extralinguistiche	_	_	33	extralinguistica	438.465	439.505	mismatch
-144-11	144	BO142	a	_	_	33	a	439.525	439.545	match
-144-12	144	BO142	cui	_	_	33	cui	439.605	439.726	match
-144-13	144	BO142	questo	_	_	33	questo	439.786	440.046	match
-144-14	144	BO142	si	_	_	33	si	440.166	440.246	match
-144-15	144	BO142	rifà	_	440.663	33	rifà	440.286	440.546	match
-145-0	145	BO117	mhmh	434.998	435.423	_	_	_	_	tsv_only
-146-0	146	BO142	eh	441.197	442.273	_	_	_	_	tsv_only
-147-0	147	BO142	oppure	442.94	_	34	oppure	443.112	443.493	match
-147-1	147	BO142	il	_	_	34	il	443.693	443.773	match
-147-2	147	BO142	tempo	_	_	34	tempo	443.813	444.094	match
-147-3	147	BO142	e	_	_	34	e	444.114	444.134	match
-147-4	147	BO142	il	_	_	34	il	444.154	444.194	match
-147-5	147	BO142	luogo	_	444.899	34	luogo	444.294	444.855	match
-148-0	148	BO142	eh	445.239	_	_	_	_	_	tsv_only
-148-1	148	BO142	all'	_	_	34	all	445.596	445.752	match
-148-2	148	BO142	interno	_	_	34	interno	445.752	446.116	match
-148-3	148	BO142	del	_	_	34	del	446.176	446.357	match
-148-4	148	BO142	quale	_	_	34	quale	446.417	446.717	match
-148-5	148	BO142	un	_	_	34	un	446.737	446.797	match
-148-6	148	BO142	enunciato	_	_	34	enunciato	446.817	447.518	match
-148-7	148	BO142	è	_	447.725	34	è	447.679	447.759	match
-149-0	149	BO142	eh	448.753	_	_	_	_	_	tsv_only
-149-1	149	BO142	inserito	_	450.184	34	inserito	449.281	450.062	match
-150-0	150	BO142	ehm	450.588	451.924	_	_	_	_	tsv_only
-151-0	151	BO142	tutte	453.013	_	35	tutte	453.122	453.362	match
-151-1	151	BO142	queste	_	_	35	queste	453.463	454.003	match
-151-2	151	BO142	eh	_	_	_	_	_	_	tsv_only
-151-3	151	BO142	considerazioni	_	_	35	considerazioni	454.483	455.564	match
-151-4	151	BO142	e	_	_	35	e	455.584	455.604	match
-151-5	151	BO142	eh	_	_	_	_	_	_	tsv_only
-151-6	151	BO142	elementi	_	_	35	elementi	455.805	456.926	match
-151-7	151	BO142	extralinguistici	_	458.273	35	extralinguistici	456.966	458.207	match
-152-0	152	BO142	hanno	458.582	_	35	hanno	458.667	458.908	match
-152-1	152	BO142	bisogno	_	_	35	bisogno	458.988	459.548	match
-152-2	152	BO142	di	_	_	35	di	459.668	459.848	match
-152-3	152	BO142	eh	_	_	_	_	_	_	tsv_only
-152-4	152	BO142	varie	_	_	35	varie	460.649	460.909	match
-152-5	152	BO142	premesse	_	_	35	premesse	460.969	461.590	match
-152-6	152	BO142	per	_	_	35	per	461.650	461.770	match
-152-7	152	BO142	essere	_	462.342	35	essere	461.830	462.331	match
-153-0	153	BO142	eh	462.687	_	_	_	_	_	tsv_only
-153-1	153	BO142	colte	_	_	35	colti	463.151	463.552	mismatch
-153-2	153	BO142	nel	_	_	35	nel	463.612	463.772	match
-153-3	153	BO142	modo	_	_	35	modo	463.832	464.032	match
-153-4	153	BO142	adeguato	_	_	35	adeguato	464.072	464.753	match
-153-5	153	BO142	dall'	_	_	35	dagli	464.853	464.953	mismatch
-153-6	153	BO142	interlocutore	_	_	35	interlocutori	465.033	465.994	mismatch
-153-7	153	BO142	ovvero	_	466.477	35	ovvero	466.034	466.495	match
-154-0	154	BO142	eh	466.918	_	_	_	_	_	tsv_only
-154-1	154	BO142	che	_	_	35	che	467.516	467.716	match
-154-2	154	BO142	(.)	_	_	_	_	_	_	skipped
-154-3	154	BO142	in	_	_	35	in	468.136	468.236	match
-154-4	154	BO142	un	_	_	35	un	468.256	468.336	match
-154-5	154	BO142	certo	_	_	35	certo	468.376	468.677	match
-154-6	154	BO142	senso	_	_	35	senso	468.757	469.217	match
-154-7	154	BO142	condividano	_	_	35	condividano	469.297	470.198	match
-154-8	154	BO142	una	_	_	_	_	_	_	tsv_only
-154-9	154	BO142	ehm	_	471.425	_	_	_	_	tsv_only
-155-0	155	BO142	eh	471.867	_	_	_	_	_	tsv_only
-155-1	155	BO142	(.)	_	_	_	_	_	_	skipped
-155-2	155	BO142	una	_	_	_	_	_	_	tsv_only
-155-3	155	BO142	cul~	_	_	_	_	_	_	tsv_only
-155-4	155	BO142	non	_	_	_	_	_	_	tsv_only
-155-5	155	BO142	una	_	_	_	_	_	_	tsv_only
-155-6	155	BO142	cultura	_	_	_	_	_	_	tsv_only
-155-7	155	BO142	ma	_	_	_	_	_	_	tsv_only
-155-8	155	BO142	una	_	_	35	una	474.722	474.842	match
-155-9	155	BO142	conoscenza	_	_	35	conoscenza	474.902	475.503	match
-155-10	155	BO142	generale	_	476.308	35	generale	475.563	476.184	match
-156-0	156	BO142	eh	476.661	_	_	_	_	_	tsv_only
-156-1	156	BO142	(.)	_	_	_	_	_	_	skipped
-156-2	156	BO142	in	_	_	36	in	478.086	478.206	match
-156-3	156	BO142	sintonia	_	479.036	36	sintonia	478.286	479.547	match
-157-0	157	BO142	che	479.462	_	36	che	479.567	479.667	match
-157-1	157	BO142	abbiano	_	_	36	abbiano	479.767	481.147	match
-157-2	157	BO142	eh	_	481.013	_	_	_	_	tsv_only
-158-0	158	BO117	una	480.882	_	_	_	_	_	tsv_only
-158-1	158	BO117	conoscenza	_	_	_	_	_	_	tsv_only
-158-2	158	BO117	condivisa	_	_	_	_	_	_	tsv_only
-158-3	158	BO117	no	_	482.132	_	_	_	_	tsv_only
-159-0	159	BO142	sì	482.418	_	_	_	_	_	tsv_only
-159-1	159	BO142	è	_	_	_	_	_	_	tsv_only
-159-2	159	BO142	una	_	_	36	una	481.247	481.427	match
-159-3	159	BO142	conoscenza	_	_	36	conoscenza	481.467	483.408	match
-159-4	159	BO142	condivisa	_	484.132	36	condivisa	483.488	484.108	match
-160-0	160	BO142	e	484.647	_	36	e	484.769	484.869	match
-160-1	160	BO142	(.)	_	_	_	_	_	_	skipped
-160-2	160	BO142	che	_	_	36	che	485.149	485.389	match
-160-3	160	BO142	(.)	_	_	_	_	_	_	skipped
-160-4	160	BO142	eh	_	_	_	_	_	_	tsv_only
-160-5	160	BO142	abbiano	_	_	36	abbiano	486.709	487.029	match
-160-6	160	BO142	presente	_	_	36	presente	487.089	487.710	match
-160-7	160	BO142	quindi	_	_	36	quindi	487.810	488.290	match
-160-8	160	BO142	lo	_	_	36	lo	488.450	488.550	match
-160-9	160	BO142	stesso	_	_	36	stesso	488.590	489.130	match
-160-10	160	BO142	ambiente	_	490.073	36	ambiente	489.270	490.051	match
-161-0	161	BO142	eh	490.44	_	_	_	_	_	tsv_only
-161-1	161	BO142	extralinguistico	_	_	36	extralinguistico	491.231	492.652	match
-161-2	161	BO142	a	_	_	_	_	_	_	tsv_only
-161-3	161	BO142	cui	_	_	_	_	_	_	tsv_only
-161-4	161	BO142	xx	_	493.397	_	_	_	_	tsv_only
-162-0	162	BO117	ecco	492.647	_	37	ecco	492.712	492.972	match
-162-1	162	BO117	lei	_	_	37	lei	493.012	493.172	match
-162-2	162	BO117	ha	_	_	37	ha	493.192	493.252	match
-162-3	162	BO117	letto	_	_	37	letto	493.332	493.572	match
-162-4	162	BO117	anche	_	_	37	anche	493.612	493.772	match
-162-5	162	BO117	il	_	_	37	il	493.792	493.832	match
-162-6	162	BO117	libro	_	_	37	libro	493.872	494.052	match
-162-7	162	BO117	della	_	_	37	della	494.092	494.292	match
-162-8	162	BO117	bianchi	_	494.955	37	bianchi	494.332	494.913	match
-163-0	163	BO117	mh	495.154	_	_	_	_	_	tsv_only
-163-1	163	BO117	nella	_	_	38	nella	495.593	495.893	match
-163-2	163	BO117	relevance	_	_	38	relevance	495.933	496.413	match
-163-3	163	BO117	theory	_	_	38	theory	496.433	496.753	match
-163-4	163	BO117	come	_	_	38	come	496.853	497.013	match
-163-5	163	BO117	viene	_	_	38	viene	497.053	497.213	match
-163-6	163	BO117	definito	_	_	38	definito	497.273	497.634	match
-163-7	163	BO117	il	_	_	38	il	497.694	497.754	match
-163-8	163	BO117	contesto	_	498.5	38	contesto	497.794	499.494	match
-164-0	164	BO142	allora	499.47	_	39	allora	499.554	500.034	match
-164-1	164	BO142	eh	_	_	_	_	_	_	tsv_only
-164-2	164	BO142	nella	_	_	39	nella	501.035	501.275	match
-164-3	164	BO142	relevance	_	501.852	39	relevance	501.315	502.015	match
-165-0	165	BO142	eh	502.154	_	_	_	_	_	tsv_only
-165-1	165	BO142	theory	_	_	39	theory	502.635	503.016	match
-165-2	165	BO142	il	_	_	39	il	503.156	503.256	match
-165-3	165	BO142	contesto	_	504.131	39	contesto	503.316	504.076	match
-166-0	166	BO142	è	504.462	_	39	è	504.556	504.616	match
-166-1	166	BO142	molto	_	_	39	molto	504.696	504.916	match
-166-2	166	BO142	importante	_	_	39	importante	504.976	505.617	match
-166-3	166	BO142	in	_	_	39	in	505.657	505.737	match
-166-4	166	BO142	quanto	_	506.389	39	quanto	505.797	506.257	match
-167-0	167	BO142	è	506.756	_	40	è	506.950	507.010	match
-167-1	167	BO142	la	_	_	40	la	507.210	507.290	match
-167-2	167	BO142	fonte	_	_	40	fonte	507.350	507.670	match
-167-3	167	BO142	stessa	_	_	40	stessa	507.770	508.510	match
-167-4	167	BO142	dalla	_	_	40	dalla	508.670	508.931	match
-167-5	167	BO142	quale	_	_	40	quale	508.971	509.271	match
-167-6	167	BO142	provengono	_	_	40	provengono	509.331	509.951	match
-167-7	167	BO142	gli	_	_	40	gli	510.011	510.091	match
-167-8	167	BO142	indizi	_	510.875	40	indizi	510.131	510.851	match
-168-0	168	BO142	che	511.301	_	40	che	511.351	511.451	match
-168-1	168	BO142	rendono	_	_	40	rendono	511.531	512.111	match
-168-2	168	BO142	eh	_	513.139	_	_	_	_	tsv_only
-169-0	169	BO142	che	513.58	_	40	che	513.652	513.752	match
-169-1	169	BO142	rendono	_	_	40	rendono	513.832	514.272	match
-169-2	169	BO142	appunto	_	_	40	appunto	514.352	514.972	match
-169-3	169	BO142	(.)	_	_	_	_	_	_	skipped
-169-4	169	BO142	ehm	_	516.169	_	_	_	_	tsv_only
-170-0	170	BO142	possibile	517.33	_	40	possibile	517.393	517.873	match
-170-1	170	BO142	la	_	_	40	la	517.933	518.033	match
-170-2	170	BO142	conversazione	_	_	40	conversazione	518.073	518.953	match
-170-3	170	BO142	secondo	_	_	40	secondo	519.073	519.413	match
-170-4	170	BO142	la	_	_	40	la	519.493	519.553	match
-170-5	170	BO142	relevance	_	_	40	relevance	519.613	520.253	match
-170-6	170	BO142	(.)	_	_	_	_	_	_	skipped
-170-7	170	BO142	theory	_	521.029	40	theory	520.613	521.033	match
-171-0	171	BO142	eh	521.587	_	_	_	_	_	tsv_only
-171-1	171	BO142	infatti	_	_	40	infatti	522.054	522.614	match
-171-2	171	BO142	secondo	_	_	40	secondo	522.734	523.114	match
-171-3	171	BO142	questa	_	_	40	questa	523.174	523.434	match
-171-4	171	BO142	teoria	_	524.073	40	teoria	523.534	524.034	match
-172-0	172	BO142	eh	524.41	_	_	_	_	_	tsv_only
-172-1	172	BO142	tutta	_	_	40	tutta	524.934	525.174	match
-172-2	172	BO142	la	_	_	40	la	525.254	525.334	match
-172-3	172	BO142	conversazione	_	_	40	conversazione	525.374	526.335	match
-172-4	172	BO142	è	_	_	40	è	526.355	526.375	match
-172-5	172	BO142	ostensivo	_	_	40	ostensivo	526.395	527.455	match
-172-6	172	BO142	eh	_	528.132	_	_	_	_	tsv_only
-173-0	173	BO117	però	528.525	_	40	però	528.555	528.735	match
-173-1	173	BO117	loro	_	_	40	loro	528.775	528.935	match
-173-2	173	BO117	parlano	_	_	40	parlano	528.995	529.315	match
-173-3	173	BO117	di	_	_	40	di	529.335	529.415	match
-173-4	173	BO117	contesto	_	530.381	40	contesto	529.475	530.376	match
-174-0	174	BO142	xx	528.525	529.076	_	_	_	_	tsv_only
-175-0	175	BO117	in	530.669	_	40	in	530.756	530.856	match
-175-1	175	BO117	un	_	_	40	un	530.896	531.036	match
-175-2	175	BO117	senso	_	_	40	senso	531.136	531.456	match
-175-3	175	BO117	leggermente	_	_	40	leggermente	531.516	532.136	match
-175-4	175	BO117	diverso	_	_	40	diverso	532.176	532.716	match
-175-5	175	BO117	addirittura	_	_	40	addirittura	532.756	533.156	match
-175-6	175	BO117	parlan	_	_	40	parlano	533.216	533.436	mismatch
-175-7	175	BO117	di	_	_	40	di	533.456	533.536	match
-175-8	175	BO117	contesto	_	_	40	contesto	533.596	534.056	match
-175-9	175	BO117	cognitivo	_	534.788	40	cognitivo	534.096	534.737	match
-176-0	176	BO142	ah	535.685	_	40	ah	535.777	535.877	match
-176-1	176	BO142	okay	_	536.401	40	ok	536.037	536.197	mismatch
-177-0	177	BO142	sì	536.862	_	41	sì	536.995	537.155	match
-177-1	177	BO142	ovvero	_	_	41	ovvero	537.215	537.615	match
-177-2	177	BO142	ehm	_	538.699	_	_	_	_	tsv_only
-178-0	178	BO142	quando	539.254	_	41	quando	539.276	539.576	match
-178-1	178	BO142	io	_	_	41	io	539.756	539.856	match
-178-2	178	BO142	ho	_	_	41	ho	539.876	539.916	match
-178-3	178	BO142	una	_	_	41	una	539.956	540.076	match
-178-4	178	BO142	nuova	_	_	41	nuova	540.136	540.317	match
-178-5	178	BO142	informazione	_	_	41	informazione	540.377	541.417	match
-178-6	178	BO142	(.)	_	_	_	_	_	_	skipped
-178-7	178	BO142	devo	_	_	41	devo	541.677	541.897	match
-178-8	178	BO142	trovare	_	542.668	41	trovare	541.977	542.598	match
-179-0	179	BO142	eh	543.087	_	_	_	_	_	tsv_only
-179-1	179	BO142	all'	_	_	41	all	543.878	544.046	match
-179-2	179	BO142	interno	_	_	41	interno	544.046	544.438	match
-179-3	179	BO142	del	_	_	41	del	544.498	544.679	match
-179-4	179	BO142	mio	_	_	41	mio	544.739	545.059	match
-179-5	179	BO142	(.)	_	_	_	_	_	_	skipped
-179-6	179	BO142	eh	_	_	_	_	_	_	tsv_only
-179-7	179	BO142	(.)	_	_	_	_	_	_	skipped
-179-8	179	BO142	ambiente	_	_	41	ambiente	546.319	546.780	match
-179-9	179	BO142	cognitivo	_	547.709	41	cognitivo	546.800	547.620	match
-180-0	180	BO142	eh	548.127	_	_	_	_	_	tsv_only
-180-1	180	BO142	il	_	_	41	il	548.520	548.600	match
-180-2	180	BO142	contesto	_	_	41	contesto	548.660	549.121	match
-180-3	180	BO142	cognitivo	_	_	41	cognitivo	549.201	549.821	match
-180-4	180	BO142	con	_	_	41	con	549.881	550.041	match
-180-5	180	BO142	il	_	_	41	il	550.101	550.181	match
-180-6	180	BO142	quale	_	_	41	quale	550.221	550.521	match
-180-7	180	BO142	si	_	_	41	si	550.601	550.661	match
-180-8	180	BO142	può	_	_	41	può	550.741	550.841	match
-180-9	180	BO142	legare	_	_	41	legare	550.921	551.282	match
-180-10	180	BO142	nel	_	_	41	nel	551.362	551.522	match
-180-11	180	BO142	modo	_	_	41	modo	551.582	551.762	match
-180-12	180	BO142	ottimale	_	552.604	41	ottimale	551.822	552.542	match
-181-0	181	BO142	per	553.016	_	41	per	553.022	553.142	match
-_	_	_	_	_	_	41	farmi	553.223	553.523	whisper_only
-181-1	181	BO142	avere	_	_	41	avere	553.563	553.823	match
-181-2	181	BO142	una	_	_	_	_	_	_	tsv_only
-181-3	181	BO142	ver~	_	_	_	_	_	_	tsv_only
-181-4	181	BO142	una	_	_	41	una	554.323	554.463	match
-181-5	181	BO142	visione	_	_	41	visione	554.523	555.003	match
-181-6	181	BO142	p~	_	_	_	_	_	_	tsv_only
-181-7	181	BO142	diversa	_	_	41	diversa	555.323	555.764	match
-181-8	181	BO142	del	_	_	41	del	555.824	556.004	match
-181-9	181	BO142	mondo	_	_	41	mondo	556.064	556.404	match
-181-10	181	BO142	o	_	_	41	e	556.424	556.444	mismatch
-181-11	181	BO142	comunque	_	_	41	comunque	556.564	556.944	match
-181-12	181	BO142	far	_	_	41	far	557.024	557.144	match
-181-13	181	BO142	sì	_	_	41	sì	557.324	557.444	match
-181-14	181	BO142	che	_	557.796	41	che	557.625	557.785	match
-182-0	182	BO142	i	558.151	_	41	i	558.225	558.285	match
-182-1	182	BO142	miei	_	_	41	miei	558.325	558.445	match
-182-2	182	BO142	costi	_	_	41	costi	558.505	558.945	match
-182-3	182	BO142	cognitivi	_	_	41	cognitivi	559.005	559.685	match
-182-4	182	BO142	vengano	_	560.262	41	vengano	559.745	560.266	match
-183-0	183	BO142	eh	560.609	_	_	_	_	_	tsv_only
-183-1	183	BO142	contraccambiati	_	_	41	contraccambiati	561.646	562.647	match
-183-2	183	BO142	da	_	_	41	da	562.707	562.807	match
-183-3	183	BO142	degli	_	_	41	degli	562.867	563.087	match
-183-4	183	BO142	effetti	_	_	41	effetti	563.127	563.507	match
-183-5	183	BO142	cognitivi	_	_	41	cognitivi	563.587	564.087	match
-183-6	183	BO142	perma~	_	_	_	_	_	_	tsv_only
-183-7	183	BO142	ehm	_	565.093	41	per	564.148	564.328	mismatch
-184-0	184	BO142	mh	565.796	_	41	me	564.348	564.408	mismatch
-184-1	184	BO142	efficaci	_	567.016	42	efficaci	566.233	566.993	match
-185-0	185	BO142	il	567.419	_	42	il	567.533	567.613	match
-185-1	185	BO142	che	_	_	42	che	567.693	567.874	match
-185-2	185	BO142	è	_	_	42	è	567.994	568.034	match
-185-3	185	BO142	proprio	_	_	42	proprio	568.134	568.514	match
-185-4	185	BO142	la	_	_	42	la	568.574	568.854	match
-185-5	185	BO142	eh	_	_	_	_	_	_	tsv_only
-185-6	185	BO142	regola	_	_	42	regola	569.514	569.894	match
-185-7	185	BO142	di	_	_	42	di	569.954	570.034	match
-185-8	185	BO142	base	_	570.749	42	base	570.074	570.734	match
-186-0	186	BO142	della	571.11	_	42	della	571.194	571.394	match
-186-1	186	BO142	pertinenza	_	_	42	pertinenza	571.434	572.195	match
-186-2	186	BO142	diciamo	_	_	42	diciamo	572.275	572.775	match
-186-3	186	BO142	la	_	_	42	la	572.915	572.975	match
-186-4	186	BO142	pertinenza	_	_	42	pertinenza	573.015	573.715	match
-186-5	186	BO142	infatti	_	_	42	infatti	573.735	574.095	match
-186-6	186	BO142	si	_	_	42	si	574.195	574.295	match
-186-7	186	BO142	misura	_	574.788	42	misura	574.355	574.795	match
-187-0	187	BO142	in	575.245	_	_	_	_	_	tsv_only
-187-1	187	BO142	in	_	_	42	in	575.916	575.996	match
-187-2	187	BO142	termini	_	_	42	termini	576.036	576.436	match
-187-3	187	BO142	di	_	_	42	di	576.496	576.576	match
-187-4	187	BO142	costi	_	_	42	costi	576.636	577.156	match
-187-5	187	BO142	ed	_	_	42	ed	577.176	577.316	match
-187-6	187	BO142	effetti	_	_	42	effetti	577.356	577.716	match
-187-7	187	BO142	cognitivi	_	578.584	42	cognitivi	577.776	578.496	match
-188-0	188	BO142	dove	578.88	_	42	dove	578.996	579.136	match
-188-1	188	BO142	i	_	_	42	i	579.156	579.196	match
-188-2	188	BO142	costi	_	_	42	costi	579.236	579.516	match
-188-3	188	BO142	cognitivi	_	_	42	cognitivi	579.576	580.137	match
-188-4	188	BO142	sono	_	580.542	42	sono	580.237	580.557	match
-189-0	189	BO142	gli	580.94	_	42	gli	581.017	581.137	match
-189-1	189	BO142	sforzi	_	_	42	sforzi	581.217	581.777	match
-189-2	189	BO142	che	_	_	42	che	581.857	581.957	match
-189-3	189	BO142	io	_	_	42	io	582.037	582.117	match
-189-4	189	BO142	faccio	_	582.847	42	faccio	582.217	582.797	match
-190-0	190	BO142	per	583.262	584.211	42	per	583.297	583.938	match
-191-0	191	BO142	mh	584.559	_	_	_	_	_	tsv_only
-191-1	191	BO142	diciamo	_	_	42	diciamo	585.538	586.438	match
-191-2	191	BO142	(.)	_	_	_	_	_	_	skipped
-191-3	191	BO142	decodific~	_	_	_	_	_	_	tsv_only
-191-4	191	BO142	decodificare	_	_	42	decodificare	587.058	587.839	match
-191-5	191	BO142	un	_	_	42	un	587.999	588.119	match
-191-6	191	BO142	determinato	_	_	42	determinato	588.159	588.719	match
-191-7	191	BO142	indizio	_	_	42	indizio	588.819	589.259	match
-191-8	191	BO142	in	_	_	42	in	589.299	589.359	match
-191-9	191	BO142	termini	_	_	42	termini	589.399	589.859	match
-191-10	191	BO142	di	_	_	42	di	589.919	589.999	match
-191-11	191	BO142	memoria	_	_	42	memoria	590.039	590.619	match
-191-12	191	BO142	eccetera	_	591.364	42	eccetera	590.679	591.299	match
-192-0	192	BO142	e	591.728	_	42	e	591.800	591.840	match
-192-1	192	BO142	gli	_	_	42	gli	591.880	591.980	match
-192-2	192	BO142	effetti	_	_	42	effetti	592.000	592.380	match
-192-3	192	BO142	cognitivi	_	593.296	42	cognitivi	592.440	593.140	match
-193-0	193	BO142	sono	593.617	_	43	sono	593.729	593.949	match
-193-1	193	BO142	tutte	_	_	_	_	_	_	tsv_only
-193-2	193	BO142	quelle	_	_	_	_	_	_	tsv_only
-193-3	193	BO142	ehm	_	595.787	43	tutti	593.989	594.230	mismatch
-194-0	194	BO142	quei	595.956	_	43	quei	594.290	596.151	match
-194-1	194	BO142	risultati	_	_	43	risultati	596.191	597.032	match
-194-2	194	BO142	che	_	_	43	che	597.132	597.232	match
-194-3	194	BO142	mi	_	_	43	mi	597.292	597.372	match
-194-4	194	BO142	portano	_	598.11	43	portano	597.452	598.093	match
-195-0	195	BO142	a	598.418	_	43	a	598.513	598.573	match
-195-1	195	BO142	cambiare	_	_	43	cambiare	598.654	599.134	match
-195-2	195	BO142	la	_	_	43	la	599.214	599.294	match
-195-3	195	BO142	mia	_	_	43	mia	599.334	599.434	match
-195-4	195	BO142	idea	_	_	43	idea	599.494	599.895	match
-195-5	195	BO142	del	_	_	43	del	599.975	600.135	match
-195-6	195	BO142	mondo	_	_	43	mondo	600.195	600.615	match
-195-7	195	BO142	o	_	_	_	_	_	_	tsv_only
-195-8	195	BO142	comunque	_	_	43	comunque	600.715	601.056	match
-195-9	195	BO142	ad	_	_	43	ad	601.096	601.176	match
-195-10	195	BO142	apportarle	_	_	43	apportare	601.216	601.696	mismatch
-195-11	195	BO142	una	_	_	43	una	601.816	601.937	match
-195-12	195	BO142	modifica	_	_	43	modifica	601.977	602.537	match
-195-13	195	BO142	di	_	_	_	_	_	_	tsv_only
-195-14	195	BO142	di	_	_	43	di	602.637	602.797	match
-195-15	195	BO142	fondo	_	603.533	43	fondo	603.058	603.498	match
-196-0	196	BO117	mhmhmh	604.016	604.55	_	_	_	_	tsv_only
-197-0	197	BO142	ehm	605.101	605.711	_	_	_	_	tsv_only
-198-0	198	BO117	e	606.652	_	_	_	_	_	tsv_only
-198-1	198	BO117	cosa	_	_	44	cosa	606.921	607.041	match
-198-2	198	BO117	le	_	_	44	ne	607.121	607.181	mismatch
-198-3	198	BO117	è	_	_	44	ha	607.201	607.241	mismatch
-198-4	198	BO117	interessato	_	_	44	interessato	607.261	607.782	match
-198-5	198	BO117	di	_	_	44	di	607.842	607.922	match
-198-6	198	BO117	più	_	608.118	44	più	608.022	608.182	match
-199-0	199	BO117	all'	608.58	_	44	all	608.743	609.091	match
-199-1	199	BO117	interno	_	610.0	44	interno	609.091	609.904	match
-200-0	200	BO117	delle	610.635	_	44	delle	610.805	610.985	match
-200-1	200	BO117	letture	_	_	44	letture	611.025	611.305	match
-200-2	200	BO117	che	_	_	44	che	611.345	611.425	match
-200-3	200	BO117	ha	_	_	44	ha	611.465	611.525	match
-200-4	200	BO117	fatto	_	611.991	44	fatto	611.585	611.966	match
-201-0	201	BO142	eh	613.114	614.042	_	_	_	_	tsv_only
-202-0	202	BO142	allora	614.584	615.127	_	_	_	_	tsv_only
-203-0	203	BO142	mah	616.516	_	_	_	_	_	tsv_only
-203-1	203	BO142	io	_	_	_	_	_	_	tsv_only
-203-2	203	BO142	ho	_	_	_	_	_	_	tsv_only
-203-3	203	BO142	let~	_	_	_	_	_	_	tsv_only
-203-4	203	BO142	mh	_	_	_	_	_	_	tsv_only
-203-5	203	BO142	cioè	_	_	_	_	_	_	tsv_only
-203-6	203	BO142	mi	_	_	45	mi	617.355	617.596	match
-203-7	203	BO142	ero	_	_	45	è	618.196	618.256	mismatch
-203-8	203	BO142	interessata	_	_	45	interessata	618.336	619.016	match
-203-9	203	BO142	molto	_	_	_	_	_	_	tsv_only
-203-10	203	BO142	a	_	_	_	_	_	_	tsv_only
-203-11	203	BO142	molto	_	_	45	molto	619.096	619.476	match
-203-12	203	BO142	la	_	620.372	_	_	_	_	tsv_only
-204-0	204	BO142	ehm	620.788	_	_	_	_	_	tsv_only
-204-1	204	BO142	la	_	_	45	la	619.757	621.978	match
-204-2	204	BO142	trattazione	_	_	45	trattazione	622.018	622.698	match
-204-3	204	BO142	sulla	_	_	45	sulla	622.798	623.018	match
-204-4	204	BO142	cortesia	_	_	45	cortesia	623.058	623.978	match
-204-5	204	BO142	sulle	_	_	45	sulle	624.139	624.359	match
-204-6	204	BO142	regole	_	_	45	regole	624.419	624.739	match
-204-7	204	BO142	di	_	_	45	di	624.799	624.899	match
-204-8	204	BO142	cortesia	_	_	45	cortesia	624.959	626.299	match
-204-9	204	BO142	eccetera	_	626.262	_	_	_	_	tsv_only
-205-0	205	BO142	soprattutto	626.949	_	45	soprattutto	627.040	627.620	match
-205-1	205	BO142	quella	_	_	45	quella	627.700	628.020	match
-205-2	205	BO142	di	_	_	45	di	628.100	628.460	match
-205-3	205	BO142	ehm	_	_	_	_	_	_	tsv_only
-205-4	205	BO142	(.)	_	_	_	_	_	_	skipped
-205-5	205	BO142	brown	_	_	45	brown	629.521	629.761	match
-205-6	205	BO142	e	_	_	45	e	629.781	629.861	match
-205-7	205	BO142	levinson	_	630.593	45	levinson	629.881	630.661	match
-206-0	206	BO142	che	631.219	_	45	che	631.282	631.382	match
-206-1	206	BO142	sviluppano	_	_	45	sviluppano	631.442	632.222	match
-206-2	206	BO142	la	_	_	45	la	632.302	632.382	match
-206-3	206	BO142	teoria	_	_	45	teoria	632.462	632.762	match
-206-4	206	BO142	di	_	_	45	di	632.822	632.903	match
-206-5	206	BO142	goffman	_	633.889	45	goffman	632.943	633.803	match
-207-0	207	BO142	che	634.211	_	45	che	634.283	634.423	match
-207-1	207	BO142	si	_	_	45	si	634.643	634.823	match
-207-2	207	BO142	fonda	_	_	45	fonda	634.983	635.484	match
-207-3	207	BO142	soprattutto	_	_	45	soprattutto	635.664	636.364	match
-207-4	207	BO142	sulla	_	_	45	sulla	636.524	636.844	match
-207-5	207	BO142	nozione	_	_	45	nozione	636.944	637.345	match
-207-6	207	BO142	di	_	_	45	di	637.405	637.485	match
-207-7	207	BO142	faccia	_	638.203	45	faccia	637.565	638.345	match
-208-0	208	BO142	ovvero	638.552	_	46	ovvero	638.775	639.275	match
-208-1	208	BO142	(.)	_	_	_	_	_	_	skipped
-208-2	208	BO142	che	_	_	46	che	639.495	639.615	match
-208-3	208	BO142	comunque	_	_	46	comunque	639.695	640.035	match
-208-4	208	BO142	differisce	_	_	46	differisce	640.115	640.695	match
-208-5	208	BO142	da	_	_	46	da	640.755	640.855	match
-208-6	208	BO142	quella	_	_	46	quella	640.915	641.115	match
-208-7	208	BO142	originaria	_	_	46	originaria	641.175	641.676	match
-208-8	208	BO142	di	_	_	46	di	641.736	641.816	match
-208-9	208	BO142	goffman	_	_	46	goffman	641.856	642.756	match
-208-10	208	BO142	mi	_	_	_	_	_	_	tsv_only
-208-11	208	BO142	ri~	_	_	_	_	_	_	tsv_only
-208-12	208	BO142	perché	_	643.237	46	perché	642.916	643.236	match
-209-0	209	BO142	mentre	643.66	_	46	mentre	643.736	644.016	match
-209-1	209	BO142	in	_	_	46	in	644.056	644.136	match
-209-2	209	BO142	goffman	_	_	46	goffman	644.176	644.716	match
-209-3	209	BO142	la	_	_	46	la	644.796	644.896	match
-209-4	209	BO142	faccia	_	_	46	faccia	644.956	645.516	match
-209-5	209	BO142	era	_	_	46	era	645.736	646.016	match
-209-6	209	BO142	l'	_	_	46	l	646.156	646.212	match
-209-7	209	BO142	immagine	_	_	46	immagine	646.212	646.656	match
-209-8	209	BO142	di	_	_	46	di	646.716	646.816	match
-209-9	209	BO142	sè	_	_	46	se	646.876	646.996	match
-209-10	209	BO142	stessi	_	_	46	stessi	647.097	647.737	match
-209-11	209	BO142	che	_	_	46	che	647.857	647.957	match
-209-12	209	BO142	ognuno	_	648.558	46	ognuno	648.037	648.557	match
-210-0	210	BO142	eh	648.973	_	_	_	_	_	tsv_only
-210-1	210	BO142	che	_	_	46	che	649.477	649.577	match
-210-2	210	BO142	veniva	_	_	46	veniva	649.657	649.937	match
-210-3	210	BO142	attribuita	_	_	46	attribuita	649.997	650.517	match
-210-4	210	BO142	mh	_	_	_	_	_	_	tsv_only
-210-5	210	BO142	a	_	_	46	a	651.037	651.337	match
-210-6	210	BO142	un	_	_	46	un	651.457	651.817	match
-210-7	210	BO142	interlocutore	_	_	46	interlocutore	651.937	652.778	match
-210-8	210	BO142	durante	_	_	46	durante	652.858	653.198	match
-210-9	210	BO142	la	_	_	46	la	653.258	653.338	match
-210-10	210	BO142	conversazione	_	654.525	46	conversazione	653.398	654.478	match
-211-0	211	BO142	quindi	654.94	_	46	quindi	654.958	655.178	match
-211-1	211	BO142	durante	_	_	46	durante	655.258	655.698	match
-211-2	211	BO142	dei	_	_	46	dei	655.738	655.898	match
-211-3	211	BO142	processi	_	_	46	processi	655.918	656.438	match
-211-4	211	BO142	rituali	_	657.279	46	rituali	656.498	657.178	match
-212-0	212	BO142	eh	657.685	_	_	_	_	_	tsv_only
-212-1	212	BO142	e	_	_	46	e	658.679	658.719	match
-212-2	212	BO142	quindi	_	_	46	quindi	658.819	659.019	match
-212-3	212	BO142	era	_	_	46	era	659.059	659.119	match
-212-4	212	BO142	un	_	_	46	un	659.179	659.259	match
-212-5	212	BO142	qualcosa	_	_	46	qualcosa	659.299	659.819	match
-212-6	212	BO142	di	_	_	46	di	659.879	660.119	match
-212-7	212	BO142	eh	_	_	_	_	_	_	tsv_only
-212-8	212	BO142	modificabile	_	_	46	modificabile	660.599	661.539	match
-212-9	212	BO142	impersistente	_	662.949	46	impersistente	661.559	662.879	match
-213-0	213	BO117	((tossisce))	658.236	659.202	_	_	_	_	skipped
-214-0	214	BO142	che	663.101	_	46	che	663.179	663.339	match
-214-1	214	BO142	(.)	_	_	_	_	_	_	skipped
-214-2	214	BO142	cambiava	_	_	46	cambiava	663.519	663.940	match
-214-3	214	BO142	da	_	_	46	da	664.000	664.120	match
-214-4	214	BO142	conversazione	_	_	46	conversazione	664.160	664.880	match
-214-5	214	BO142	a	_	_	46	a	664.920	664.940	match
-214-6	214	BO142	conversazione	_	_	46	conversazione	665.020	665.920	match
-214-7	214	BO142	diciamo	_	666.389	46	diciamo	666.000	666.400	match
-215-0	215	BO142	invece	667.012	_	47	invece	667.018	667.698	match
-215-1	215	BO142	per	_	_	47	per	667.718	668.078	match
-215-2	215	BO142	brown	_	_	47	brown	668.158	668.378	match
-215-3	215	BO142	e	_	_	47	e	668.398	668.518	match
-215-4	215	BO142	levinson	_	_	47	levinson	668.558	669.479	match
-215-5	215	BO142	la	_	_	47	la	669.679	669.739	match
-215-6	215	BO142	faccia	_	_	47	faccia	669.839	671.239	match
-215-7	215	BO142	era	_	_	_	_	_	_	tsv_only
-215-8	215	BO142	un	_	_	_	_	_	_	tsv_only
-215-9	215	BO142	qualcosa	_	_	_	_	_	_	tsv_only
-215-10	215	BO142	(.)	_	_	_	_	_	_	skipped
-215-11	215	BO142	era	_	_	47	era	671.419	671.579	match
-215-12	215	BO142	la	_	_	47	la	671.659	671.719	match
-215-13	215	BO142	concezione	_	_	47	concezione	671.759	672.339	match
-215-14	215	BO142	di	_	_	47	di	672.419	672.499	match
-215-15	215	BO142	sé	_	672.864	47	sé	672.619	672.879	match
-216-0	216	BO142	che	673.397	_	47	che	673.419	673.539	match
-216-1	216	BO142	un	_	_	47	un	673.599	673.659	match
-216-2	216	BO142	individuo	_	_	47	individuo	673.719	674.259	match
-216-3	216	BO142	avrebbe	_	_	47	aveva	674.299	674.560	mismatch
-216-4	216	BO142	elaborato	_	_	47	elaborato	674.580	675.220	match
-216-5	216	BO142	già	_	_	47	già	675.280	675.420	match
-216-6	216	BO142	prima	_	_	47	prima	675.540	675.840	match
-216-7	216	BO142	di	_	_	47	di	675.900	675.960	match
-216-8	216	BO142	confrontarsi	_	_	47	confrontarsi	676.040	676.760	match
-216-9	216	BO142	con	_	_	47	con	676.800	676.900	match
-216-10	216	BO142	gli	_	_	47	gli	676.920	677.060	match
-216-11	216	BO142	altri	_	_	47	altri	677.080	677.440	match
-216-12	216	BO142	e	_	_	47	e	677.460	677.480	match
-216-13	216	BO142	che	_	_	47	che	677.580	677.700	match
-216-14	216	BO142	quindi	_	_	47	quindi	677.840	678.180	match
-216-15	216	BO142	voleva	_	678.77	47	voleva	678.260	678.740	match
-217-0	217	BO142	eh	679.1	_	_	_	_	_	tsv_only
-217-1	217	BO142	difendere	_	_	47	difendere	679.461	680.241	match
-217-2	217	BO142	(.)	_	_	_	_	_	_	skipped
-217-3	217	BO142	durante	_	_	47	durante	680.461	680.821	match
-217-4	217	BO142	la	_	_	47	la	680.881	680.961	match
-217-5	217	BO142	conversazione	_	682.033	47	conversazione	680.981	681.981	match
-218-0	218	BO142	la	682.778	_	48	la	682.841	682.921	match
-218-1	218	BO142	ponevano	_	_	48	ponevano	683.001	683.481	match
-218-2	218	BO142	quindi	_	_	48	quindi	683.521	683.781	match
-218-3	218	BO142	più	_	_	48	più	683.821	683.921	match
-218-4	218	BO142	da	_	_	48	da	683.981	684.041	match
-218-5	218	BO142	un	_	_	48	un	684.081	684.161	match
-218-6	218	BO142	punto	_	_	48	punto	684.221	684.462	match
-218-7	218	BO142	di	_	_	48	di	684.502	684.582	match
-218-8	218	BO142	vista	_	_	48	vista	684.642	685.222	match
-218-9	218	BO142	(.)	_	_	_	_	_	_	skipped
-218-10	218	BO142	eh	_	686.753	_	_	_	_	tsv_only
-219-0	219	BO142	difensivo	687.092	_	48	difensivo	687.202	687.942	match
-219-1	219	BO142	diciamo	_	_	48	diciamo	687.982	688.362	match
-219-2	219	BO142	la	_	_	48	la	688.422	688.482	match
-219-3	219	BO142	conversazione	_	_	48	conversazione	688.522	689.443	match
-219-4	219	BO142	ovvero	_	_	48	ovvero	689.523	690.063	match
-219-5	219	BO142	(.)	_	_	_	_	_	_	skipped
-219-6	219	BO142	eh	_	691.508	_	_	_	_	tsv_only
-220-0	220	BO142	tutti	692.593	_	49	tutti	692.718	692.938	match
-220-1	220	BO142	quei	_	_	49	quei	692.978	693.158	match
-220-2	220	BO142	modi	_	_	49	modi	693.178	693.578	match
-220-3	220	BO142	in	_	_	49	in	693.618	693.718	match
-220-4	220	BO142	cui	_	_	49	cui	693.798	694.259	match
-220-5	220	BO142	u~	_	_	_	_	_	_	tsv_only
-220-6	220	BO142	un	_	_	49	un	694.799	694.939	match
-220-7	220	BO142	individuo	_	_	49	individuo	694.979	695.539	match
-220-8	220	BO142	poteva	_	_	49	poteva	695.619	695.979	match
-220-9	220	BO142	porsi	_	_	49	porsi	696.059	696.559	match
-220-10	220	BO142	per	_	_	49	per	696.619	696.759	match
-220-11	220	BO142	far	_	_	49	far	696.859	696.999	match
-220-12	220	BO142	sì	_	_	49	sì	697.140	697.280	match
-220-13	220	BO142	che	_	_	49	che	697.380	697.480	match
-220-14	220	BO142	la	_	_	49	la	697.540	697.620	match
-220-15	220	BO142	sua	_	_	49	sua	697.680	697.820	match
-220-16	220	BO142	faccia	_	_	49	faccia	697.900	698.300	match
-220-17	220	BO142	ovvero	_	_	49	ovvero	698.360	698.600	match
-220-18	220	BO142	l'	_	_	49	l	698.680	698.744	match
-220-19	220	BO142	immagine	_	699.245	49	immagine	698.744	699.260	match
-221-0	221	BO142	la	699.584	_	49	la	699.660	699.760	match
-221-1	221	BO142	reputazione	_	_	49	reputazione	699.800	700.441	match
-221-2	221	BO142	di	_	_	49	di	700.501	700.581	match
-221-3	221	BO142	sè	_	_	49	se	700.641	700.741	match
-221-4	221	BO142	stesso	_	_	49	stesso	700.801	701.261	match
-221-5	221	BO142	non	_	_	49	non	701.321	701.441	match
-221-6	221	BO142	potesse	_	_	49	potesse	701.481	701.921	match
-221-7	221	BO142	essere	_	_	49	essere	701.961	702.261	match
-221-8	221	BO142	intaccata	_	703.135	49	intaccata	702.321	703.121	match
-222-0	222	BO142	e	703.643	_	50	e	703.722	703.762	match
-222-1	222	BO142	da	_	_	50	da	703.822	703.942	match
-222-2	222	BO142	questo	_	_	50	questo	703.982	704.222	match
-222-3	222	BO142	punto	_	_	50	punto	704.302	704.582	match
-222-4	222	BO142	di	_	_	50	di	704.642	704.722	match
-222-5	222	BO142	vista	_	_	50	vista	704.782	705.322	match
-222-6	222	BO142	sviluppano	_	_	50	sviluppano	705.522	706.323	match
-222-7	222	BO142	due	_	_	50	due	706.403	706.563	match
-222-8	222	BO142	tipi	_	_	50	tipi	706.603	706.823	match
-222-9	222	BO142	di	_	_	50	di	706.883	706.963	match
-222-10	222	BO142	faccia	_	_	50	faccia	707.043	707.583	match
-222-11	222	BO142	che	_	_	50	che	707.763	707.863	match
-222-12	222	BO142	sono	_	_	50	sono	707.983	708.203	match
-222-13	222	BO142	la	_	_	50	la	708.283	708.363	match
-222-14	222	BO142	faccia	_	_	50	faccia	708.403	708.723	match
-222-15	222	BO142	positiva	_	709.483	50	positiva	708.783	709.484	match
-223-0	223	BO142	e	709.87	_	50	e	709.944	709.984	match
-223-1	223	BO142	la	_	_	50	la	710.044	710.104	match
-223-2	223	BO142	faccia	_	_	50	faccia	710.144	710.404	match
-223-3	223	BO142	negativa	_	711.186	50	negativa	710.464	711.144	match
-224-0	224	BO142	dove	711.609	_	50	dove	711.704	711.864	match
-224-1	224	BO142	la	_	_	50	la	711.944	712.024	match
-224-2	224	BO142	faccia	_	_	50	faccia	712.064	712.365	match
-224-3	224	BO142	positiva	_	_	50	positiva	712.425	712.985	match
-224-4	224	BO142	si	_	_	50	si	713.105	713.185	match
-224-5	224	BO142	rifà	_	_	50	rifà	713.225	713.605	match
-224-6	224	BO142	all'	_	_	50	all	713.805	714.020	match
-224-7	224	BO142	interesse	_	_	50	interesse	714.020	714.665	match
-224-8	224	BO142	d~	_	_	_	_	_	_	tsv_only
-224-9	224	BO142	di	_	_	50	di	714.745	715.165	match
-224-10	224	BO142	una	_	_	50	un	715.246	715.726	mismatch
-224-11	224	BO142	individuo	_	716.564	50	individuo	715.906	716.486	match
-225-0	225	BO142	di	716.904	_	51	di	717.055	717.215	match
-225-1	225	BO142	essere	_	_	51	essere	717.235	717.596	match
-225-2	225	BO142	apprezzato	_	_	51	apprezzato	717.816	718.577	match
-225-3	225	BO142	acclamato	_	_	51	acclamato	718.597	719.417	match
-225-4	225	BO142	e	_	_	51	e	719.477	719.658	match
-225-5	225	BO142	stimato	_	720.486	51	stimato	719.818	720.498	match
-226-0	226	BO142	mentre	720.957	_	51	mentre	721.019	721.319	match
-226-1	226	BO142	invece	_	_	51	invece	721.359	721.639	match
-226-2	226	BO142	la	_	_	51	la	721.740	721.800	match
-226-3	226	BO142	faccia	_	_	51	faccia	721.840	722.120	match
-226-4	226	BO142	negativa	_	_	51	negativa	722.200	722.901	match
-226-5	226	BO142	è	_	_	51	è	723.061	723.121	match
-226-6	226	BO142	l'	_	_	51	l	723.201	723.273	match
-226-7	226	BO142	interesse	_	_	51	interesse	723.273	723.922	match
-226-8	226	BO142	che	_	_	51	che	724.022	724.122	match
-226-9	226	BO142	il	_	_	51	il	724.202	724.242	match
-226-10	226	BO142	proprio	_	_	51	proprio	724.262	724.542	match
-226-11	226	BO142	territorio	_	_	51	territorio	724.562	725.123	match
-226-12	226	BO142	non	_	_	51	non	725.163	725.303	match
-226-13	226	BO142	venga	_	_	51	venga	725.343	725.583	match
-226-14	226	BO142	minacciato	_	726.221	51	minacciato	725.663	726.264	match
-227-0	227	BO142	e	726.221	_	51	e	726.324	726.364	match
-227-1	227	BO142	quindi	_	_	51	quindi	726.444	726.724	match
-227-2	227	BO142	che	_	_	51	che	726.784	726.884	match
-227-3	227	BO142	venga	_	_	51	venga	726.944	727.165	match
-227-4	227	BO142	preservata	_	728.088	51	preservata	727.225	728.046	match
-228-0	228	BO142	una	728.4	_	51	una	728.506	728.666	match
-228-1	228	BO142	libertà	_	_	51	libertà	728.706	729.087	match
-228-2	228	BO142	di	_	_	51	di	729.167	729.247	match
-228-3	228	BO142	azione	_	_	51	azione	729.307	729.907	match
-228-4	228	BO142	e	_	_	51	e	730.027	730.107	match
-228-5	228	BO142	di	_	_	_	_	_	_	tsv_only
-228-6	228	BO142	eh	_	731.057	_	_	_	_	tsv_only
-229-0	229	BO142	di	731.859	732.661	51	di	730.208	735.052	match
-230-0	230	BO142	cioè	733.647	733.97	_	_	_	_	tsv_only
-231-0	231	BO142	una	735.007	_	51	una	735.112	735.232	match
-231-1	231	BO142	libertà	_	_	51	libertà	735.292	735.893	match
-231-2	231	BO142	di	_	_	51	di	736.013	736.474	match
-231-3	231	BO142	movimento	_	_	51	movimento	736.614	737.274	match
-231-4	231	BO142	di	_	_	51	di	737.314	737.394	match
-231-5	231	BO142	azione	_	_	51	azione	737.434	738.375	match
-231-6	231	BO142	insomma	_	_	51	insomma	738.656	739.076	match
-231-7	231	BO142	(.)	_	_	_	_	_	_	skipped
-231-8	231	BO142	globale	_	_	51	globale	739.236	739.737	match
-231-9	231	BO142	ecco	_	740.205	_	_	_	_	tsv_only
-232-0	232	BO117	va	740.617	_	52	va	739.797	740.838	match
-232-1	232	BO117	bene	_	741.161	52	bene	740.878	741.078	match
+token_id	tu_id	speaker	form	tsv_begin	tsv_end	whisper_segment	whisper_speaker	whisper_speaker_mapped	whisper_text	whisper_begin	whisper_end	alignment
+0-0	0	BO117	okay	1.97	2.249	0	SPEAKER_01	BO117	ok	2.148	3.949	mismatch
+1-0	1	BO117	((tossisce))	2.544	3.264	_	_	_	_	_	_	skipped
+2-0	2	BO117	dunque	3.933	_	1	SPEAKER_01	BO117	dunque	3.989	4.249	match
+2-1	2	BO117	lei	_	_	1	SPEAKER_01	BO117	lei	4.269	4.429	match
+2-2	2	BO117	su	_	_	1	SPEAKER_01	BO117	su	4.509	4.609	match
+2-3	2	BO117	quali	_	_	1	SPEAKER_01	BO117	quali	4.689	4.909	match
+2-4	2	BO117	manuali	_	_	1	SPEAKER_01	BO117	manuali	4.969	5.489	match
+2-5	2	BO117	si	_	_	1	SPEAKER_01	BO117	si	5.509	5.549	match
+2-6	2	BO117	è	_	_	1	SPEAKER_01	BO117	è	5.649	5.689	match
+2-7	2	BO117	preparata	_	_	1	SPEAKER_01	BO117	preparata	5.729	6.249	match
+2-8	2	BO117	da	_	_	1	SPEAKER_01	BO117	da	6.309	6.389	match
+2-9	2	BO117	non	_	_	1	SPEAKER_01	BO117	non	6.429	6.549	match
+2-10	2	BO117	frequentante	_	7.308	1	SPEAKER_01	BO117	frequentante	6.589	7.270	match
+3-0	3	BO142	su	7.594	_	2	SPEAKER_00	BO142	su	7.770	7.950	match
+3-1	3	BO142	bianchi	_	_	2	SPEAKER_00	BO142	bianchi	8.030	8.650	match
+3-2	3	BO142	andorno	_	_	2	SPEAKER_00	BO142	andorno	8.750	9.670	match
+3-3	3	BO142	emh	_	10.676	_	_	_	_	_	_	tsv_only
+4-0	4	BO142	e	11.683	_	2	SPEAKER_00	BO142	e	11.811	12.011	match
+4-1	4	BO142	poi	_	_	2	SPEAKER_00	BO142	poi	12.071	12.251	match
+4-2	4	BO142	penco	_	_	2	SPEAKER_00	BO142	penco	12.291	12.891	match
+4-3	4	BO142	e	_	_	2	SPEAKER_00	BO142	e	12.991	13.732	match
+4-4	4	BO142	domaneschi	_	14.75	2	SPEAKER_00	BO142	domaneschi	13.892	14.732	match
+5-0	5	BO117	mhmh	14.948	15.352	_	_	_	_	_	_	tsv_only
+6-0	6	BO142	e	15.772	_	2	SPEAKER_00	BO142	e	15.872	15.932	match
+6-1	6	BO142	voghera	_	16.478	2	SPEAKER_00	BO142	voghera	16.012	16.492	match
+7-0	7	BO117	va	17.276	_	3	SPEAKER_01	BO117	va	17.373	17.473	match
+7-1	7	BO117	bene	_	17.909	3	SPEAKER_01	BO117	bene	17.533	17.813	match
+8-0	8	BO117	eh	18.963	_	_	_	_	_	_	_	tsv_only
+8-1	8	BO117	(.)	_	_	_	_	_	_	_	_	skipped
+8-2	8	BO117	partiamo	_	_	4	SPEAKER_01	BO117	partiamo	20.086	20.386	match
+8-3	8	BO117	da	_	_	4	SPEAKER_01	BO117	da	20.426	20.526	match
+8-4	8	BO117	voghera	_	20.955	4	SPEAKER_01	BO117	voghera	20.566	20.946	match
+9-0	9	BO117	eh	21.823	_	_	_	_	_	_	_	tsv_only
+9-1	9	BO117	cosa	_	_	5	SPEAKER_01	BO117	cosa	22.086	22.247	match
+9-2	9	BO117	si	_	_	5	SPEAKER_01	BO117	si	22.267	22.327	match
+9-3	9	BO117	intende	_	_	5	SPEAKER_01	BO117	intende	22.347	22.607	match
+9-4	9	BO117	per	_	_	5	SPEAKER_01	BO117	per	22.667	22.747	match
+9-5	9	BO117	correlati	_	_	5	SPEAKER_01	BO117	correlati	22.887	23.407	match
+9-6	9	BO117	funzionali	_	_	5	SPEAKER_01	BO117	funzionali	23.487	24.207	match
+9-7	9	BO117	(.)	_	_	_	_	_	_	_	_	skipped
+9-8	9	BO117	del	_	_	5	SPEAKER_01	BO117	del	24.728	24.848	match
+9-9	9	BO117	parlato	_	25.382	5	SPEAKER_01	BO117	parlato	24.908	26.368	match
+10-0	10	BO142	mh	25.65	25.819	_	_	_	_	_	_	tsv_only
+11-0	11	BO142	si	26.345	_	6	SPEAKER_00	BO142	si	26.428	26.488	match
+11-1	11	BO142	intendono	_	_	6	SPEAKER_00	BO142	intendono	26.508	27.089	match
+11-2	11	BO142	tutte	_	_	6	SPEAKER_00	BO142	tutte	27.129	27.349	match
+11-3	11	BO142	quelle	_	_	6	SPEAKER_00	BO142	quelle	27.429	27.649	match
+11-4	11	BO142	caratteristiche	_	_	6	SPEAKER_00	BO142	caratteristiche	27.669	28.769	match
+11-5	11	BO142	che	_	_	6	SPEAKER_00	BO142	che	28.890	29.090	match
+11-6	11	BO142	ehm	_	_	_	_	_	_	_	_	tsv_only
+11-7	11	BO142	contraddistinguono	_	_	6	SPEAKER_00	BO142	contraddistinguono	30.210	31.131	match
+11-8	11	BO142	il	_	_	6	SPEAKER_00	BO142	il	31.151	31.211	match
+11-9	11	BO142	parlato	_	32.0	6	SPEAKER_00	BO142	parlato	31.291	31.951	match
+12-0	12	BO142	rispetto	32.403	_	6	SPEAKER_00	BO142	rispetto	32.531	32.931	match
+12-1	12	BO142	allo	_	_	6	SPEAKER_00	BO142	allo	32.991	33.172	match
+12-2	12	BO142	scritto	_	_	6	SPEAKER_00	BO142	scritto	33.212	33.792	match
+12-3	12	BO142	ovvero	_	_	6	SPEAKER_00	BO142	ovvero	33.812	34.232	match
+12-4	12	BO142	il	_	_	6	SPEAKER_00	BO142	il	34.372	34.452	match
+12-5	12	BO142	fatto	_	_	6	SPEAKER_00	BO142	fatto	34.512	34.772	match
+12-6	12	BO142	che	_	_	6	SPEAKER_00	BO142	che	34.832	34.952	match
+12-7	12	BO142	sia	_	_	6	SPEAKER_00	BO142	sia	35.132	35.453	match
+12-8	12	BO142	un	_	36.102	_	_	_	_	_	_	tsv_only
+13-0	13	BO142	eh	36.506	_	_	_	_	_	_	_	tsv_only
+13-1	13	BO142	cor~	_	_	_	_	_	_	_	_	tsv_only
+13-2	13	BO142	un	_	37.969	6	SPEAKER_00	BO142	un	35.593	37.894	match
+14-0	14	BO142	ehm	38.396	39.61	_	_	_	_	_	_	tsv_only
+15-0	15	BO142	metodo	39.79	_	6	SPEAKER_00	BO142	metodo	39.915	40.335	match
+15-1	15	BO142	dinamico	_	_	6	SPEAKER_00	BO142	dinamico	40.395	41.175	match
+15-2	15	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+15-3	15	BO142	di	_	_	6	SPEAKER_00	BO142	di	41.595	41.655	match
+15-4	15	BO142	esprimersi	_	_	6	SPEAKER_00	BO142	esprimersi	41.715	42.556	match
+15-5	15	BO142	il	_	_	6	SPEAKER_00	BO142	il	42.596	42.676	match
+15-6	15	BO142	fatto	_	_	6	SPEAKER_00	BO142	fatto	42.716	42.996	match
+15-7	15	BO142	che	_	_	6	SPEAKER_00	BO142	che	43.096	43.316	match
+15-8	15	BO142	sia	_	43.816	6	SPEAKER_00	BO142	sia	43.516	43.756	match
+16-0	16	BO142	comunque	44.22	_	6	SPEAKER_00	BO142	comunque	44.277	44.937	match
+16-1	16	BO142	ehm	_	46.087	_	_	_	_	_	_	tsv_only
+17-0	17	BO142	ehm	46.639	_	_	_	_	_	_	_	tsv_only
+17-1	17	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+17-2	17	BO142	diciamo	_	_	7	SPEAKER_00	BO142	diciamo	47.798	49.159	match
+17-3	17	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+17-4	17	BO142	non	_	_	7	SPEAKER_00	BO142	non	49.199	49.319	match
+17-5	17	BO142	imprimibile	_	_	7	SPEAKER_00	BO142	imprimibile	49.399	50.199	match
+17-6	17	BO142	su	_	_	7	SPEAKER_00	BO142	su	50.399	50.620	match
+17-7	17	BO142	un	_	_	7	SPEAKER_00	BO142	un	50.780	51.320	match
+17-8	17	BO142	supporto	_	52.403	7	SPEAKER_00	BO142	supporto	51.440	52.401	match
+18-0	18	BO142	fisico	52.771	53.609	7	SPEAKER_00	BO142	fisico	52.861	53.481	match
+19-0	19	BO142	e	53.941	_	7	SPEAKER_00	BO142	e	54.041	54.161	match
+19-1	19	BO142	il	_	_	7	SPEAKER_00	BO142	il	54.282	54.382	match
+19-2	19	BO142	fatto	_	_	7	SPEAKER_00	BO142	fatto	54.482	54.922	match
+19-3	19	BO142	che	_	_	7	SPEAKER_00	BO142	che	55.042	55.342	match
+19-4	19	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+19-5	19	BO142	segua	_	_	_	_	_	_	_	_	tsv_only
+19-6	19	BO142	che	_	_	7	SPEAKER_00	BO142	che	56.843	56.963	match
+19-7	19	BO142	sia	_	_	7	SPEAKER_00	BO142	sia	57.123	57.283	match
+19-8	19	BO142	più	_	_	7	SPEAKER_00	BO142	più	57.403	57.623	match
+19-9	19	BO142	diciamo	_	_	7	SPEAKER_00	BO142	diciamo	57.783	58.204	match
+19-10	19	BO142	disordinato	_	_	7	SPEAKER_00	BO142	disordinato	58.244	59.044	match
+19-11	19	BO142	dello	_	_	7	SPEAKER_00	BO142	dello	59.104	59.344	match
+19-12	19	BO142	scritto	_	60.139	7	SPEAKER_00	BO142	scritto	59.404	60.125	match
+20-0	20	BO142	eh	60.558	_	_	_	_	_	_	_	tsv_only
+20-1	20	BO142	apparentemente	_	_	7	SPEAKER_00	BO142	apparentemente	61.085	62.086	match
+20-2	20	BO142	perché	_	_	7	SPEAKER_00	BO142	perché	62.166	62.466	match
+20-3	20	BO142	in	_	_	7	SPEAKER_00	BO142	in	62.486	62.546	match
+20-4	20	BO142	verità	_	63.044	7	SPEAKER_00	BO142	verità	62.566	63.026	match
+21-0	21	BO142	eh	63.352	_	_	_	_	_	_	_	tsv_only
+21-1	21	BO142	il	_	_	7	SPEAKER_00	BO142	il	63.927	63.987	match
+21-2	21	BO142	parlato	_	_	7	SPEAKER_00	BO142	parlato	64.047	64.807	match
+21-3	21	BO142	usa	_	_	7	SPEAKER_00	BO142	usa	65.007	65.407	match
+21-4	21	BO142	comunque	_	_	7	SPEAKER_00	BO142	comunque	65.547	66.208	match
+21-5	21	BO142	molte	_	_	7	SPEAKER_00	BO142	molte	66.408	66.688	match
+21-6	21	BO142	tecniche	_	_	7	SPEAKER_00	BO142	tecniche	66.768	67.629	match
+21-7	21	BO142	che	_	_	_	_	_	_	_	_	tsv_only
+21-8	21	BO142	anche	_	_	7	SPEAKER_00	BO142	anche	67.689	67.949	match
+21-9	21	BO142	se	_	68.227	7	SPEAKER_00	BO142	se	68.069	68.269	match
+22-0	22	??	((bussa))	68.259	68.891	_	_	_	_	_	_	skipped
+23-0	23	BO142	eh	68.667	69.175	_	_	_	_	_	_	tsv_only
+24-0	24	BO117	avanti	69.763	70.367	7	SPEAKER_00	BO142	avanti	69.830	70.350	match
+25-0	25	??	scusatemi	72.227	73.176	_	_	_	_	_	_	tsv_only
+26-0	26	BO117	perfetto	73.341	_	7	SPEAKER_00	BO142	perfetto	70.490	70.930	match
+26-1	26	BO117	grazie	_	_	7	SPEAKER_00	BO142	grazie	70.950	71.190	match
+26-2	26	BO117	mille	_	74.576	7	SPEAKER_00	BO142	mille	71.831	72.391	match
+27-0	27	??	grazie	74.58	_	7	SPEAKER_00	BO142	grazie	72.451	72.911	match
+27-1	27	??	mille	_	_	7	SPEAKER_00	BO142	mille	72.951	73.512	match
+27-2	27	??	arrivederci	_	75.963	_	_	_	_	_	_	tsv_only
+28-0	28	BO117	arrivederci	75.301	75.882	7	SPEAKER_00	BO142	arrivederci	73.572	75.933	match
+29-0	29	BO142	sì	76.97	_	_	_	_	_	_	_	tsv_only
+29-1	29	BO142	voghera	_	_	8	SPEAKER_00	BO142	sebboghera	76.947	77.887	mismatch
+29-2	29	BO142	sottolinea	_	_	8	SPEAKER_00	BO142	sottolinea	78.067	78.748	match
+29-3	29	BO142	che	_	_	8	SPEAKER_00	BO142	che	78.848	79.108	match
+29-4	29	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+29-5	29	BO142	spesso	_	_	8	SPEAKER_00	BO142	spesso	79.768	80.228	match
+29-6	29	BO142	il	_	_	8	SPEAKER_00	BO142	il	80.288	80.368	match
+29-7	29	BO142	parlato	_	_	8	SPEAKER_00	BO142	parlato	80.428	80.848	match
+29-8	29	BO142	è	_	_	8	SPEAKER_00	BO142	è	80.909	80.949	match
+29-9	29	BO142	stato	_	81.522	8	SPEAKER_00	BO142	stato	81.009	81.429	match
+30-0	30	BO142	snobbato	81.852	_	8	SPEAKER_00	BO142	snobbato	81.989	82.669	match
+30-1	30	BO142	tra	_	_	8	SPEAKER_00	BO142	tra	82.709	82.869	match
+30-2	30	BO142	virgolette	_	_	8	SPEAKER_00	BO142	virgolette	82.929	83.710	match
+30-3	30	BO142	dalla	_	_	8	SPEAKER_00	BO142	dalla	83.790	84.010	match
+30-4	30	BO142	concezione	_	_	8	SPEAKER_00	BO142	concezione	84.050	84.870	match
+30-5	30	BO142	tipica	_	85.654	8	SPEAKER_00	BO142	tipica	85.010	85.650	match
+31-0	31	BO142	dallo	86.014	_	8	SPEAKER_00	BO142	dallo	86.110	86.351	match
+31-1	31	BO142	studio	_	_	8	SPEAKER_00	BO142	studio	86.391	86.691	match
+31-2	31	BO142	della	_	_	8	SPEAKER_00	BO142	della	86.731	86.991	match
+31-3	31	BO142	linguistica	_	_	8	SPEAKER_00	BO142	linguistica	87.051	87.711	match
+31-4	31	BO142	o	_	_	8	SPEAKER_00	BO142	o	87.731	87.751	match
+31-5	31	BO142	comunque	_	88.367	8	SPEAKER_00	BO142	comunque	87.851	88.371	match
+32-0	32	BO142	dalla	88.654	_	8	SPEAKER_00	BO142	dalla	88.731	88.952	match
+32-1	32	BO142	sistematizzazione	_	_	8	SPEAKER_00	BO142	sistematizzazione	89.012	90.172	match
+32-2	32	BO142	della	_	_	8	SPEAKER_00	BO142	della	90.232	91.192	match
+32-3	32	BO142	mh	_	91.11	_	_	_	_	_	_	tsv_only
+33-0	33	BO142	linguistica	91.114	_	8	SPEAKER_00	BO142	linguistica	91.252	91.913	match
+33-1	33	BO142	e	_	_	8	SPEAKER_00	BO142	e	91.933	91.953	match
+33-2	33	BO142	dei	_	_	8	SPEAKER_00	BO142	dei	91.993	92.113	match
+33-3	33	BO142	concetti	_	_	8	SPEAKER_00	BO142	concetti	92.153	92.593	match
+33-4	33	BO142	che	_	_	8	SPEAKER_00	BO142	che	92.653	92.733	match
+33-5	33	BO142	la	_	_	8	SPEAKER_00	BO142	la	92.793	92.853	match
+33-6	33	BO142	costituiscono	_	_	8	SPEAKER_00	BO142	costituiscono	92.893	93.773	match
+33-7	33	BO142	perché	_	94.205	8	SPEAKER_00	BO142	perché	93.853	94.174	match
+34-0	34	BO142	come	94.52	_	8	SPEAKER_00	BO142	come	94.594	94.754	match
+34-1	34	BO142	idea	_	_	8	SPEAKER_00	BO142	idea	94.774	95.014	match
+34-2	34	BO142	generale	_	_	8	SPEAKER_00	BO142	generale	95.054	95.694	match
+34-3	34	BO142	si	_	_	_	_	_	_	_	_	tsv_only
+34-4	34	BO142	è	_	_	_	_	_	_	_	_	tsv_only
+34-5	34	BO142	par~	_	_	_	_	_	_	_	_	tsv_only
+34-6	34	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+34-7	34	BO142	si	_	_	8	SPEAKER_00	BO142	si	96.915	96.975	match
+34-8	34	BO142	prende	_	_	8	SPEAKER_00	BO142	prende	97.035	97.435	match
+34-9	34	BO142	come	_	97.808	8	SPEAKER_00	BO142	come	97.515	97.815	match
+35-0	35	BO142	eh	98.189	_	_	_	_	_	_	_	tsv_only
+35-1	35	BO142	presupposto	_	_	8	SPEAKER_00	BO142	presupposto	98.875	99.576	match
+35-2	35	BO142	il	_	_	8	SPEAKER_00	BO142	il	99.636	99.696	match
+35-3	35	BO142	fatto	_	_	8	SPEAKER_00	BO142	fatto	99.756	100.096	match
+35-4	35	BO142	che	_	100.49	_	_	_	_	_	_	tsv_only
+36-0	36	BO142	ehm	100.851	102.25	_	_	_	_	_	_	tsv_only
+37-0	37	BO142	che	102.356	_	8	SPEAKER_00	BO142	che	100.196	100.436	match
+37-1	37	BO142	il	_	_	8	SPEAKER_00	BO142	il	102.757	103.237	match
+37-2	37	BO142	parlato	_	_	8	SPEAKER_00	BO142	parlato	103.357	103.957	match
+37-3	37	BO142	sia	_	_	8	SPEAKER_00	BO142	sia	104.117	104.337	match
+37-4	37	BO142	una	_	_	8	SPEAKER_00	BO142	una	104.437	104.577	match
+37-5	37	BO142	categoria	_	_	8	SPEAKER_00	BO142	categoria	104.617	105.338	match
+37-6	37	BO142	di	_	105.862	8	SPEAKER_00	BO142	di	105.418	105.478	match
+38-0	38	BO142	espressione	106.117	_	9	SPEAKER_00	BO142	espressione	106.267	107.088	match
+38-1	38	BO142	secondaria	_	_	9	SPEAKER_00	BO142	secondaria	107.228	107.889	match
+38-2	38	BO142	rispetto	_	_	9	SPEAKER_00	BO142	rispetto	107.909	108.269	match
+38-3	38	BO142	allo	_	_	9	SPEAKER_00	BO142	allo	108.309	108.489	match
+38-4	38	BO142	scritto	_	_	9	SPEAKER_00	BO142	scritto	108.549	109.090	match
+38-5	38	BO142	ovvero	_	109.58	9	SPEAKER_00	BO142	ovvero	109.110	109.570	match
+39-0	39	BO142	ehm	110.029	111.058	_	_	_	_	_	_	tsv_only
+40-0	40	BO142	una	111.477	_	9	SPEAKER_00	BO142	una	111.572	111.692	match
+40-1	40	BO142	categoria	_	_	9	SPEAKER_00	BO142	categoria	111.752	112.573	match
+40-2	40	BO142	meno	_	_	9	SPEAKER_00	BO142	meno	112.833	113.294	match
+40-3	40	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+40-4	40	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+40-5	40	BO142	degna	_	_	9	SPEAKER_00	BO142	degna	114.455	114.795	match
+40-6	40	BO142	di	_	_	9	SPEAKER_00	BO142	di	114.835	114.915	match
+40-7	40	BO142	attenzione	_	115.771	9	SPEAKER_00	BO142	attenzione	114.955	115.736	match
+41-0	41	BO142	e	116.852	_	_	_	_	_	_	_	tsv_only
+41-1	41	BO142	quindi	_	117.83	10	SPEAKER_00	BO142	quindi	117.377	117.818	match
+42-0	42	BO142	eh	118.294	_	_	_	_	_	_	_	tsv_only
+42-1	42	BO142	voghera	_	_	_	_	_	_	_	_	tsv_only
+42-2	42	BO142	diciamo	_	_	10	SPEAKER_00	BO142	boghera	119.399	119.760	mismatch
+42-3	42	BO142	pone	_	_	10	SPEAKER_00	BO142	pone	120.300	120.500	match
+42-4	42	BO142	l'	_	_	10	SPEAKER_00	BO142	l	120.580	120.642	match
+42-5	42	BO142	attenzione	_	_	10	SPEAKER_00	BO142	attenzione	120.642	121.261	match
+42-6	42	BO142	sul	_	_	10	SPEAKER_00	BO142	sul	121.361	121.521	match
+42-7	42	BO142	fatto	_	_	10	SPEAKER_00	BO142	fatto	121.561	121.801	match
+42-8	42	BO142	che	_	_	10	SPEAKER_00	BO142	che	121.861	121.962	match
+42-9	42	BO142	le	_	_	10	SPEAKER_00	BO142	le	122.022	122.102	match
+42-10	42	BO142	gramatiche	_	123.104	10	SPEAKER_00	BO142	grammatiche	122.162	123.043	mismatch
+43-0	43	BO142	diano	123.521	_	10	SPEAKER_00	BO142	diano	123.663	124.124	match
+43-1	43	BO142	una	_	_	_	_	_	_	_	_	tsv_only
+43-2	43	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+43-3	43	BO142	un'	_	_	10	SPEAKER_00	BO142	un	125.765	125.925	match
+43-4	43	BO142	immagine	_	_	10	SPEAKER_00	BO142	immagine	125.925	126.566	match
+43-5	43	BO142	della	_	127.205	_	_	_	_	_	_	tsv_only
+44-0	44	BO142	della	127.532	_	10	SPEAKER_00	BO142	della	127.627	127.867	match
+44-1	44	BO142	lingua	_	_	10	SPEAKER_00	BO142	lingua	127.907	128.367	match
+44-2	44	BO142	che	_	_	10	SPEAKER_00	BO142	che	128.468	128.568	match
+44-3	44	BO142	non	_	_	10	SPEAKER_00	BO142	non	128.628	128.768	match
+44-4	44	BO142	è	_	_	10	SPEAKER_00	BO142	è	128.848	128.968	match
+44-5	44	BO142	ehm	_	_	_	_	_	_	_	_	tsv_only
+44-6	44	BO142	veritiera	_	131.044	10	SPEAKER_00	BO142	veritiera	130.309	130.990	match
+45-0	45	BO142	in	131.403	_	11	SPEAKER_00	BO142	in	131.563	131.623	match
+45-1	45	BO142	quanto	_	_	11	SPEAKER_00	BO142	quanto	131.663	133.003	match
+45-2	45	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+45-3	45	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+45-4	45	BO142	formano	_	_	11	SPEAKER_00	BO142	formano	133.063	133.463	match
+45-5	45	BO142	una	_	_	11	SPEAKER_00	BO142	una	133.523	133.663	match
+45-6	45	BO142	lingua	_	_	11	SPEAKER_00	BO142	lingua	133.723	134.323	match
+45-7	45	BO142	decontestualizzata	_	136.043	11	SPEAKER_00	BO142	decontestualizzata	134.524	135.964	match
+46-0	46	BO142	perché	136.492	_	11	SPEAKER_00	BO142	perché	136.524	136.784	match
+46-1	46	BO142	prendono	_	_	11	SPEAKER_00	BO142	prendono	136.864	137.284	match
+46-2	46	BO142	tutti	_	_	11	SPEAKER_00	BO142	tutti	137.324	137.564	match
+46-3	46	BO142	esempi	_	_	11	SPEAKER_00	BO142	esempi	137.604	138.384	match
+46-4	46	BO142	mh	_	139.058	_	_	_	_	_	_	tsv_only
+47-0	47	BO142	mh	139.477	_	_	_	_	_	_	_	tsv_only
+47-1	47	BO142	estrapolati	_	_	11	SPEAKER_00	BO142	estrapolati	139.824	140.525	match
+47-2	47	BO142	da	_	_	_	_	_	_	_	_	tsv_only
+47-3	47	BO142	una	_	_	11	SPEAKER_00	BO142	dalla	140.585	140.865	mismatch
+47-4	47	BO142	lingua	_	_	11	SPEAKER_00	BO142	lingua	140.905	141.225	match
+47-5	47	BO142	standard	_	_	11	SPEAKER_00	BO142	standard	141.265	142.065	match
+47-6	47	BO142	che	_	_	11	SPEAKER_00	BO142	che	142.085	142.145	match
+47-7	47	BO142	fondamentalmente	_	_	11	SPEAKER_00	BO142	fondamentalmente	142.245	143.105	match
+47-8	47	BO142	nessuno	_	_	11	SPEAKER_00	BO142	nessuno	143.165	143.545	match
+47-9	47	BO142	usa	_	_	11	SPEAKER_00	BO142	usa	143.745	143.885	match
+47-10	47	BO142	alla	_	_	11	SPEAKER_00	BO142	alla	143.905	144.125	match
+47-11	47	BO142	fine	_	144.455	11	SPEAKER_00	BO142	fine	144.205	144.485	match
+48-0	48	BO142	e	145.131	_	11	SPEAKER_00	BO142	e	145.225	145.285	match
+48-1	48	BO142	quindi	_	_	11	SPEAKER_00	BO142	quindi	145.405	145.885	match
+48-2	48	BO142	ehm	_	146.977	_	_	_	_	_	_	tsv_only
+49-0	49	BO142	relegano	147.701	_	11	SPEAKER_00	BO142	relegano	147.846	148.366	match
+49-1	49	BO142	il	_	_	11	SPEAKER_00	BO142	il	148.406	148.466	match
+49-2	49	BO142	parlato	_	_	11	SPEAKER_00	BO142	parlato	148.526	149.166	match
+49-3	49	BO142	in	_	_	11	SPEAKER_00	BO142	in	149.326	149.426	match
+49-4	49	BO142	una	_	_	11	SPEAKER_00	BO142	una	149.446	149.726	match
+49-5	49	BO142	mh	_	150.352	_	_	_	_	_	_	tsv_only
+50-0	50	BO142	posizione	150.74	_	11	SPEAKER_00	BO142	posizione	150.766	151.566	match
+50-1	50	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+50-2	50	BO142	marginale	_	152.823	11	SPEAKER_00	BO142	marginale	151.966	152.707	match
+51-0	51	BO142	mentre	153.036	_	11	SPEAKER_00	BO142	mentre	153.107	153.387	match
+51-1	51	BO142	invece	_	_	11	SPEAKER_00	BO142	invece	153.447	154.007	match
+51-2	51	BO142	il	_	_	11	SPEAKER_00	BO142	il	154.207	154.287	match
+51-3	51	BO142	parlato	_	_	11	SPEAKER_00	BO142	parlato	154.347	155.007	match
+51-4	51	BO142	anche	_	_	11	SPEAKER_00	BO142	anche	155.207	155.447	match
+51-5	51	BO142	se	_	_	11	SPEAKER_00	BO142	se	155.527	155.627	match
+51-6	51	BO142	apparentemente	_	_	11	SPEAKER_00	BO142	apparentemente	155.647	156.507	match
+51-7	51	BO142	non	_	_	11	SPEAKER_00	BO142	non	156.567	156.707	match
+51-8	51	BO142	sembra	_	_	11	SPEAKER_00	BO142	sembra	156.787	157.127	match
+51-9	51	BO142	che	_	_	11	SPEAKER_00	BO142	che	157.147	157.207	match
+51-10	51	BO142	segua	_	_	11	SPEAKER_00	BO142	segua	157.327	157.567	match
+51-11	51	BO142	delle	_	_	11	SPEAKER_00	BO142	delle	157.607	157.827	match
+51-12	51	BO142	regole	_	_	11	SPEAKER_00	BO142	regole	157.867	158.187	match
+51-13	51	BO142	logiche	_	158.889	11	SPEAKER_00	BO142	logiche	158.308	158.888	match
+52-0	52	BO142	segue	159.323	_	11	SPEAKER_00	BO142	segue	159.448	159.748	match
+52-1	52	BO142	delle	_	_	11	SPEAKER_00	BO142	delle	159.808	160.148	match
+52-2	52	BO142	eh	_	161.176	_	_	_	_	_	_	tsv_only
+53-0	53	BO142	eh	162.234	_	_	_	_	_	_	_	tsv_only
+53-1	53	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+53-2	53	BO142	modalità	_	163.815	12	SPEAKER_00	BO142	modalità	162.267	164.189	match
+54-0	54	BO142	ottimali	164.087	_	12	SPEAKER_00	BO142	ottimali	164.229	164.970	match
+54-1	54	BO142	per	_	_	12	SPEAKER_00	BO142	per	165.090	165.210	match
+54-2	54	BO142	la	_	_	12	SPEAKER_00	BO142	la	165.270	165.330	match
+54-3	54	BO142	sua	_	_	12	SPEAKER_00	BO142	sua	165.390	165.510	match
+54-4	54	BO142	trasmissione	_	_	12	SPEAKER_00	BO142	trasmissione	165.591	166.431	match
+54-5	54	BO142	che	_	_	12	SPEAKER_00	BO142	che	166.492	166.592	match
+54-6	54	BO142	non	_	_	12	SPEAKER_00	BO142	non	166.652	166.772	match
+54-7	54	BO142	sono	_	_	12	SPEAKER_00	BO142	sono	166.832	167.052	match
+54-8	54	BO142	naturalmente	_	_	12	SPEAKER_00	BO142	naturalmente	167.132	167.773	match
+54-9	54	BO142	quelle	_	_	12	SPEAKER_00	BO142	quelle	167.833	168.053	match
+54-10	54	BO142	dello	_	_	12	SPEAKER_00	BO142	dello	168.073	168.313	match
+54-11	54	BO142	scritto	_	_	12	SPEAKER_00	BO142	scritto	168.354	168.774	match
+54-12	54	BO142	perché	_	169.117	12	SPEAKER_00	BO142	perché	168.834	169.134	match
+55-0	55	BO142	il	169.477	_	12	SPEAKER_00	BO142	il	169.575	169.655	match
+55-1	55	BO142	canale	_	_	12	SPEAKER_00	BO142	canale	169.715	170.075	match
+55-2	55	BO142	è	_	_	12	SPEAKER_00	BO142	è	170.095	170.115	match
+55-3	55	BO142	diverso	_	170.793	12	SPEAKER_00	BO142	diverso	170.196	170.816	match
+56-0	56	BO142	però	171.212	_	12	SPEAKER_00	BO142	però	171.257	171.557	match
+56-1	56	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+56-2	56	BO142	sono	_	_	12	SPEAKER_00	BO142	sono	171.757	172.017	match
+56-3	56	BO142	le	_	_	12	SPEAKER_00	BO142	le	172.098	172.218	match
+56-4	56	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+56-5	56	BO142	modalità	_	_	12	SPEAKER_00	BO142	modalità	172.778	173.299	match
+56-6	56	BO142	migliori	_	_	12	SPEAKER_00	BO142	migliori	173.419	174.100	match
+56-7	56	BO142	attraverso	_	_	12	SPEAKER_00	BO142	attraverso	174.280	174.841	match
+56-8	56	BO142	le	_	_	12	SPEAKER_00	BO142	le	174.901	174.981	match
+56-9	56	BO142	quali	_	_	12	SPEAKER_00	BO142	quali	175.041	175.321	match
+56-10	56	BO142	può	_	_	12	SPEAKER_00	BO142	può	175.361	175.481	match
+56-11	56	BO142	esprimere	_	_	12	SPEAKER_00	BO142	esprimere	175.521	176.062	match
+56-12	56	BO142	e	_	_	12	SPEAKER_00	BO142	e	176.082	176.102	match
+56-13	56	BO142	veicolare	_	_	12	SPEAKER_00	BO142	veicolare	176.142	176.703	match
+56-14	56	BO142	i	_	_	12	SPEAKER_00	BO142	i	176.863	176.903	match
+56-15	56	BO142	suo~	_	_	_	_	_	_	_	_	tsv_only
+56-16	56	BO142	i	_	_	12	SPEAKER_00	BO142	suoi	176.963	177.143	mismatch
+56-17	56	BO142	concetti	_	_	12	SPEAKER_00	BO142	concetti	177.263	177.764	match
+56-18	56	BO142	che	_	_	12	SPEAKER_00	BO142	che	177.804	177.924	match
+56-19	56	BO142	vuole	_	178.366	12	SPEAKER_00	BO142	vuole	178.024	178.364	match
+57-0	57	BO142	e	179.022	_	_	_	_	_	_	_	tsv_only
+57-1	57	BO142	infatti	_	_	13	SPEAKER_00	BO142	infatti	179.686	180.186	match
+57-2	57	BO142	vediamo	_	_	13	SPEAKER_00	BO142	vediamo	180.246	180.667	match
+57-3	57	BO142	che	_	_	13	SPEAKER_00	BO142	che	180.727	180.787	match
+57-4	57	BO142	il	_	_	13	SPEAKER_00	BO142	il	180.807	180.867	match
+57-5	57	BO142	parlato	_	181.639	13	SPEAKER_00	BO142	parlato	180.927	181.528	match
+58-0	58	BO142	è	182.962	_	13	SPEAKER_00	BO142	è	181.548	181.568	match
+58-1	58	BO142	comunque	_	_	14	SPEAKER_00	BO142	comunque	183.353	184.013	match
+58-2	58	BO142	una	_	_	14	SPEAKER_00	BO142	una	184.234	184.574	match
+58-3	58	BO142	dimensione	_	185.668	14	SPEAKER_00	BO142	dimensione	184.734	185.614	match
+59-0	59	BO142	ehm	186.021	_	_	_	_	_	_	_	tsv_only
+59-1	59	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+59-2	59	BO142	regolata	_	_	14	SPEAKER_00	BO142	regolata	187.035	187.715	match
+59-3	59	BO142	in	_	_	14	SPEAKER_00	BO142	in	187.855	187.955	match
+59-4	59	BO142	un	_	_	14	SPEAKER_00	BO142	un	187.995	188.035	match
+59-5	59	BO142	certo	_	_	14	SPEAKER_00	BO142	certo	188.095	188.375	match
+59-6	59	BO142	senso	_	_	14	SPEAKER_00	BO142	senso	188.455	188.755	match
+59-7	59	BO142	da	_	_	14	SPEAKER_00	BO142	da	188.795	188.976	match
+59-8	59	BO142	regole	_	_	14	SPEAKER_00	BO142	regole	189.056	189.436	match
+59-9	59	BO142	anche	_	_	14	SPEAKER_00	BO142	anche	189.456	189.756	match
+59-10	59	BO142	tacite	_	_	14	SPEAKER_00	BO142	tacite	189.876	190.416	match
+59-11	59	BO142	tra	_	_	14	SPEAKER_00	BO142	tra	190.516	190.616	match
+59-12	59	BO142	gli	_	_	14	SPEAKER_00	BO142	gli	190.696	190.796	match
+59-13	59	BO142	interlocutori	_	191.742	14	SPEAKER_00	BO142	interlocutori	190.816	191.697	match
+60-0	60	BO142	come	192.128	_	14	SPEAKER_00	BO142	come	192.197	192.357	match
+60-1	60	BO142	ad	_	_	14	SPEAKER_00	BO142	ad	192.397	192.497	match
+60-2	60	BO142	esempio	_	_	14	SPEAKER_00	BO142	esempio	192.537	192.837	match
+60-3	60	BO142	i	_	_	14	SPEAKER_00	BO142	i	192.917	192.957	match
+60-4	60	BO142	turni	_	193.577	14	SPEAKER_00	BO142	turni	192.997	193.498	match
+61-0	61	BO142	che	193.955	_	14	SPEAKER_00	BO142	che	193.998	194.098	match
+61-1	61	BO142	sono	_	_	14	SPEAKER_00	BO142	sono	194.238	194.458	match
+61-2	61	BO142	le	_	_	14	SPEAKER_00	BO142	le	194.518	194.578	match
+61-3	61	BO142	unità	_	_	14	SPEAKER_00	BO142	unità	194.618	194.918	match
+61-4	61	BO142	minime	_	_	14	SPEAKER_00	BO142	minime	195.058	195.698	match
+61-5	61	BO142	eh	_	196.5	_	_	_	_	_	_	tsv_only
+62-0	62	BO142	le	196.852	_	_	_	_	_	_	_	tsv_only
+62-1	62	BO142	unità	_	_	14	SPEAKER_00	BO142	unità	196.979	197.279	match
+62-2	62	BO142	minime	_	_	14	SPEAKER_00	BO142	minime	197.359	197.679	match
+62-3	62	BO142	di	_	_	14	SPEAKER_00	BO142	di	197.759	197.839	match
+62-4	62	BO142	studio	_	_	14	SPEAKER_00	BO142	studio	197.919	198.380	match
+62-5	62	BO142	ecco	_	_	_	_	_	_	_	_	tsv_only
+62-6	62	BO142	del	_	_	14	SPEAKER_00	BO142	di	198.800	198.980	mismatch
+62-7	62	BO142	parlato	_	199.75	14	SPEAKER_00	BO142	parlato	199.040	199.720	match
+63-0	63	BO117	mhmh	198.628	198.944	_	_	_	_	_	_	tsv_only
+64-0	64	BO142	eh	200.366	_	_	_	_	_	_	_	tsv_only
+64-1	64	BO142	che	_	_	14	SPEAKER_00	BO142	che	200.701	200.801	match
+64-2	64	BO142	scandiscono	_	_	14	SPEAKER_00	BO142	scandiscono	200.861	201.501	match
+64-3	64	BO142	la	_	_	14	SPEAKER_00	BO142	la	201.581	201.661	match
+64-4	64	BO142	conversazione	_	_	14	SPEAKER_00	BO142	conversazione	201.701	202.461	match
+64-5	64	BO142	e	_	_	14	SPEAKER_00	BO142	e	202.481	202.501	match
+64-6	64	BO142	il	_	_	14	SPEAKER_00	BO142	il	202.541	202.621	match
+64-7	64	BO142	dialogo	_	203.264	14	SPEAKER_00	BO142	dialogo	202.681	203.262	match
+65-0	65	BO142	e	203.558	_	14	SPEAKER_00	BO142	e	203.642	203.682	match
+65-1	65	BO142	che	_	_	14	SPEAKER_00	BO142	che	203.742	203.822	match
+65-2	65	BO142	implicitamente	_	_	14	SPEAKER_00	BO142	implicitamente	203.842	204.982	match
+65-3	65	BO142	ehm	_	205.83	_	_	_	_	_	_	tsv_only
+66-0	66	BO142	fanno	206.139	_	14	SPEAKER_00	BO142	fanno	206.183	206.443	match
+66-1	66	BO142	sì	_	_	14	SPEAKER_00	BO142	sì	206.543	206.663	match
+66-2	66	BO142	che	_	_	14	SPEAKER_00	BO142	che	206.763	206.903	match
+66-3	66	BO142	gli	_	_	14	SPEAKER_00	BO142	gli	206.963	207.063	match
+66-4	66	BO142	utenti	_	_	14	SPEAKER_00	BO142	utenti	207.083	207.744	match
+66-5	66	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+66-6	66	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+66-7	66	BO142	sottostiano	_	_	14	SPEAKER_00	BO142	sottostiano	208.564	209.244	match
+66-8	66	BO142	a	_	_	_	_	_	_	_	_	tsv_only
+66-9	66	BO142	delle	_	_	14	SPEAKER_00	BO142	delle	209.324	209.564	match
+66-10	66	BO142	regole	_	_	14	SPEAKER_00	BO142	regole	209.624	210.105	match
+66-11	66	BO142	ovvero	_	210.69	14	SPEAKER_00	BO142	ovvero	210.185	210.605	match
+67-0	67	BO142	eh	211.043	_	_	_	_	_	_	_	tsv_only
+67-1	67	BO142	scandiscon~	_	_	_	_	_	_	_	_	tsv_only
+67-2	67	BO142	cioè	_	_	_	_	_	_	_	_	tsv_only
+67-3	67	BO142	sono	_	_	15	SPEAKER_00	BO142	sono	212.666	212.846	match
+67-4	67	BO142	scanditi	_	_	15	SPEAKER_00	BO142	scanditi	212.906	213.346	match
+67-5	67	BO142	da	_	_	15	SPEAKER_00	BO142	da	213.406	213.526	match
+67-6	67	BO142	punti	_	214.389	15	SPEAKER_00	BO142	punti	213.666	214.266	match
+68-0	68	BO142	eh	214.602	_	_	_	_	_	_	_	tsv_only
+68-1	68	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+68-2	68	BO142	dove	_	_	15	SPEAKER_00	BO142	dove	215.707	216.047	match
+68-3	68	BO142	è	_	_	15	SPEAKER_00	BO142	è	216.107	216.147	match
+68-4	68	BO142	possibile	_	_	15	SPEAKER_00	BO142	possibile	216.287	216.907	match
+68-5	68	BO142	cedere	_	_	15	SPEAKER_00	BO142	cedere	216.927	217.408	match
+68-6	68	BO142	la	_	_	15	SPEAKER_00	BO142	la	217.468	217.568	match
+68-7	68	BO142	parola	_	218.213	15	SPEAKER_00	BO142	parola	217.628	218.108	match
+69-0	69	BO117	e	218.823	_	16	SPEAKER_00	BO142	che	218.928	219.008	mismatch
+69-1	69	BO117	si	_	_	16	SPEAKER_00	BO142	si	219.048	219.108	match
+69-2	69	BO117	chiamano	_	219.639	16	SPEAKER_00	BO142	chiamano	219.168	219.588	match
+70-0	70	BO142	e	218.823	219.11	_	_	_	_	_	_	tsv_only
+71-0	71	BO142	eh	220.437	_	_	_	_	_	_	_	tsv_only
+71-1	71	BO142	xxx	_	_	_	_	_	_	_	_	skipped
+71-2	71	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+71-3	71	BO142	x	_	_	_	_	_	_	_	_	skipped
+71-4	71	BO142	ehm	_	223.941	_	_	_	_	_	_	tsv_only
+72-0	72	BO117	ti	220.441	_	_	_	_	_	_	_	tsv_only
+72-1	72	BO117	ricordi	_	221.132	_	_	_	_	_	_	tsv_only
+73-0	73	??	((bussa))	222.481	222.952	_	_	_	_	_	_	skipped
+74-0	74	??	avanti	224.565	224.896	_	_	_	_	_	_	tsv_only
+75-0	75	BO142	posisc~	224.896	_	17	SPEAKER_00	BO142	si	221.309	222.950	mismatch
+75-1	75	BO142	no	_	225.719	17	SPEAKER_00	BO142	ricorda	224.690	225.551	mismatch
+76-0	76	BO117	punti	226.057	_	18	SPEAKER_00	BO142	punti	226.111	226.391	match
+76-1	76	BO117	di	_	_	18	SPEAKER_00	BO142	di	226.451	226.511	match
+76-2	76	BO117	rilevanza	_	227.294	18	SPEAKER_00	BO142	rilevanza	226.551	227.251	match
+77-0	77	BO142	transizionale	227.3	228.256	19	SPEAKER_00	BO142	transizionale	227.371	227.892	match
+78-0	78	BO117	eh	229.852	_	_	_	_	_	_	_	tsv_only
+78-1	78	BO117	(.)	_	_	_	_	_	_	_	_	skipped
+78-2	78	BO117	sì	_	231.359	_	_	_	_	_	_	tsv_only
+79-0	79	BO142	punti	230.235	_	20	SPEAKER_00	BO142	punti	229.852	230.673	match
+79-1	79	BO142	di	_	_	20	SPEAKER_00	BO142	di	230.693	230.733	match
+79-2	79	BO142	rilevanza	_	_	20	SPEAKER_00	BO142	rilevanza	230.793	231.334	match
+79-3	79	BO142	transizionale	_	_	20	SPEAKER_00	BO142	transizionale	231.414	232.255	match
+79-4	79	BO142	in	_	_	20	SPEAKER_00	BO142	in	232.275	232.315	match
+79-5	79	BO142	cui	_	_	20	SPEAKER_00	BO142	cui	232.495	232.776	match
+79-6	79	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+79-7	79	BO142	appunto	_	234.058	20	SPEAKER_00	BO142	appunto	233.096	233.977	match
+80-0	80	BO142	l'	234.094	_	20	SPEAKER_00	BO142	l	234.218	234.274	match
+80-1	80	BO142	interlocutore	_	_	20	SPEAKER_00	BO142	interlocutore	234.274	234.999	match
+80-2	80	BO142	capisce	_	_	20	SPEAKER_00	BO142	capisce	235.019	235.599	match
+80-3	80	BO142	che	_	_	20	SPEAKER_00	BO142	e	235.699	235.739	mismatch
+80-4	80	BO142	potrebbe	_	_	20	SPEAKER_00	BO142	potrebbe	235.800	236.180	match
+80-5	80	BO142	prendere	_	_	20	SPEAKER_00	BO142	prendere	236.240	236.641	match
+80-6	80	BO142	la	_	_	20	SPEAKER_00	BO142	la	236.721	236.781	match
+80-7	80	BO142	parola	_	237.425	20	SPEAKER_00	BO142	parola	236.841	237.362	match
+81-0	81	BO142	poi	237.969	_	20	SPEAKER_00	BO142	poi	238.022	238.383	match
+81-1	81	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+81-2	81	BO142	ci	_	_	20	SPEAKER_00	BO142	ci	238.563	238.643	match
+81-3	81	BO142	sono	_	_	20	SPEAKER_00	BO142	sono	238.743	239.164	match
+81-4	81	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+81-5	81	BO142	molte	_	_	20	SPEAKER_00	BO142	molte	239.404	239.664	match
+81-6	81	BO142	altre	_	_	20	SPEAKER_00	BO142	altre	239.705	239.985	match
+81-7	81	BO142	regole	_	_	20	SPEAKER_00	BO142	regole	240.065	240.486	match
+81-8	81	BO142	come	_	_	20	SPEAKER_00	BO142	come	240.566	240.726	match
+81-9	81	BO142	ad	_	_	20	SPEAKER_00	BO142	ad	240.786	240.886	match
+81-10	81	BO142	esempio	_	241.719	20	SPEAKER_00	BO142	esempio	240.926	241.587	match
+82-0	82	BO142	l~	242.484	_	_	_	_	_	_	_	tsv_only
+82-1	82	BO142	la	_	_	20	SPEAKER_00	BO142	la	242.889	242.989	match
+82-2	82	BO142	regola	_	_	20	SPEAKER_00	BO142	regola	243.029	243.369	match
+82-3	82	BO142	che	_	243.823	20	SPEAKER_00	BO142	che	243.549	243.650	match
+83-0	83	BO142	eh	244.249	_	_	_	_	_	_	_	tsv_only
+83-1	83	BO142	al	_	_	21	SPEAKER_00	BO142	al	245.451	245.551	match
+83-2	83	BO142	primo	_	_	21	SPEAKER_00	BO142	primo	245.611	245.831	match
+83-3	83	BO142	punto	_	_	21	SPEAKER_00	BO142	punto	245.911	246.151	match
+83-4	83	BO142	di	_	_	21	SPEAKER_00	BO142	di	246.212	246.312	match
+83-5	83	BO142	rilevanza	_	_	21	SPEAKER_00	BO142	rilevanza	246.392	246.892	match
+83-6	83	BO142	transizionale	_	248.11	21	SPEAKER_00	BO142	transizionale	246.952	248.014	match
+84-0	84	BO142	ehm	248.413	_	_	_	_	_	_	_	tsv_only
+84-1	84	BO142	il	_	_	21	SPEAKER_00	BO142	il	249.456	249.516	match
+84-2	84	BO142	parlante	_	_	21	SPEAKER_00	BO142	parlante	249.596	250.096	match
+84-3	84	BO142	deve	_	_	21	SPEAKER_00	BO142	deve	250.157	250.437	match
+84-4	84	BO142	fare	_	_	21	SPEAKER_00	BO142	fare	250.477	250.637	match
+84-5	84	BO142	in	_	_	21	SPEAKER_00	BO142	in	250.697	250.757	match
+84-6	84	BO142	modo	_	_	21	SPEAKER_00	BO142	modo	250.817	251.138	match
+84-7	84	BO142	di	_	251.42	_	_	_	_	_	_	tsv_only
+85-0	85	BO142	da	251.543	_	_	_	_	_	_	_	tsv_only
+85-1	85	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+85-2	85	BO142	di	_	_	21	SPEAKER_00	BO142	di	251.739	252.740	match
+85-3	85	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+85-4	85	BO142	cedere	_	_	21	SPEAKER_00	BO142	cedere	253.321	253.661	match
+85-5	85	BO142	la	_	_	21	SPEAKER_00	BO142	la	253.741	253.821	match
+85-6	85	BO142	parola	_	_	21	SPEAKER_00	BO142	parola	253.861	254.402	match
+85-7	85	BO142	a	_	_	21	SPEAKER_00	BO142	a	254.542	254.602	match
+85-8	85	BO142	un	_	_	21	SPEAKER_00	BO142	un	254.642	254.722	match
+85-9	85	BO142	altro	_	_	21	SPEAKER_00	BO142	altro	254.742	255.003	match
+85-10	85	BO142	interlocutore	_	256.079	21	SPEAKER_00	BO142	interlocutore	255.043	255.984	match
+86-0	86	BO142	che	256.557	_	21	SPEAKER_00	BO142	che	256.605	256.765	match
+86-1	86	BO142	continui	_	_	21	SPEAKER_00	BO142	continua	256.985	257.326	mismatch
+86-2	86	BO142	il	_	_	21	SPEAKER_00	BO142	il	257.426	257.466	match
+86-3	86	BO142	discorso	_	_	21	SPEAKER_00	BO142	discorso	257.506	258.107	match
+86-4	86	BO142	o	_	_	21	SPEAKER_00	BO142	o	258.147	258.167	match
+86-5	86	BO142	comunque	_	_	21	SPEAKER_00	BO142	comunque	258.267	258.627	match
+86-6	86	BO142	gli	_	_	21	SPEAKER_00	BO142	gli	258.667	258.788	match
+86-7	86	BO142	risponda	_	259.697	21	SPEAKER_00	BO142	risponda	258.828	259.468	match
+87-0	87	BO142	eh	259.962	260.55	_	_	_	_	_	_	tsv_only
+88-0	88	BO142	e	260.704	_	22	SPEAKER_00	BO142	e	260.830	260.890	match
+88-1	88	BO142	poi	_	_	22	SPEAKER_00	BO142	poi	260.970	261.190	match
+88-2	88	BO142	in	_	_	22	SPEAKER_00	BO142	in	261.290	261.370	match
+88-3	88	BO142	assenza	_	_	22	SPEAKER_00	BO142	assenza	261.410	261.970	match
+88-4	88	BO142	di	_	_	22	SPEAKER_00	BO142	di	262.030	262.070	match
+88-5	88	BO142	un	_	_	22	SPEAKER_00	BO142	un	262.110	262.230	match
+88-6	88	BO142	interlocutore	_	_	22	SPEAKER_00	BO142	interlocutore	262.270	263.691	match
+88-7	88	BO142	può	_	_	_	_	_	_	_	_	tsv_only
+88-8	88	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+88-9	88	BO142	una	_	_	22	SPEAKER_00	BO142	una	264.772	264.892	match
+88-10	88	BO142	persona	_	_	22	SPEAKER_00	BO142	persona	264.952	265.652	match
+88-11	88	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+88-12	88	BO142	si	_	_	_	_	_	_	_	_	tsv_only
+88-13	88	BO142	può	_	266.366	_	_	_	_	_	_	tsv_only
+89-0	89	BO142	eh	266.683	_	_	_	_	_	_	_	tsv_only
+89-1	89	BO142	f~	_	_	_	_	_	_	_	_	tsv_only
+89-2	89	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+89-3	89	BO142	ehm	_	268.205	_	_	_	_	_	_	tsv_only
+90-0	90	BO142	sì	268.625	_	22	SPEAKER_00	BO142	si	265.912	265.992	match
+90-1	90	BO142	può	_	_	22	SPEAKER_00	BO142	può	266.072	266.333	match
+90-2	90	BO142	mh	_	269.897	_	_	_	_	_	_	tsv_only
+91-0	91	BO142	diciamo	270.404	270.963	_	_	_	_	_	_	tsv_only
+92-0	92	BO142	dire	271.731	_	22	SPEAKER_00	BO142	dire	271.896	272.116	match
+92-1	92	BO142	volontaria	_	_	22	SPEAKER_00	BO142	volontaria	272.196	272.916	match
+92-2	92	BO142	per	_	_	22	SPEAKER_00	BO142	per	273.016	273.216	match
+92-3	92	BO142	continuare	_	_	22	SPEAKER_00	BO142	continuare	273.356	273.797	match
+92-4	92	BO142	il	_	_	22	SPEAKER_00	BO142	il	273.857	273.917	match
+92-5	92	BO142	discorso	_	274.797	22	SPEAKER_00	BO142	discorso	273.957	274.717	match
+93-0	93	BO142	eh	275.286	_	_	_	_	_	_	_	tsv_only
+93-1	93	BO142	oppure	_	_	22	SPEAKER_00	BO142	oppure	275.698	276.058	match
+93-2	93	BO142	in	_	_	22	SPEAKER_00	BO142	in	276.098	276.178	match
+93-3	93	BO142	assenza	_	_	22	SPEAKER_00	BO142	assenza	276.218	276.838	match
+93-4	93	BO142	sia	_	_	22	SPEAKER_00	BO142	sia	277.098	277.298	match
+93-5	93	BO142	di	_	_	22	SPEAKER_00	BO142	di	277.399	277.579	match
+93-6	93	BO142	una	_	_	22	SPEAKER_00	BO142	una	278.419	278.559	match
+93-7	93	BO142	persona	_	279.168	22	SPEAKER_00	BO142	persona	278.619	279.099	match
+_	_	_	_	_	_	22	SPEAKER_00	BO142	a	279.119	279.139	whisper_only
+94-0	94	BO142	cui	279.242	_	22	SPEAKER_00	BO142	cui	279.280	279.440	match
+94-1	94	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+94-2	94	BO142	mh	_	_	22	SPEAKER_00	BO142	è	279.460	279.480	mismatch
+94-3	94	BO142	incaricata	_	_	22	SPEAKER_00	BO142	incaricata	279.800	280.460	match
+94-4	94	BO142	di	_	_	22	SPEAKER_00	BO142	di	280.520	280.580	match
+94-5	94	BO142	continuare	_	_	22	SPEAKER_00	BO142	continuare	280.620	281.041	match
+94-6	94	BO142	il	_	_	22	SPEAKER_00	BO142	il	281.101	281.161	match
+94-7	94	BO142	discorso	_	_	22	SPEAKER_00	BO142	discorso	281.201	281.681	match
+94-8	94	BO142	sia	_	_	22	SPEAKER_00	BO142	sia	281.801	281.901	match
+94-9	94	BO142	di	_	_	22	SPEAKER_00	BO142	di	281.981	282.061	match
+94-10	94	BO142	una	_	_	22	SPEAKER_00	BO142	una	282.101	282.201	match
+94-11	94	BO142	persona	_	_	22	SPEAKER_00	BO142	persona	282.241	282.701	match
+94-12	94	BO142	che	_	_	_	_	_	_	_	_	tsv_only
+94-13	94	BO142	si	_	283.286	_	_	_	_	_	_	tsv_only
+95-0	95	BO142	che	283.562	_	22	SPEAKER_00	BO142	che	282.761	283.722	match
+95-1	95	BO142	è	_	_	22	SPEAKER_00	BO142	è	283.742	283.762	match
+95-2	95	BO142	volontaria	_	_	22	SPEAKER_00	BO142	volontaria	283.842	284.422	match
+95-3	95	BO142	per	_	_	22	SPEAKER_00	BO142	per	284.482	284.622	match
+95-4	95	BO142	continuarlo	_	285.555	22	SPEAKER_00	BO142	continuarlo	284.702	285.443	match
+96-0	96	BO142	l'	285.801	_	_	_	_	_	_	_	tsv_only
+96-1	96	BO142	int~	_	_	_	_	_	_	_	_	tsv_only
+96-2	96	BO142	il	_	_	_	_	_	_	_	_	tsv_only
+96-3	96	BO142	il	_	_	23	SPEAKER_00	BO142	il	286.009	286.889	match
+96-4	96	BO142	parlante	_	_	23	SPEAKER_00	BO142	parlante	286.929	287.450	match
+96-5	96	BO142	può	_	_	23	SPEAKER_00	BO142	può	287.510	287.650	match
+96-6	96	BO142	continuare	_	_	23	SPEAKER_00	BO142	continuare	287.750	288.190	match
+96-7	96	BO142	la	_	_	23	SPEAKER_00	BO142	la	288.290	288.350	match
+96-8	96	BO142	sua	_	_	23	SPEAKER_00	BO142	sua	288.390	288.510	match
+96-9	96	BO142	conversazione	_	_	23	SPEAKER_00	BO142	conversazione	288.550	289.330	match
+96-10	96	BO142	riprendendo	_	_	23	SPEAKER_00	BO142	riprendendo	289.350	289.990	match
+96-11	96	BO142	il	_	_	23	SPEAKER_00	BO142	il	290.010	290.050	match
+96-12	96	BO142	turno	_	290.566	23	SPEAKER_00	BO142	turno	290.170	290.571	match
+97-0	97	BO117	mhm	290.761	291.08	_	_	_	_	_	_	tsv_only
+98-0	98	BO142	e	291.312	_	24	SPEAKER_00	BO142	e	291.411	291.451	match
+98-1	98	BO142	poi	_	_	24	SPEAKER_00	BO142	poi	291.591	291.971	match
+98-2	98	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+98-3	98	BO142	un'	_	_	24	SPEAKER_00	BO142	un	292.711	292.911	match
+98-4	98	BO142	altra	_	293.492	24	SPEAKER_00	BO142	altra	292.911	293.411	match
+99-0	99	BO142	eh	294.477	_	_	_	_	_	_	_	tsv_only
+99-1	99	BO142	regola	_	_	24	SPEAKER_00	BO142	regola	294.852	295.272	match
+99-2	99	BO142	che	_	_	24	SPEAKER_00	BO142	che	295.332	295.432	match
+99-3	99	BO142	scandisce	_	_	24	SPEAKER_00	BO142	scandisce	295.492	296.112	match
+99-4	99	BO142	la	_	_	_	_	_	_	_	_	tsv_only
+99-5	99	BO142	cioè	_	_	_	_	_	_	_	_	tsv_only
+99-6	99	BO142	un'	_	_	24	SPEAKER_00	BO142	un	296.392	296.632	match
+99-7	99	BO142	altra	_	_	24	SPEAKER_00	BO142	altra	296.632	297.233	match
+99-8	99	BO142	unità	_	_	24	SPEAKER_00	BO142	unità	297.273	297.733	match
+99-9	99	BO142	d'	_	_	24	SPEAKER_00	BO142	di	297.853	297.933	mismatch
+99-10	99	BO142	interesse	_	_	24	SPEAKER_00	BO142	interesse	297.953	298.633	match
+99-11	99	BO142	del	_	_	24	SPEAKER_00	BO142	del	298.653	298.713	match
+99-12	99	BO142	parlato	_	_	24	SPEAKER_00	BO142	parlato	298.813	299.353	match
+99-13	99	BO142	che	_	_	24	SPEAKER_00	BO142	che	299.373	299.513	match
+99-14	99	BO142	è	_	_	24	SPEAKER_00	BO142	è	299.533	299.553	match
+99-15	99	BO142	stata	_	_	24	SPEAKER_00	BO142	stata	299.613	299.894	match
+99-16	99	BO142	studiata	_	300.572	24	SPEAKER_00	BO142	studiata	299.954	300.554	match
+100-0	100	BO142	sono	301.014	_	24	SPEAKER_00	BO142	sono	301.094	301.294	match
+100-1	100	BO142	le	_	_	24	SPEAKER_00	BO142	le	301.354	301.414	match
+100-2	100	BO142	mosse	_	_	24	SPEAKER_00	BO142	mosse	301.474	301.754	match
+100-3	100	BO142	comunicative	_	302.764	24	SPEAKER_00	BO142	comunicative	301.814	302.734	match
+101-0	101	BO117	mh	302.885	303.15	_	_	_	_	_	_	tsv_only
+102-0	102	BO142	ovvero	303.506	_	24	SPEAKER_00	BO142	ovvero	303.595	304.195	match
+102-1	102	BO142	ehm	_	305.117	_	_	_	_	_	_	tsv_only
+103-0	103	BO142	un	305.485	_	24	SPEAKER_00	BO142	un	305.595	305.675	match
+103-1	103	BO142	insieme	_	_	24	SPEAKER_00	BO142	insieme	305.715	306.216	match
+103-2	103	BO142	di	_	_	24	SPEAKER_00	BO142	di	306.316	306.516	match
+103-3	103	BO142	ehm	_	_	_	_	_	_	_	_	tsv_only
+103-4	103	BO142	azioni	_	308.132	24	SPEAKER_00	BO142	azioni	307.396	308.076	match
+104-0	104	BO142	che	308.513	_	_	_	_	_	_	_	tsv_only
+104-1	104	BO142	eh	_	310.153	_	_	_	_	_	_	tsv_only
+105-0	105	BO142	che	310.69	_	24	SPEAKER_00	BO142	che	310.757	310.877	match
+105-1	105	BO142	si	_	_	24	SPEAKER_00	BO142	si	310.977	311.057	match
+105-2	105	BO142	rispettano	_	_	24	SPEAKER_00	BO142	rispettano	311.117	311.797	match
+105-3	105	BO142	durante	_	_	24	SPEAKER_00	BO142	durante	311.857	312.178	match
+105-4	105	BO142	una	_	_	24	SPEAKER_00	BO142	una	312.218	312.338	match
+105-5	105	BO142	conversazione	_	313.455	24	SPEAKER_00	BO142	conversazione	312.378	313.378	match
+106-0	106	BO142	che	313.948	_	25	SPEAKER_00	BO142	che	314.020	314.140	match
+106-1	106	BO142	spesso	_	_	25	SPEAKER_01	BO117	spesso	314.180	316.762	match
+106-2	106	BO142	sono	_	_	25	SPEAKER_01	BO117	sono	317.062	317.802	match
+106-3	106	BO142	eh	_	315.881	_	_	_	_	_	_	tsv_only
+107-0	107	BO117	si	315.881	_	_	_	_	_	_	_	tsv_only
+107-1	107	BO117	rispettano	_	_	_	_	_	_	_	_	tsv_only
+107-2	107	BO117	forse	_	_	_	_	_	_	_	_	tsv_only
+107-3	107	BO117	non	_	_	_	_	_	_	_	_	tsv_only
+107-4	107	BO117	è	_	_	_	_	_	_	_	_	tsv_only
+107-5	107	BO117	proprio	_	_	_	_	_	_	_	_	tsv_only
+107-6	107	BO117	il	_	_	_	_	_	_	_	_	tsv_only
+107-7	107	BO117	termine	_	318.8	_	_	_	_	_	_	tsv_only
+108-0	108	BO142	un	319.3	_	25	SPEAKER_00	BO142	un	319.403	319.503	match
+108-1	108	BO142	insieme	_	_	25	SPEAKER_00	BO142	insieme	319.523	319.844	match
+108-2	108	BO142	di	_	_	25	SPEAKER_00	BO142	di	319.904	319.944	match
+108-3	108	BO142	azioni	_	_	25	SPEAKER_00	BO142	azioni	319.964	320.604	match
+108-4	108	BO142	contemplate	_	_	25	SPEAKER_00	BO142	contemplate	320.704	321.444	match
+108-5	108	BO142	in	_	_	25	SPEAKER_00	BO142	in	321.525	321.585	match
+108-6	108	BO142	una	_	_	25	SPEAKER_00	BO142	una	321.605	321.705	match
+108-7	108	BO142	xxx	_	_	_	_	_	_	_	_	skipped
+108-8	108	BO142	e	_	322.955	_	_	_	_	_	_	tsv_only
+109-0	109	BO117	migliore	319.609	320.366	_	_	_	_	_	_	tsv_only
+110-0	110	BO117	ma	322.455	_	_	_	_	_	_	_	tsv_only
+110-1	110	BO117	vada	_	_	_	_	_	_	_	_	tsv_only
+110-2	110	BO117	avanti	_	_	_	_	_	_	_	_	tsv_only
+110-3	110	BO117	vada	_	_	_	_	_	_	_	_	tsv_only
+110-4	110	BO117	avanti	_	_	_	_	_	_	_	_	tsv_only
+110-5	110	BO117	comunque	_	324.087	_	_	_	_	_	_	tsv_only
+111-0	111	BO142	cioè	323.819	_	25	SPEAKER_01	BO117	conversione	321.745	324.046	mismatch
+111-1	111	BO142	che	_	_	25	SPEAKER_00	BO142	che	324.186	324.306	match
+111-2	111	BO142	si	_	_	25	SPEAKER_00	BO142	si	324.426	324.526	match
+111-3	111	BO142	definiscono	_	_	25	SPEAKER_00	BO142	definiscono	324.606	325.467	match
+111-4	111	BO142	proprio	_	_	25	SPEAKER_00	BO142	proprio	325.527	325.807	match
+111-5	111	BO142	per	_	_	25	SPEAKER_00	BO142	per	325.887	326.007	match
+111-6	111	BO142	la	_	_	25	SPEAKER_00	BO142	la	326.067	326.147	match
+111-7	111	BO142	loro	_	326.676	25	SPEAKER_00	BO142	loro	326.207	326.668	match
+112-0	112	BO142	sequenzialità	327.021	328.22	25	SPEAKER_00	BO142	sequenzialità	327.128	328.148	match
+113-0	113	BO142	e	328.61	_	25	SPEAKER_00	BO142	e	328.689	328.749	match
+113-1	113	BO142	per	_	_	25	SPEAKER_00	BO142	per	328.809	328.929	match
+113-2	113	BO142	il	_	_	25	SPEAKER_00	BO142	il	328.989	329.069	match
+113-3	113	BO142	fatto	_	_	25	SPEAKER_00	BO142	fatto	329.169	329.609	match
+113-4	113	BO142	di	_	_	_	_	_	_	_	_	tsv_only
+113-5	113	BO142	ehm	_	330.933	_	_	_	_	_	_	tsv_only
+114-0	114	BO142	di	331.544	_	25	SPEAKER_00	BO142	di	329.709	332.471	match
+114-1	114	BO142	diciamo	_	_	_	_	_	_	_	_	tsv_only
+114-2	114	BO142	definirsi	_	_	25	SPEAKER_00	BO142	definirsi	332.531	333.151	match
+114-3	114	BO142	sulla	_	_	25	SPEAKER_00	BO142	sulla	333.231	333.452	match
+114-4	114	BO142	base	_	_	25	SPEAKER_00	BO142	base	333.532	333.992	match
+114-5	114	BO142	di	_	_	25	SPEAKER_00	BO142	di	334.032	334.092	match
+114-6	114	BO142	quelle	_	_	25	SPEAKER_00	BO142	quelle	334.132	334.352	match
+114-7	114	BO142	che	_	_	25	SPEAKER_00	BO142	che	334.412	334.492	match
+114-8	114	BO142	vengono	_	_	25	SPEAKER_00	BO142	vengono	334.552	334.852	match
+114-9	114	BO142	prima	_	_	25	SPEAKER_00	BO142	prima	334.972	335.173	match
+114-10	114	BO142	e	_	_	25	SPEAKER_00	BO142	e	335.193	335.213	match
+114-11	114	BO142	quelle	_	_	25	SPEAKER_00	BO142	quelle	335.253	335.453	match
+114-12	114	BO142	che	_	_	25	SPEAKER_00	BO142	che	335.473	335.573	match
+114-13	114	BO142	vengano	_	_	25	SPEAKER_00	BO142	vengono	335.593	335.953	mismatch
+114-14	114	BO142	dopo	_	_	25	SPEAKER_00	BO142	dopo	336.013	336.253	match
+114-15	114	BO142	ad	_	_	25	SPEAKER_00	BO142	ad	336.293	336.413	match
+114-16	114	BO142	esempio	_	336.889	25	SPEAKER_00	BO142	esempio	336.453	336.914	match
+115-0	115	BO142	eh	337.403	_	_	_	_	_	_	_	tsv_only
+115-1	115	BO142	a	_	_	25	SPEAKER_00	BO142	a	337.974	338.034	match
+115-2	115	BO142	un	_	_	25	SPEAKER_00	BO142	un	338.054	338.114	match
+115-3	115	BO142	saluto	_	_	25	SPEAKER_00	BO142	saluto	338.214	338.875	match
+115-4	115	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+115-5	115	BO142	sappiamo	_	_	25	SPEAKER_00	BO142	sappiamo	339.275	339.835	match
+115-6	115	BO142	che	_	_	25	SPEAKER_00	BO142	che	339.935	340.176	match
+115-7	115	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+115-8	115	BO142	corrisponderà	_	_	25	SPEAKER_00	BO142	corrisponderà	340.656	341.316	match
+115-9	115	BO142	un	_	_	25	SPEAKER_00	BO142	un	341.396	341.456	match
+115-10	115	BO142	altro	_	_	25	SPEAKER_00	BO142	altro	341.496	341.716	match
+115-11	115	BO142	saluto	_	342.521	25	SPEAKER_00	BO142	saluto	341.817	342.297	match
+116-0	116	BO142	ad	342.79	_	26	SPEAKER_00	BO142	ad	342.936	343.056	match
+116-1	116	BO142	un	_	343.841	26	SPEAKER_00	BO142	un	343.156	344.437	match
+117-0	117	BO142	favore	344.349	_	26	SPEAKER_00	BO142	favore	344.497	344.997	match
+117-1	117	BO142	o	_	_	26	SPEAKER_00	BO142	o	345.017	345.037	match
+117-2	117	BO142	comunque	_	_	26	SPEAKER_00	BO142	comunque	345.197	345.577	match
+117-3	117	BO142	un	_	_	26	SPEAKER_00	BO142	un	345.617	345.697	match
+117-4	117	BO142	rigraziamento	_	_	26	SPEAKER_00	BO142	ringraziamento	345.757	346.778	mismatch
+117-5	117	BO142	eccetera	_	_	26	SPEAKER_00	BO142	eccetera	346.838	347.418	match
+117-6	117	BO142	quindi	_	347.983	27	SPEAKER_00	BO142	quindi	347.478	347.858	match
+118-0	118	BO142	sono	348.242	_	27	SPEAKER_00	BO142	sono	348.338	348.538	match
+118-1	118	BO142	comunque	_	_	27	SPEAKER_00	BO142	comunque	348.618	349.039	match
+118-2	118	BO142	regole	_	_	27	SPEAKER_00	BO142	regole	349.119	349.599	match
+118-3	118	BO142	che	_	_	_	_	_	_	_	_	tsv_only
+118-4	118	BO142	eh	_	350.757	_	_	_	_	_	_	tsv_only
+119-0	119	BO142	che	351.194	_	27	SPEAKER_00	BO142	che	351.280	351.520	match
+119-1	119	BO142	condizionano	_	_	27	SPEAKER_00	BO142	condizionano	351.640	352.580	match
+119-2	119	BO142	il	_	353.477	_	_	_	_	_	_	tsv_only
+120-0	120	BO142	eh	354.455	_	_	_	_	_	_	_	tsv_only
+120-1	120	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+120-2	120	BO142	il	_	_	27	SPEAKER_00	BO142	il	356.022	356.102	match
+120-3	120	BO142	parlato	_	356.808	27	SPEAKER_00	BO142	parlato	356.162	356.802	match
+121-0	121	BO142	ehm	357.624	358.977	_	_	_	_	_	_	tsv_only
+122-0	122	BO117	senta	359.187	_	28	SPEAKER_01	BO117	senta	359.263	359.523	match
+122-1	122	BO117	e	_	_	_	_	_	_	_	_	tsv_only
+122-2	122	BO117	come	_	_	28	SPEAKER_01	BO117	come	359.623	359.803	match
+122-3	122	BO117	definiamo	_	_	28	SPEAKER_01	BO117	definiamo	359.863	360.404	match
+122-4	122	BO117	contesto	_	_	28	SPEAKER_01	BO117	contesto	360.464	361.064	match
+122-5	122	BO117	cos'	_	_	29	SPEAKER_01	BO117	cos	361.124	361.304	match
+122-6	122	BO117	è	_	_	29	SPEAKER_01	BO117	è	361.304	361.364	match
+122-7	122	BO117	un	_	_	29	SPEAKER_01	BO117	il	361.464	361.504	mismatch
+122-8	122	BO117	contesto	_	362.128	29	SPEAKER_01	BO117	contesto	361.524	362.084	match
+123-0	123	BO142	allora	362.683	_	30	SPEAKER_00	BO142	allora	362.885	363.165	match
+123-1	123	BO142	il	_	_	30	SPEAKER_00	BO142	il	363.185	363.225	match
+123-2	123	BO142	contesto	_	_	30	SPEAKER_00	BO142	contesto	363.285	364.125	match
+123-3	123	BO142	è	_	_	30	SPEAKER_00	BO142	è	364.365	364.525	match
+123-4	123	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+123-5	123	BO142	l'	_	_	30	SPEAKER_00	BO142	l	365.426	365.496	match
+123-6	123	BO142	insieme	_	_	30	SPEAKER_00	BO142	insieme	365.496	365.986	match
+123-7	123	BO142	degli	_	_	30	SPEAKER_00	BO142	degli	366.086	366.346	match
+123-8	123	BO142	elementi	_	_	30	SPEAKER_00	BO142	elementi	366.386	366.906	match
+123-9	123	BO142	extralinguistici	_	_	30	SPEAKER_00	BO142	extralinguistici	366.986	368.247	match
+123-10	123	BO142	che	_	368.566	30	SPEAKER_00	BO142	che	368.367	368.547	match
+124-0	124	BO142	condiziona	368.86	_	30	SPEAKER_00	BO142	condiziona	368.947	369.788	match
+124-1	124	BO142	eh	_	370.727	_	_	_	_	_	_	tsv_only
+125-0	125	BO142	il	371.161	_	_	_	_	_	_	_	tsv_only
+125-1	125	BO142	un	_	_	31	SPEAKER_00	BO142	un	372.364	372.424	match
+125-2	125	BO142	enuciato	_	_	31	SPEAKER_00	BO142	enunciato	372.484	373.265	mismatch
+125-3	125	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+125-4	125	BO142	o	_	_	31	SPEAKER_00	BO142	o	373.725	373.765	match
+125-5	125	BO142	comunque	_	_	31	SPEAKER_00	BO142	comunque	373.865	374.486	match
+125-6	125	BO142	eh	_	375.359	_	_	_	_	_	_	tsv_only
+126-0	126	BO142	diciamo	375.999	_	_	_	_	_	_	_	tsv_only
+126-1	126	BO142	mh	_	376.932	_	_	_	_	_	_	tsv_only
+127-0	127	BO142	fornisce	377.198	_	31	SPEAKER_00	BO142	fornisce	377.288	378.169	match
+127-1	127	BO142	il	_	_	_	_	_	_	_	_	tsv_only
+127-2	127	BO142	l'	_	_	31	SPEAKER_00	BO142	l	378.429	378.614	match
+127-3	127	BO142	ambiente	_	_	31	SPEAKER_00	BO142	ambiente	378.614	380.091	match
+127-4	127	BO142	in	_	_	31	SPEAKER_00	BO142	in	380.131	380.211	match
+127-5	127	BO142	cui	_	_	31	SPEAKER_00	BO142	cui	380.291	380.671	match
+127-6	127	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+127-7	127	BO142	un	_	_	_	_	_	_	_	_	tsv_only
+127-8	127	BO142	enuciato	_	_	_	_	_	_	_	_	tsv_only
+127-9	127	BO142	si	_	382.377	_	_	_	_	_	_	tsv_only
+128-0	128	BO142	eh	382.675	_	_	_	_	_	_	_	tsv_only
+128-1	128	BO142	un	_	_	31	SPEAKER_00	BO142	un	381.192	381.272	match
+128-2	128	BO142	euniciato	_	_	_	_	_	_	_	_	tsv_only
+128-3	128	BO142	eh	_	385.043	31	SPEAKER_00	BO142	enunciato	381.312	381.892	mismatch
+129-0	129	BO142	prende	385.764	_	31	SPEAKER_00	BO142	prende	382.092	384.034	match
+129-1	129	BO142	significato	_	387.205	31	SPEAKER_00	BO142	significato	384.094	384.715	match
+130-0	130	BO142	quindi	387.661	_	32	SPEAKER_00	BO142	quindi	387.773	388.153	match
+130-1	130	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+130-2	130	BO142	diciamo	_	_	32	SPEAKER_00	BO142	diciamo	388.513	388.954	match
+130-3	130	BO142	che	_	_	_	_	_	_	_	_	tsv_only
+130-4	130	BO142	è	_	_	_	_	_	_	_	_	tsv_only
+130-5	130	BO142	il	_	390.227	_	_	_	_	_	_	tsv_only
+131-0	131	BO117	sì	389.999	_	_	_	_	_	_	_	tsv_only
+131-1	131	BO117	che	_	_	32	SPEAKER_00	BO142	che	389.074	389.314	match
+131-2	131	BO117	lo	_	_	32	SPEAKER_01	BO117	lo	390.414	390.495	match
+131-3	131	BO117	condiziona	_	_	32	SPEAKER_01	BO117	condiziona	390.555	391.715	match
+131-4	131	BO117	non	_	_	_	_	_	_	_	_	tsv_only
+131-5	131	BO117	è	_	_	_	_	_	_	_	_	tsv_only
+131-6	131	BO117	molto	_	_	_	_	_	_	_	_	tsv_only
+131-7	131	BO117	(.)	_	_	_	_	_	_	_	_	skipped
+131-8	131	BO117	preciso	_	_	_	_	_	_	_	_	tsv_only
+131-9	131	BO117	effettivamente	_	_	_	_	_	_	_	_	tsv_only
+131-10	131	BO117	ma	_	_	_	_	_	_	_	_	tsv_only
+131-11	131	BO117	li	_	_	_	_	_	_	_	_	tsv_only
+131-12	131	BO117	m~	_	_	_	_	_	_	_	_	tsv_only
+131-13	131	BO117	mh	_	_	_	_	_	_	_	_	tsv_only
+131-14	131	BO117	meglio	_	_	_	_	_	_	_	_	tsv_only
+131-15	131	BO117	la	_	_	_	_	_	_	_	_	tsv_only
+131-16	131	BO117	seconda	_	_	_	_	_	_	_	_	tsv_only
+131-17	131	BO117	(.)	_	_	_	_	_	_	_	_	skipped
+131-18	131	BO117	mh	_	395.47	_	_	_	_	_	_	tsv_only
+132-0	132	BO142	sì	391.312	_	_	_	_	_	_	_	tsv_only
+132-1	132	BO142	no	_	391.907	_	_	_	_	_	_	tsv_only
+133-0	133	BO142	all'	394.242	_	32	SPEAKER_01	BO117	all	391.815	392.758	match
+133-1	133	BO142	interno	_	_	32	SPEAKER_01	BO117	interno	392.758	394.957	match
+133-2	133	BO142	del	_	_	32	SPEAKER_01	BO117	del	394.997	395.197	match
+133-3	133	BO142	quale	_	_	32	SPEAKER_00	BO142	quale	395.257	395.797	match
+133-4	133	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+133-5	133	BO142	assume	_	_	32	SPEAKER_00	BO142	assume	396.858	397.218	match
+133-6	133	BO142	un	_	_	32	SPEAKER_00	BO142	un	397.258	397.318	match
+133-7	133	BO142	significato	_	_	32	SPEAKER_00	BO142	significato	397.378	398.059	match
+133-8	133	BO142	un	_	_	32	SPEAKER_00	BO142	un	398.079	398.159	match
+133-9	133	BO142	enunciato	_	398.863	32	SPEAKER_00	BO142	enunciato	398.199	398.899	match
+134-0	134	BO142	ovvero	399.52	_	32	SPEAKER_00	BO142	ovvero	399.639	400.040	match
+134-1	134	BO142	tutta	_	_	32	SPEAKER_00	BO142	tutta	400.120	400.320	match
+134-2	134	BO142	una	_	_	32	SPEAKER_00	BO142	una	400.360	400.500	match
+134-3	134	BO142	serie	_	_	32	SPEAKER_00	BO142	serie	400.580	400.880	match
+134-4	134	BO142	di	_	_	32	SPEAKER_00	BO142	di	400.980	401.160	match
+134-5	134	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+134-6	134	BO142	referenti	_	_	32	SPEAKER_00	BO142	referenti	401.961	402.861	match
+134-7	134	BO142	di	_	403.294	_	_	_	_	_	_	tsv_only
+135-0	135	BO142	ehm	403.616	404.835	_	_	_	_	_	_	tsv_only
+136-0	136	BO142	di	405.28	_	32	SPEAKER_00	BO142	di	405.422	405.703	match
+136-1	136	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+136-2	136	BO142	valore	_	_	32	SPEAKER_00	BO142	valori	406.323	406.783	mismatch
+136-3	136	BO142	extraliguistici	_	_	32	SPEAKER_00	BO142	extralinguistici	406.943	408.204	mismatch
+136-4	136	BO142	che	_	_	32	SPEAKER_00	BO142	che	408.264	408.384	match
+136-5	136	BO142	fanno	_	_	32	SPEAKER_00	BO142	fanno	408.484	408.724	match
+136-6	136	BO142	in	_	_	32	SPEAKER_00	BO142	in	408.764	408.844	match
+136-7	136	BO142	modo	_	_	32	SPEAKER_00	BO142	modo	408.904	409.264	match
+136-8	136	BO142	che	_	_	32	SPEAKER_00	BO142	che	409.405	409.585	match
+136-9	136	BO142	l'	_	_	32	SPEAKER_00	BO142	l	409.605	409.669	match
+136-10	136	BO142	enunciato	_	_	32	SPEAKER_00	BO142	enunciato	409.669	410.245	match
+136-11	136	BO142	stesso	_	_	32	SPEAKER_00	BO142	stesso	410.345	410.805	match
+136-12	136	BO142	abbia	_	411.253	32	SPEAKER_00	BO142	abbia	410.905	411.225	match
+137-0	137	BO142	significato	411.616	_	32	SPEAKER_00	BO142	significato	411.726	412.466	match
+137-1	137	BO142	perché	_	_	32	SPEAKER_00	BO142	perché	412.546	412.806	match
+137-2	137	BO142	eh	_	413.527	_	_	_	_	_	_	tsv_only
+138-0	138	BO142	è	414.52	_	33	SPEAKER_00	BO142	è	414.641	414.681	match
+138-1	138	BO142	stato	_	_	33	SPEAKER_00	BO142	stato	414.741	415.121	match
+138-2	138	BO142	sottolineato	_	_	33	SPEAKER_00	BO142	sottolineato	415.161	415.821	match
+138-3	138	BO142	varie	_	_	33	SPEAKER_00	BO142	varie	415.901	416.101	match
+138-4	138	BO142	volte	_	_	33	SPEAKER_00	BO142	volte	416.161	416.601	match
+138-5	138	BO142	nel	_	_	_	_	_	_	_	_	tsv_only
+138-6	138	BO142	in	_	_	33	SPEAKER_00	BO142	in	417.161	417.221	match
+138-7	138	BO142	questi	_	_	33	SPEAKER_00	BO142	questi	417.261	417.542	match
+138-8	138	BO142	libri	_	_	33	SPEAKER_00	BO142	libri	417.622	417.962	match
+138-9	138	BO142	che	_	418.294	33	SPEAKER_00	BO142	che	418.062	418.262	match
+139-0	139	BO142	eh	418.636	_	_	_	_	_	_	_	tsv_only
+139-1	139	BO142	un	_	_	33	SPEAKER_00	BO142	un	419.262	419.342	match
+139-2	139	BO142	enunciato	_	_	33	SPEAKER_00	BO142	enunciato	419.382	420.342	match
+139-3	139	BO142	è	_	_	33	SPEAKER_00	BO142	è	420.502	420.562	match
+139-4	139	BO142	appunto	_	421.417	33	SPEAKER_00	BO142	appunto	420.622	421.342	match
+140-0	140	BO142	un	421.759	422.396	_	_	_	_	_	_	tsv_only
+141-0	141	BO142	un	422.582	_	33	SPEAKER_00	BO142	un	421.882	422.362	match
+141-1	141	BO142	discorso	_	_	33	SPEAKER_00	BO142	discorso	422.762	423.703	match
+141-2	141	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+141-3	141	BO142	in	_	_	33	SPEAKER_00	BO142	in	424.263	424.343	match
+141-4	141	BO142	un	_	_	33	SPEAKER_00	BO142	un	424.403	424.483	match
+141-5	141	BO142	contesto	_	_	33	SPEAKER_00	BO142	contesto	424.543	425.143	match
+141-6	141	BO142	e	_	_	33	SPEAKER_00	BO142	e	425.183	425.243	match
+141-7	141	BO142	quindi	_	_	33	SPEAKER_00	BO142	quindi	425.343	425.663	match
+141-8	141	BO142	per	_	_	33	SPEAKER_00	BO142	per	425.723	425.863	match
+141-9	141	BO142	capirlo	_	_	33	SPEAKER_00	BO142	capirlo	425.943	426.323	match
+141-10	141	BO142	veramente	_	427.226	33	SPEAKER_00	BO142	veramente	426.383	427.203	match
+142-0	142	BO142	è	427.527	_	33	SPEAKER_00	BO142	è	427.623	427.683	match
+142-1	142	BO142	necessario	_	_	33	SPEAKER_00	BO142	necessario	427.763	428.524	match
+142-2	142	BO142	comprendere	_	_	33	SPEAKER_00	BO142	comprendere	428.604	429.284	match
+142-3	142	BO142	tutte	_	_	33	SPEAKER_00	BO142	tutte	429.344	429.564	match
+142-4	142	BO142	le	_	_	33	SPEAKER_00	BO142	le	429.624	429.704	match
+142-5	142	BO142	variabili	_	_	33	SPEAKER_00	BO142	variabili	429.764	430.464	match
+142-6	142	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+142-7	142	BO142	che	_	_	33	SPEAKER_00	BO142	che	430.804	430.904	match
+142-8	142	BO142	lo	_	_	33	SPEAKER_00	BO142	lo	430.964	431.024	match
+142-9	142	BO142	compongono	_	_	33	SPEAKER_00	BO142	compongono	431.084	431.864	match
+142-10	142	BO142	ad	_	_	33	SPEAKER_00	BO142	ad	431.944	432.044	match
+142-11	142	BO142	esempio	_	432.643	33	SPEAKER_00	BO142	esempio	432.104	432.644	match
+143-0	143	BO142	eh	433.054	_	_	_	_	_	_	_	tsv_only
+143-1	143	BO142	i	_	_	33	SPEAKER_00	BO142	i	433.604	433.664	match
+143-2	143	BO142	referenti	_	434.657	33	SPEAKER_00	BO142	referenti	433.704	434.625	match
+144-0	144	BO142	eh	434.992	_	_	_	_	_	_	_	tsv_only
+144-1	144	BO142	che	_	_	33	SPEAKER_00	BO142	che	435.545	435.685	match
+144-2	144	BO142	in	_	_	33	SPEAKER_00	BO142	in	435.725	435.825	match
+144-3	144	BO142	un	_	_	33	SPEAKER_00	BO142	un	435.845	435.945	match
+144-4	144	BO142	discorso	_	_	33	SPEAKER_00	BO142	discorso	436.005	436.505	match
+144-5	144	BO142	vengono	_	_	33	SPEAKER_00	BO142	vengono	436.545	436.905	match
+144-6	144	BO142	menzionati	_	_	33	SPEAKER_00	BO142	menzionati	436.985	437.665	match
+144-7	144	BO142	ovvero	_	_	33	SPEAKER_00	BO142	ovvero	437.725	438.025	match
+144-8	144	BO142	le	_	_	33	SPEAKER_00	BO142	l	438.045	438.102	mismatch
+144-9	144	BO142	entità	_	_	33	SPEAKER_00	BO142	entità	438.102	438.445	match
+144-10	144	BO142	extralinguistiche	_	_	33	SPEAKER_00	BO142	extralinguistica	438.465	439.505	mismatch
+144-11	144	BO142	a	_	_	33	SPEAKER_00	BO142	a	439.525	439.545	match
+144-12	144	BO142	cui	_	_	33	SPEAKER_00	BO142	cui	439.605	439.726	match
+144-13	144	BO142	questo	_	_	33	SPEAKER_00	BO142	questo	439.786	440.046	match
+144-14	144	BO142	si	_	_	33	SPEAKER_00	BO142	si	440.166	440.246	match
+144-15	144	BO142	rifà	_	440.663	33	SPEAKER_00	BO142	rifà	440.286	440.546	match
+145-0	145	BO117	mhmh	434.998	435.423	_	_	_	_	_	_	tsv_only
+146-0	146	BO142	eh	441.197	442.273	_	_	_	_	_	_	tsv_only
+147-0	147	BO142	oppure	442.94	_	34	SPEAKER_00	BO142	oppure	443.112	443.493	match
+147-1	147	BO142	il	_	_	34	SPEAKER_00	BO142	il	443.693	443.773	match
+147-2	147	BO142	tempo	_	_	34	SPEAKER_00	BO142	tempo	443.813	444.094	match
+147-3	147	BO142	e	_	_	34	SPEAKER_00	BO142	e	444.114	444.134	match
+147-4	147	BO142	il	_	_	34	SPEAKER_00	BO142	il	444.154	444.194	match
+147-5	147	BO142	luogo	_	444.899	34	SPEAKER_00	BO142	luogo	444.294	444.855	match
+148-0	148	BO142	eh	445.239	_	_	_	_	_	_	_	tsv_only
+148-1	148	BO142	all'	_	_	34	SPEAKER_00	BO142	all	445.596	445.752	match
+148-2	148	BO142	interno	_	_	34	SPEAKER_00	BO142	interno	445.752	446.116	match
+148-3	148	BO142	del	_	_	34	SPEAKER_00	BO142	del	446.176	446.357	match
+148-4	148	BO142	quale	_	_	34	SPEAKER_00	BO142	quale	446.417	446.717	match
+148-5	148	BO142	un	_	_	34	SPEAKER_00	BO142	un	446.737	446.797	match
+148-6	148	BO142	enunciato	_	_	34	SPEAKER_00	BO142	enunciato	446.817	447.518	match
+148-7	148	BO142	è	_	447.725	34	SPEAKER_00	BO142	è	447.679	447.759	match
+149-0	149	BO142	eh	448.753	_	_	_	_	_	_	_	tsv_only
+149-1	149	BO142	inserito	_	450.184	34	SPEAKER_00	BO142	inserito	449.281	450.062	match
+150-0	150	BO142	ehm	450.588	451.924	_	_	_	_	_	_	tsv_only
+151-0	151	BO142	tutte	453.013	_	35	SPEAKER_00	BO142	tutte	453.122	453.362	match
+151-1	151	BO142	queste	_	_	35	SPEAKER_00	BO142	queste	453.463	454.003	match
+151-2	151	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+151-3	151	BO142	considerazioni	_	_	35	SPEAKER_00	BO142	considerazioni	454.483	455.564	match
+151-4	151	BO142	e	_	_	35	SPEAKER_00	BO142	e	455.584	455.604	match
+151-5	151	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+151-6	151	BO142	elementi	_	_	35	SPEAKER_00	BO142	elementi	455.805	456.926	match
+151-7	151	BO142	extralinguistici	_	458.273	35	SPEAKER_00	BO142	extralinguistici	456.966	458.207	match
+152-0	152	BO142	hanno	458.582	_	35	SPEAKER_00	BO142	hanno	458.667	458.908	match
+152-1	152	BO142	bisogno	_	_	35	SPEAKER_00	BO142	bisogno	458.988	459.548	match
+152-2	152	BO142	di	_	_	35	SPEAKER_00	BO142	di	459.668	459.848	match
+152-3	152	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+152-4	152	BO142	varie	_	_	35	SPEAKER_00	BO142	varie	460.649	460.909	match
+152-5	152	BO142	premesse	_	_	35	SPEAKER_00	BO142	premesse	460.969	461.590	match
+152-6	152	BO142	per	_	_	35	SPEAKER_00	BO142	per	461.650	461.770	match
+152-7	152	BO142	essere	_	462.342	35	SPEAKER_00	BO142	essere	461.830	462.331	match
+153-0	153	BO142	eh	462.687	_	_	_	_	_	_	_	tsv_only
+153-1	153	BO142	colte	_	_	35	SPEAKER_00	BO142	colti	463.151	463.552	mismatch
+153-2	153	BO142	nel	_	_	35	SPEAKER_00	BO142	nel	463.612	463.772	match
+153-3	153	BO142	modo	_	_	35	SPEAKER_00	BO142	modo	463.832	464.032	match
+153-4	153	BO142	adeguato	_	_	35	SPEAKER_00	BO142	adeguato	464.072	464.753	match
+153-5	153	BO142	dall'	_	_	35	SPEAKER_00	BO142	dagli	464.853	464.953	mismatch
+153-6	153	BO142	interlocutore	_	_	35	SPEAKER_00	BO142	interlocutori	465.033	465.994	mismatch
+153-7	153	BO142	ovvero	_	466.477	35	SPEAKER_00	BO142	ovvero	466.034	466.495	match
+154-0	154	BO142	eh	466.918	_	_	_	_	_	_	_	tsv_only
+154-1	154	BO142	che	_	_	35	SPEAKER_00	BO142	che	467.516	467.716	match
+154-2	154	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+154-3	154	BO142	in	_	_	35	SPEAKER_00	BO142	in	468.136	468.236	match
+154-4	154	BO142	un	_	_	35	SPEAKER_00	BO142	un	468.256	468.336	match
+154-5	154	BO142	certo	_	_	35	SPEAKER_00	BO142	certo	468.376	468.677	match
+154-6	154	BO142	senso	_	_	35	SPEAKER_00	BO142	senso	468.757	469.217	match
+154-7	154	BO142	condividano	_	_	35	SPEAKER_00	BO142	condividano	469.297	470.198	match
+154-8	154	BO142	una	_	_	_	_	_	_	_	_	tsv_only
+154-9	154	BO142	ehm	_	471.425	_	_	_	_	_	_	tsv_only
+155-0	155	BO142	eh	471.867	_	_	_	_	_	_	_	tsv_only
+155-1	155	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+155-2	155	BO142	una	_	_	_	_	_	_	_	_	tsv_only
+155-3	155	BO142	cul~	_	_	_	_	_	_	_	_	tsv_only
+155-4	155	BO142	non	_	_	_	_	_	_	_	_	tsv_only
+155-5	155	BO142	una	_	_	_	_	_	_	_	_	tsv_only
+155-6	155	BO142	cultura	_	_	_	_	_	_	_	_	tsv_only
+155-7	155	BO142	ma	_	_	_	_	_	_	_	_	tsv_only
+155-8	155	BO142	una	_	_	35	SPEAKER_00	BO142	una	474.722	474.842	match
+155-9	155	BO142	conoscenza	_	_	35	SPEAKER_00	BO142	conoscenza	474.902	475.503	match
+155-10	155	BO142	generale	_	476.308	35	SPEAKER_00	BO142	generale	475.563	476.184	match
+156-0	156	BO142	eh	476.661	_	_	_	_	_	_	_	tsv_only
+156-1	156	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+156-2	156	BO142	in	_	_	36	SPEAKER_00	BO142	in	478.086	478.206	match
+156-3	156	BO142	sintonia	_	479.036	36	SPEAKER_00	BO142	sintonia	478.286	479.547	match
+157-0	157	BO142	che	479.462	_	36	SPEAKER_00	BO142	che	479.567	479.667	match
+157-1	157	BO142	abbiano	_	_	36	SPEAKER_00	BO142	abbiano	479.767	481.147	match
+157-2	157	BO142	eh	_	481.013	_	_	_	_	_	_	tsv_only
+158-0	158	BO117	una	480.882	_	_	_	_	_	_	_	tsv_only
+158-1	158	BO117	conoscenza	_	_	_	_	_	_	_	_	tsv_only
+158-2	158	BO117	condivisa	_	_	_	_	_	_	_	_	tsv_only
+158-3	158	BO117	no	_	482.132	_	_	_	_	_	_	tsv_only
+159-0	159	BO142	sì	482.418	_	_	_	_	_	_	_	tsv_only
+159-1	159	BO142	è	_	_	_	_	_	_	_	_	tsv_only
+159-2	159	BO142	una	_	_	36	SPEAKER_01	BO117	una	481.247	481.427	match
+159-3	159	BO142	conoscenza	_	_	36	SPEAKER_00	BO142	conoscenza	481.467	483.408	match
+159-4	159	BO142	condivisa	_	484.132	36	SPEAKER_00	BO142	condivisa	483.488	484.108	match
+160-0	160	BO142	e	484.647	_	36	SPEAKER_00	BO142	e	484.769	484.869	match
+160-1	160	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+160-2	160	BO142	che	_	_	36	SPEAKER_00	BO142	che	485.149	485.389	match
+160-3	160	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+160-4	160	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+160-5	160	BO142	abbiano	_	_	36	SPEAKER_00	BO142	abbiano	486.709	487.029	match
+160-6	160	BO142	presente	_	_	36	SPEAKER_00	BO142	presente	487.089	487.710	match
+160-7	160	BO142	quindi	_	_	36	SPEAKER_00	BO142	quindi	487.810	488.290	match
+160-8	160	BO142	lo	_	_	36	SPEAKER_00	BO142	lo	488.450	488.550	match
+160-9	160	BO142	stesso	_	_	36	SPEAKER_00	BO142	stesso	488.590	489.130	match
+160-10	160	BO142	ambiente	_	490.073	36	SPEAKER_00	BO142	ambiente	489.270	490.051	match
+161-0	161	BO142	eh	490.44	_	_	_	_	_	_	_	tsv_only
+161-1	161	BO142	extralinguistico	_	_	36	SPEAKER_00	BO142	extralinguistico	491.231	492.652	match
+161-2	161	BO142	a	_	_	_	_	_	_	_	_	tsv_only
+161-3	161	BO142	cui	_	_	_	_	_	_	_	_	tsv_only
+161-4	161	BO142	xx	_	493.397	_	_	_	_	_	_	tsv_only
+162-0	162	BO117	ecco	492.647	_	37	SPEAKER_00	BO142	ecco	492.712	492.972	match
+162-1	162	BO117	lei	_	_	37	SPEAKER_01	BO117	lei	493.012	493.172	match
+162-2	162	BO117	ha	_	_	37	SPEAKER_01	BO117	ha	493.192	493.252	match
+162-3	162	BO117	letto	_	_	37	SPEAKER_01	BO117	letto	493.332	493.572	match
+162-4	162	BO117	anche	_	_	37	SPEAKER_01	BO117	anche	493.612	493.772	match
+162-5	162	BO117	il	_	_	37	SPEAKER_01	BO117	il	493.792	493.832	match
+162-6	162	BO117	libro	_	_	37	SPEAKER_01	BO117	libro	493.872	494.052	match
+162-7	162	BO117	della	_	_	37	SPEAKER_01	BO117	della	494.092	494.292	match
+162-8	162	BO117	bianchi	_	494.955	37	SPEAKER_01	BO117	bianchi	494.332	494.913	match
+163-0	163	BO117	mh	495.154	_	_	_	_	_	_	_	tsv_only
+163-1	163	BO117	nella	_	_	38	SPEAKER_01	BO117	nella	495.593	495.893	match
+163-2	163	BO117	relevance	_	_	38	SPEAKER_01	BO117	relevance	495.933	496.413	match
+163-3	163	BO117	theory	_	_	38	SPEAKER_01	BO117	theory	496.433	496.753	match
+163-4	163	BO117	come	_	_	38	SPEAKER_01	BO117	come	496.853	497.013	match
+163-5	163	BO117	viene	_	_	38	SPEAKER_01	BO117	viene	497.053	497.213	match
+163-6	163	BO117	definito	_	_	38	SPEAKER_01	BO117	definito	497.273	497.634	match
+163-7	163	BO117	il	_	_	38	SPEAKER_01	BO117	il	497.694	497.754	match
+163-8	163	BO117	contesto	_	498.5	38	SPEAKER_01	BO117	contesto	497.794	499.494	match
+164-0	164	BO142	allora	499.47	_	39	SPEAKER_00	BO142	allora	499.554	500.034	match
+164-1	164	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+164-2	164	BO142	nella	_	_	39	SPEAKER_00	BO142	nella	501.035	501.275	match
+164-3	164	BO142	relevance	_	501.852	39	SPEAKER_00	BO142	relevance	501.315	502.015	match
+165-0	165	BO142	eh	502.154	_	_	_	_	_	_	_	tsv_only
+165-1	165	BO142	theory	_	_	39	SPEAKER_00	BO142	theory	502.635	503.016	match
+165-2	165	BO142	il	_	_	39	SPEAKER_00	BO142	il	503.156	503.256	match
+165-3	165	BO142	contesto	_	504.131	39	SPEAKER_00	BO142	contesto	503.316	504.076	match
+166-0	166	BO142	è	504.462	_	39	SPEAKER_00	BO142	è	504.556	504.616	match
+166-1	166	BO142	molto	_	_	39	SPEAKER_00	BO142	molto	504.696	504.916	match
+166-2	166	BO142	importante	_	_	39	SPEAKER_00	BO142	importante	504.976	505.617	match
+166-3	166	BO142	in	_	_	39	SPEAKER_00	BO142	in	505.657	505.737	match
+166-4	166	BO142	quanto	_	506.389	39	SPEAKER_00	BO142	quanto	505.797	506.257	match
+167-0	167	BO142	è	506.756	_	40	SPEAKER_00	BO142	è	506.950	507.010	match
+167-1	167	BO142	la	_	_	40	SPEAKER_00	BO142	la	507.210	507.290	match
+167-2	167	BO142	fonte	_	_	40	SPEAKER_00	BO142	fonte	507.350	507.670	match
+167-3	167	BO142	stessa	_	_	40	SPEAKER_00	BO142	stessa	507.770	508.510	match
+167-4	167	BO142	dalla	_	_	40	SPEAKER_00	BO142	dalla	508.670	508.931	match
+167-5	167	BO142	quale	_	_	40	SPEAKER_00	BO142	quale	508.971	509.271	match
+167-6	167	BO142	provengono	_	_	40	SPEAKER_00	BO142	provengono	509.331	509.951	match
+167-7	167	BO142	gli	_	_	40	SPEAKER_00	BO142	gli	510.011	510.091	match
+167-8	167	BO142	indizi	_	510.875	40	SPEAKER_00	BO142	indizi	510.131	510.851	match
+168-0	168	BO142	che	511.301	_	40	SPEAKER_00	BO142	che	511.351	511.451	match
+168-1	168	BO142	rendono	_	_	40	SPEAKER_00	BO142	rendono	511.531	512.111	match
+168-2	168	BO142	eh	_	513.139	_	_	_	_	_	_	tsv_only
+169-0	169	BO142	che	513.58	_	40	SPEAKER_00	BO142	che	513.652	513.752	match
+169-1	169	BO142	rendono	_	_	40	SPEAKER_00	BO142	rendono	513.832	514.272	match
+169-2	169	BO142	appunto	_	_	40	SPEAKER_00	BO142	appunto	514.352	514.972	match
+169-3	169	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+169-4	169	BO142	ehm	_	516.169	_	_	_	_	_	_	tsv_only
+170-0	170	BO142	possibile	517.33	_	40	SPEAKER_00	BO142	possibile	517.393	517.873	match
+170-1	170	BO142	la	_	_	40	SPEAKER_00	BO142	la	517.933	518.033	match
+170-2	170	BO142	conversazione	_	_	40	SPEAKER_00	BO142	conversazione	518.073	518.953	match
+170-3	170	BO142	secondo	_	_	40	SPEAKER_00	BO142	secondo	519.073	519.413	match
+170-4	170	BO142	la	_	_	40	SPEAKER_00	BO142	la	519.493	519.553	match
+170-5	170	BO142	relevance	_	_	40	SPEAKER_00	BO142	relevance	519.613	520.253	match
+170-6	170	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+170-7	170	BO142	theory	_	521.029	40	SPEAKER_00	BO142	theory	520.613	521.033	match
+171-0	171	BO142	eh	521.587	_	_	_	_	_	_	_	tsv_only
+171-1	171	BO142	infatti	_	_	40	SPEAKER_00	BO142	infatti	522.054	522.614	match
+171-2	171	BO142	secondo	_	_	40	SPEAKER_00	BO142	secondo	522.734	523.114	match
+171-3	171	BO142	questa	_	_	40	SPEAKER_00	BO142	questa	523.174	523.434	match
+171-4	171	BO142	teoria	_	524.073	40	SPEAKER_00	BO142	teoria	523.534	524.034	match
+172-0	172	BO142	eh	524.41	_	_	_	_	_	_	_	tsv_only
+172-1	172	BO142	tutta	_	_	40	SPEAKER_00	BO142	tutta	524.934	525.174	match
+172-2	172	BO142	la	_	_	40	SPEAKER_00	BO142	la	525.254	525.334	match
+172-3	172	BO142	conversazione	_	_	40	SPEAKER_00	BO142	conversazione	525.374	526.335	match
+172-4	172	BO142	è	_	_	40	SPEAKER_00	BO142	è	526.355	526.375	match
+172-5	172	BO142	ostensivo	_	_	40	SPEAKER_00	BO142	ostensivo	526.395	527.455	match
+172-6	172	BO142	eh	_	528.132	_	_	_	_	_	_	tsv_only
+173-0	173	BO117	però	528.525	_	40	SPEAKER_01	BO117	però	528.555	528.735	match
+173-1	173	BO117	loro	_	_	40	SPEAKER_01	BO117	loro	528.775	528.935	match
+173-2	173	BO117	parlano	_	_	40	SPEAKER_01	BO117	parlano	528.995	529.315	match
+173-3	173	BO117	di	_	_	40	SPEAKER_01	BO117	di	529.335	529.415	match
+173-4	173	BO117	contesto	_	530.381	40	SPEAKER_01	BO117	contesto	529.475	530.376	match
+174-0	174	BO142	xx	528.525	529.076	_	_	_	_	_	_	tsv_only
+175-0	175	BO117	in	530.669	_	40	SPEAKER_01	BO117	in	530.756	530.856	match
+175-1	175	BO117	un	_	_	40	SPEAKER_01	BO117	un	530.896	531.036	match
+175-2	175	BO117	senso	_	_	40	SPEAKER_01	BO117	senso	531.136	531.456	match
+175-3	175	BO117	leggermente	_	_	40	SPEAKER_01	BO117	leggermente	531.516	532.136	match
+175-4	175	BO117	diverso	_	_	40	SPEAKER_01	BO117	diverso	532.176	532.716	match
+175-5	175	BO117	addirittura	_	_	40	SPEAKER_01	BO117	addirittura	532.756	533.156	match
+175-6	175	BO117	parlan	_	_	40	SPEAKER_01	BO117	parlano	533.216	533.436	mismatch
+175-7	175	BO117	di	_	_	40	SPEAKER_01	BO117	di	533.456	533.536	match
+175-8	175	BO117	contesto	_	_	40	SPEAKER_01	BO117	contesto	533.596	534.056	match
+175-9	175	BO117	cognitivo	_	534.788	40	SPEAKER_01	BO117	cognitivo	534.096	534.737	match
+176-0	176	BO142	ah	535.685	_	40	SPEAKER_00	BO142	ah	535.777	535.877	match
+176-1	176	BO142	okay	_	536.401	40	SPEAKER_00	BO142	ok	536.037	536.197	mismatch
+177-0	177	BO142	sì	536.862	_	41	SPEAKER_00	BO142	sì	536.995	537.155	match
+177-1	177	BO142	ovvero	_	_	41	SPEAKER_00	BO142	ovvero	537.215	537.615	match
+177-2	177	BO142	ehm	_	538.699	_	_	_	_	_	_	tsv_only
+178-0	178	BO142	quando	539.254	_	41	SPEAKER_00	BO142	quando	539.276	539.576	match
+178-1	178	BO142	io	_	_	41	SPEAKER_00	BO142	io	539.756	539.856	match
+178-2	178	BO142	ho	_	_	41	SPEAKER_00	BO142	ho	539.876	539.916	match
+178-3	178	BO142	una	_	_	41	SPEAKER_00	BO142	una	539.956	540.076	match
+178-4	178	BO142	nuova	_	_	41	SPEAKER_00	BO142	nuova	540.136	540.317	match
+178-5	178	BO142	informazione	_	_	41	SPEAKER_00	BO142	informazione	540.377	541.417	match
+178-6	178	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+178-7	178	BO142	devo	_	_	41	SPEAKER_00	BO142	devo	541.677	541.897	match
+178-8	178	BO142	trovare	_	542.668	41	SPEAKER_00	BO142	trovare	541.977	542.598	match
+179-0	179	BO142	eh	543.087	_	_	_	_	_	_	_	tsv_only
+179-1	179	BO142	all'	_	_	41	SPEAKER_00	BO142	all	543.878	544.046	match
+179-2	179	BO142	interno	_	_	41	SPEAKER_00	BO142	interno	544.046	544.438	match
+179-3	179	BO142	del	_	_	41	SPEAKER_00	BO142	del	544.498	544.679	match
+179-4	179	BO142	mio	_	_	41	SPEAKER_00	BO142	mio	544.739	545.059	match
+179-5	179	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+179-6	179	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+179-7	179	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+179-8	179	BO142	ambiente	_	_	41	SPEAKER_00	BO142	ambiente	546.319	546.780	match
+179-9	179	BO142	cognitivo	_	547.709	41	SPEAKER_00	BO142	cognitivo	546.800	547.620	match
+180-0	180	BO142	eh	548.127	_	_	_	_	_	_	_	tsv_only
+180-1	180	BO142	il	_	_	41	SPEAKER_00	BO142	il	548.520	548.600	match
+180-2	180	BO142	contesto	_	_	41	SPEAKER_00	BO142	contesto	548.660	549.121	match
+180-3	180	BO142	cognitivo	_	_	41	SPEAKER_00	BO142	cognitivo	549.201	549.821	match
+180-4	180	BO142	con	_	_	41	SPEAKER_00	BO142	con	549.881	550.041	match
+180-5	180	BO142	il	_	_	41	SPEAKER_00	BO142	il	550.101	550.181	match
+180-6	180	BO142	quale	_	_	41	SPEAKER_00	BO142	quale	550.221	550.521	match
+180-7	180	BO142	si	_	_	41	SPEAKER_00	BO142	si	550.601	550.661	match
+180-8	180	BO142	può	_	_	41	SPEAKER_00	BO142	può	550.741	550.841	match
+180-9	180	BO142	legare	_	_	41	SPEAKER_00	BO142	legare	550.921	551.282	match
+180-10	180	BO142	nel	_	_	41	SPEAKER_00	BO142	nel	551.362	551.522	match
+180-11	180	BO142	modo	_	_	41	SPEAKER_00	BO142	modo	551.582	551.762	match
+180-12	180	BO142	ottimale	_	552.604	41	SPEAKER_00	BO142	ottimale	551.822	552.542	match
+181-0	181	BO142	per	553.016	_	41	SPEAKER_00	BO142	per	553.022	553.142	match
+_	_	_	_	_	_	41	SPEAKER_00	BO142	farmi	553.223	553.523	whisper_only
+181-1	181	BO142	avere	_	_	41	SPEAKER_00	BO142	avere	553.563	553.823	match
+181-2	181	BO142	una	_	_	_	_	_	_	_	_	tsv_only
+181-3	181	BO142	ver~	_	_	_	_	_	_	_	_	tsv_only
+181-4	181	BO142	una	_	_	41	SPEAKER_00	BO142	una	554.323	554.463	match
+181-5	181	BO142	visione	_	_	41	SPEAKER_00	BO142	visione	554.523	555.003	match
+181-6	181	BO142	p~	_	_	_	_	_	_	_	_	tsv_only
+181-7	181	BO142	diversa	_	_	41	SPEAKER_00	BO142	diversa	555.323	555.764	match
+181-8	181	BO142	del	_	_	41	SPEAKER_00	BO142	del	555.824	556.004	match
+181-9	181	BO142	mondo	_	_	41	SPEAKER_00	BO142	mondo	556.064	556.404	match
+181-10	181	BO142	o	_	_	41	SPEAKER_00	BO142	e	556.424	556.444	mismatch
+181-11	181	BO142	comunque	_	_	41	SPEAKER_00	BO142	comunque	556.564	556.944	match
+181-12	181	BO142	far	_	_	41	SPEAKER_00	BO142	far	557.024	557.144	match
+181-13	181	BO142	sì	_	_	41	SPEAKER_00	BO142	sì	557.324	557.444	match
+181-14	181	BO142	che	_	557.796	41	SPEAKER_00	BO142	che	557.625	557.785	match
+182-0	182	BO142	i	558.151	_	41	SPEAKER_00	BO142	i	558.225	558.285	match
+182-1	182	BO142	miei	_	_	41	SPEAKER_00	BO142	miei	558.325	558.445	match
+182-2	182	BO142	costi	_	_	41	SPEAKER_00	BO142	costi	558.505	558.945	match
+182-3	182	BO142	cognitivi	_	_	41	SPEAKER_00	BO142	cognitivi	559.005	559.685	match
+182-4	182	BO142	vengano	_	560.262	41	SPEAKER_00	BO142	vengano	559.745	560.266	match
+183-0	183	BO142	eh	560.609	_	_	_	_	_	_	_	tsv_only
+183-1	183	BO142	contraccambiati	_	_	41	SPEAKER_00	BO142	contraccambiati	561.646	562.647	match
+183-2	183	BO142	da	_	_	41	SPEAKER_00	BO142	da	562.707	562.807	match
+183-3	183	BO142	degli	_	_	41	SPEAKER_00	BO142	degli	562.867	563.087	match
+183-4	183	BO142	effetti	_	_	41	SPEAKER_00	BO142	effetti	563.127	563.507	match
+183-5	183	BO142	cognitivi	_	_	41	SPEAKER_00	BO142	cognitivi	563.587	564.087	match
+183-6	183	BO142	perma~	_	_	_	_	_	_	_	_	tsv_only
+183-7	183	BO142	ehm	_	565.093	41	SPEAKER_00	BO142	per	564.148	564.328	mismatch
+184-0	184	BO142	mh	565.796	_	41	SPEAKER_00	BO142	me	564.348	564.408	mismatch
+184-1	184	BO142	efficaci	_	567.016	42	SPEAKER_00	BO142	efficaci	566.233	566.993	match
+185-0	185	BO142	il	567.419	_	42	SPEAKER_00	BO142	il	567.533	567.613	match
+185-1	185	BO142	che	_	_	42	SPEAKER_00	BO142	che	567.693	567.874	match
+185-2	185	BO142	è	_	_	42	SPEAKER_00	BO142	è	567.994	568.034	match
+185-3	185	BO142	proprio	_	_	42	SPEAKER_00	BO142	proprio	568.134	568.514	match
+185-4	185	BO142	la	_	_	42	SPEAKER_00	BO142	la	568.574	568.854	match
+185-5	185	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+185-6	185	BO142	regola	_	_	42	SPEAKER_00	BO142	regola	569.514	569.894	match
+185-7	185	BO142	di	_	_	42	SPEAKER_00	BO142	di	569.954	570.034	match
+185-8	185	BO142	base	_	570.749	42	SPEAKER_00	BO142	base	570.074	570.734	match
+186-0	186	BO142	della	571.11	_	42	SPEAKER_00	BO142	della	571.194	571.394	match
+186-1	186	BO142	pertinenza	_	_	42	SPEAKER_00	BO142	pertinenza	571.434	572.195	match
+186-2	186	BO142	diciamo	_	_	42	SPEAKER_00	BO142	diciamo	572.275	572.775	match
+186-3	186	BO142	la	_	_	42	SPEAKER_00	BO142	la	572.915	572.975	match
+186-4	186	BO142	pertinenza	_	_	42	SPEAKER_00	BO142	pertinenza	573.015	573.715	match
+186-5	186	BO142	infatti	_	_	42	SPEAKER_00	BO142	infatti	573.735	574.095	match
+186-6	186	BO142	si	_	_	42	SPEAKER_00	BO142	si	574.195	574.295	match
+186-7	186	BO142	misura	_	574.788	42	SPEAKER_00	BO142	misura	574.355	574.795	match
+187-0	187	BO142	in	575.245	_	_	_	_	_	_	_	tsv_only
+187-1	187	BO142	in	_	_	42	SPEAKER_00	BO142	in	575.916	575.996	match
+187-2	187	BO142	termini	_	_	42	SPEAKER_00	BO142	termini	576.036	576.436	match
+187-3	187	BO142	di	_	_	42	SPEAKER_00	BO142	di	576.496	576.576	match
+187-4	187	BO142	costi	_	_	42	SPEAKER_00	BO142	costi	576.636	577.156	match
+187-5	187	BO142	ed	_	_	42	SPEAKER_00	BO142	ed	577.176	577.316	match
+187-6	187	BO142	effetti	_	_	42	SPEAKER_00	BO142	effetti	577.356	577.716	match
+187-7	187	BO142	cognitivi	_	578.584	42	SPEAKER_00	BO142	cognitivi	577.776	578.496	match
+188-0	188	BO142	dove	578.88	_	42	SPEAKER_00	BO142	dove	578.996	579.136	match
+188-1	188	BO142	i	_	_	42	SPEAKER_00	BO142	i	579.156	579.196	match
+188-2	188	BO142	costi	_	_	42	SPEAKER_00	BO142	costi	579.236	579.516	match
+188-3	188	BO142	cognitivi	_	_	42	SPEAKER_00	BO142	cognitivi	579.576	580.137	match
+188-4	188	BO142	sono	_	580.542	42	SPEAKER_00	BO142	sono	580.237	580.557	match
+189-0	189	BO142	gli	580.94	_	42	SPEAKER_00	BO142	gli	581.017	581.137	match
+189-1	189	BO142	sforzi	_	_	42	SPEAKER_00	BO142	sforzi	581.217	581.777	match
+189-2	189	BO142	che	_	_	42	SPEAKER_00	BO142	che	581.857	581.957	match
+189-3	189	BO142	io	_	_	42	SPEAKER_00	BO142	io	582.037	582.117	match
+189-4	189	BO142	faccio	_	582.847	42	SPEAKER_00	BO142	faccio	582.217	582.797	match
+190-0	190	BO142	per	583.262	584.211	42	SPEAKER_00	BO142	per	583.297	583.938	match
+191-0	191	BO142	mh	584.559	_	_	_	_	_	_	_	tsv_only
+191-1	191	BO142	diciamo	_	_	42	SPEAKER_00	BO142	diciamo	585.538	586.438	match
+191-2	191	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+191-3	191	BO142	decodific~	_	_	_	_	_	_	_	_	tsv_only
+191-4	191	BO142	decodificare	_	_	42	SPEAKER_00	BO142	decodificare	587.058	587.839	match
+191-5	191	BO142	un	_	_	42	SPEAKER_00	BO142	un	587.999	588.119	match
+191-6	191	BO142	determinato	_	_	42	SPEAKER_00	BO142	determinato	588.159	588.719	match
+191-7	191	BO142	indizio	_	_	42	SPEAKER_00	BO142	indizio	588.819	589.259	match
+191-8	191	BO142	in	_	_	42	SPEAKER_00	BO142	in	589.299	589.359	match
+191-9	191	BO142	termini	_	_	42	SPEAKER_00	BO142	termini	589.399	589.859	match
+191-10	191	BO142	di	_	_	42	SPEAKER_00	BO142	di	589.919	589.999	match
+191-11	191	BO142	memoria	_	_	42	SPEAKER_00	BO142	memoria	590.039	590.619	match
+191-12	191	BO142	eccetera	_	591.364	42	SPEAKER_00	BO142	eccetera	590.679	591.299	match
+192-0	192	BO142	e	591.728	_	42	SPEAKER_00	BO142	e	591.800	591.840	match
+192-1	192	BO142	gli	_	_	42	SPEAKER_00	BO142	gli	591.880	591.980	match
+192-2	192	BO142	effetti	_	_	42	SPEAKER_00	BO142	effetti	592.000	592.380	match
+192-3	192	BO142	cognitivi	_	593.296	42	SPEAKER_00	BO142	cognitivi	592.440	593.140	match
+193-0	193	BO142	sono	593.617	_	43	SPEAKER_00	BO142	sono	593.729	593.949	match
+193-1	193	BO142	tutte	_	_	_	_	_	_	_	_	tsv_only
+193-2	193	BO142	quelle	_	_	_	_	_	_	_	_	tsv_only
+193-3	193	BO142	ehm	_	595.787	43	SPEAKER_00	BO142	tutti	593.989	594.230	mismatch
+194-0	194	BO142	quei	595.956	_	43	SPEAKER_00	BO142	quei	594.290	596.151	match
+194-1	194	BO142	risultati	_	_	43	SPEAKER_00	BO142	risultati	596.191	597.032	match
+194-2	194	BO142	che	_	_	43	SPEAKER_00	BO142	che	597.132	597.232	match
+194-3	194	BO142	mi	_	_	43	SPEAKER_00	BO142	mi	597.292	597.372	match
+194-4	194	BO142	portano	_	598.11	43	SPEAKER_00	BO142	portano	597.452	598.093	match
+195-0	195	BO142	a	598.418	_	43	SPEAKER_00	BO142	a	598.513	598.573	match
+195-1	195	BO142	cambiare	_	_	43	SPEAKER_00	BO142	cambiare	598.654	599.134	match
+195-2	195	BO142	la	_	_	43	SPEAKER_00	BO142	la	599.214	599.294	match
+195-3	195	BO142	mia	_	_	43	SPEAKER_00	BO142	mia	599.334	599.434	match
+195-4	195	BO142	idea	_	_	43	SPEAKER_00	BO142	idea	599.494	599.895	match
+195-5	195	BO142	del	_	_	43	SPEAKER_00	BO142	del	599.975	600.135	match
+195-6	195	BO142	mondo	_	_	43	SPEAKER_00	BO142	mondo	600.195	600.615	match
+195-7	195	BO142	o	_	_	_	_	_	_	_	_	tsv_only
+195-8	195	BO142	comunque	_	_	43	SPEAKER_00	BO142	comunque	600.715	601.056	match
+195-9	195	BO142	ad	_	_	43	SPEAKER_00	BO142	ad	601.096	601.176	match
+195-10	195	BO142	apportarle	_	_	43	SPEAKER_00	BO142	apportare	601.216	601.696	mismatch
+195-11	195	BO142	una	_	_	43	SPEAKER_00	BO142	una	601.816	601.937	match
+195-12	195	BO142	modifica	_	_	43	SPEAKER_00	BO142	modifica	601.977	602.537	match
+195-13	195	BO142	di	_	_	_	_	_	_	_	_	tsv_only
+195-14	195	BO142	di	_	_	43	SPEAKER_00	BO142	di	602.637	602.797	match
+195-15	195	BO142	fondo	_	603.533	43	SPEAKER_00	BO142	fondo	603.058	603.498	match
+196-0	196	BO117	mhmhmh	604.016	604.55	_	_	_	_	_	_	tsv_only
+197-0	197	BO142	ehm	605.101	605.711	_	_	_	_	_	_	tsv_only
+198-0	198	BO117	e	606.652	_	_	_	_	_	_	_	tsv_only
+198-1	198	BO117	cosa	_	_	44	SPEAKER_01	BO117	cosa	606.921	607.041	match
+198-2	198	BO117	le	_	_	44	SPEAKER_01	BO117	ne	607.121	607.181	mismatch
+198-3	198	BO117	è	_	_	44	SPEAKER_01	BO117	ha	607.201	607.241	mismatch
+198-4	198	BO117	interessato	_	_	44	SPEAKER_01	BO117	interessato	607.261	607.782	match
+198-5	198	BO117	di	_	_	44	SPEAKER_01	BO117	di	607.842	607.922	match
+198-6	198	BO117	più	_	608.118	44	SPEAKER_01	BO117	più	608.022	608.182	match
+199-0	199	BO117	all'	608.58	_	44	SPEAKER_01	BO117	all	608.743	609.091	match
+199-1	199	BO117	interno	_	610.0	44	SPEAKER_01	BO117	interno	609.091	609.904	match
+200-0	200	BO117	delle	610.635	_	44	SPEAKER_01	BO117	delle	610.805	610.985	match
+200-1	200	BO117	letture	_	_	44	SPEAKER_01	BO117	letture	611.025	611.305	match
+200-2	200	BO117	che	_	_	44	SPEAKER_01	BO117	che	611.345	611.425	match
+200-3	200	BO117	ha	_	_	44	SPEAKER_01	BO117	ha	611.465	611.525	match
+200-4	200	BO117	fatto	_	611.991	44	SPEAKER_01	BO117	fatto	611.585	611.966	match
+201-0	201	BO142	eh	613.114	614.042	_	_	_	_	_	_	tsv_only
+202-0	202	BO142	allora	614.584	615.127	_	_	_	_	_	_	tsv_only
+203-0	203	BO142	mah	616.516	_	_	_	_	_	_	_	tsv_only
+203-1	203	BO142	io	_	_	_	_	_	_	_	_	tsv_only
+203-2	203	BO142	ho	_	_	_	_	_	_	_	_	tsv_only
+203-3	203	BO142	let~	_	_	_	_	_	_	_	_	tsv_only
+203-4	203	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+203-5	203	BO142	cioè	_	_	_	_	_	_	_	_	tsv_only
+203-6	203	BO142	mi	_	_	45	SPEAKER_00	BO142	mi	617.355	617.596	match
+203-7	203	BO142	ero	_	_	45	SPEAKER_00	BO142	è	618.196	618.256	mismatch
+203-8	203	BO142	interessata	_	_	45	SPEAKER_00	BO142	interessata	618.336	619.016	match
+203-9	203	BO142	molto	_	_	_	_	_	_	_	_	tsv_only
+203-10	203	BO142	a	_	_	_	_	_	_	_	_	tsv_only
+203-11	203	BO142	molto	_	_	45	SPEAKER_00	BO142	molto	619.096	619.476	match
+203-12	203	BO142	la	_	620.372	_	_	_	_	_	_	tsv_only
+204-0	204	BO142	ehm	620.788	_	_	_	_	_	_	_	tsv_only
+204-1	204	BO142	la	_	_	45	SPEAKER_00	BO142	la	619.757	621.978	match
+204-2	204	BO142	trattazione	_	_	45	SPEAKER_00	BO142	trattazione	622.018	622.698	match
+204-3	204	BO142	sulla	_	_	45	SPEAKER_00	BO142	sulla	622.798	623.018	match
+204-4	204	BO142	cortesia	_	_	45	SPEAKER_00	BO142	cortesia	623.058	623.978	match
+204-5	204	BO142	sulle	_	_	45	SPEAKER_00	BO142	sulle	624.139	624.359	match
+204-6	204	BO142	regole	_	_	45	SPEAKER_00	BO142	regole	624.419	624.739	match
+204-7	204	BO142	di	_	_	45	SPEAKER_00	BO142	di	624.799	624.899	match
+204-8	204	BO142	cortesia	_	_	45	SPEAKER_00	BO142	cortesia	624.959	626.299	match
+204-9	204	BO142	eccetera	_	626.262	_	_	_	_	_	_	tsv_only
+205-0	205	BO142	soprattutto	626.949	_	45	SPEAKER_00	BO142	soprattutto	627.040	627.620	match
+205-1	205	BO142	quella	_	_	45	SPEAKER_00	BO142	quella	627.700	628.020	match
+205-2	205	BO142	di	_	_	45	SPEAKER_00	BO142	di	628.100	628.460	match
+205-3	205	BO142	ehm	_	_	_	_	_	_	_	_	tsv_only
+205-4	205	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+205-5	205	BO142	brown	_	_	45	SPEAKER_00	BO142	brown	629.521	629.761	match
+205-6	205	BO142	e	_	_	45	SPEAKER_00	BO142	e	629.781	629.861	match
+205-7	205	BO142	levinson	_	630.593	45	SPEAKER_00	BO142	levinson	629.881	630.661	match
+206-0	206	BO142	che	631.219	_	45	SPEAKER_00	BO142	che	631.282	631.382	match
+206-1	206	BO142	sviluppano	_	_	45	SPEAKER_00	BO142	sviluppano	631.442	632.222	match
+206-2	206	BO142	la	_	_	45	SPEAKER_00	BO142	la	632.302	632.382	match
+206-3	206	BO142	teoria	_	_	45	SPEAKER_00	BO142	teoria	632.462	632.762	match
+206-4	206	BO142	di	_	_	45	SPEAKER_00	BO142	di	632.822	632.903	match
+206-5	206	BO142	goffman	_	633.889	45	SPEAKER_00	BO142	goffman	632.943	633.803	match
+207-0	207	BO142	che	634.211	_	45	SPEAKER_00	BO142	che	634.283	634.423	match
+207-1	207	BO142	si	_	_	45	SPEAKER_00	BO142	si	634.643	634.823	match
+207-2	207	BO142	fonda	_	_	45	SPEAKER_00	BO142	fonda	634.983	635.484	match
+207-3	207	BO142	soprattutto	_	_	45	SPEAKER_00	BO142	soprattutto	635.664	636.364	match
+207-4	207	BO142	sulla	_	_	45	SPEAKER_00	BO142	sulla	636.524	636.844	match
+207-5	207	BO142	nozione	_	_	45	SPEAKER_00	BO142	nozione	636.944	637.345	match
+207-6	207	BO142	di	_	_	45	SPEAKER_00	BO142	di	637.405	637.485	match
+207-7	207	BO142	faccia	_	638.203	45	SPEAKER_00	BO142	faccia	637.565	638.345	match
+208-0	208	BO142	ovvero	638.552	_	46	SPEAKER_00	BO142	ovvero	638.775	639.275	match
+208-1	208	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+208-2	208	BO142	che	_	_	46	SPEAKER_00	BO142	che	639.495	639.615	match
+208-3	208	BO142	comunque	_	_	46	SPEAKER_00	BO142	comunque	639.695	640.035	match
+208-4	208	BO142	differisce	_	_	46	SPEAKER_00	BO142	differisce	640.115	640.695	match
+208-5	208	BO142	da	_	_	46	SPEAKER_00	BO142	da	640.755	640.855	match
+208-6	208	BO142	quella	_	_	46	SPEAKER_00	BO142	quella	640.915	641.115	match
+208-7	208	BO142	originaria	_	_	46	SPEAKER_00	BO142	originaria	641.175	641.676	match
+208-8	208	BO142	di	_	_	46	SPEAKER_00	BO142	di	641.736	641.816	match
+208-9	208	BO142	goffman	_	_	46	SPEAKER_00	BO142	goffman	641.856	642.756	match
+208-10	208	BO142	mi	_	_	_	_	_	_	_	_	tsv_only
+208-11	208	BO142	ri~	_	_	_	_	_	_	_	_	tsv_only
+208-12	208	BO142	perché	_	643.237	46	SPEAKER_00	BO142	perché	642.916	643.236	match
+209-0	209	BO142	mentre	643.66	_	46	SPEAKER_00	BO142	mentre	643.736	644.016	match
+209-1	209	BO142	in	_	_	46	SPEAKER_00	BO142	in	644.056	644.136	match
+209-2	209	BO142	goffman	_	_	46	SPEAKER_00	BO142	goffman	644.176	644.716	match
+209-3	209	BO142	la	_	_	46	SPEAKER_00	BO142	la	644.796	644.896	match
+209-4	209	BO142	faccia	_	_	46	SPEAKER_00	BO142	faccia	644.956	645.516	match
+209-5	209	BO142	era	_	_	46	SPEAKER_00	BO142	era	645.736	646.016	match
+209-6	209	BO142	l'	_	_	46	SPEAKER_00	BO142	l	646.156	646.212	match
+209-7	209	BO142	immagine	_	_	46	SPEAKER_00	BO142	immagine	646.212	646.656	match
+209-8	209	BO142	di	_	_	46	SPEAKER_00	BO142	di	646.716	646.816	match
+209-9	209	BO142	sè	_	_	46	SPEAKER_00	BO142	se	646.876	646.996	match
+209-10	209	BO142	stessi	_	_	46	SPEAKER_00	BO142	stessi	647.097	647.737	match
+209-11	209	BO142	che	_	_	46	SPEAKER_00	BO142	che	647.857	647.957	match
+209-12	209	BO142	ognuno	_	648.558	46	SPEAKER_00	BO142	ognuno	648.037	648.557	match
+210-0	210	BO142	eh	648.973	_	_	_	_	_	_	_	tsv_only
+210-1	210	BO142	che	_	_	46	SPEAKER_00	BO142	che	649.477	649.577	match
+210-2	210	BO142	veniva	_	_	46	SPEAKER_00	BO142	veniva	649.657	649.937	match
+210-3	210	BO142	attribuita	_	_	46	SPEAKER_00	BO142	attribuita	649.997	650.517	match
+210-4	210	BO142	mh	_	_	_	_	_	_	_	_	tsv_only
+210-5	210	BO142	a	_	_	46	SPEAKER_00	BO142	a	651.037	651.337	match
+210-6	210	BO142	un	_	_	46	SPEAKER_00	BO142	un	651.457	651.817	match
+210-7	210	BO142	interlocutore	_	_	46	SPEAKER_00	BO142	interlocutore	651.937	652.778	match
+210-8	210	BO142	durante	_	_	46	SPEAKER_00	BO142	durante	652.858	653.198	match
+210-9	210	BO142	la	_	_	46	SPEAKER_00	BO142	la	653.258	653.338	match
+210-10	210	BO142	conversazione	_	654.525	46	SPEAKER_00	BO142	conversazione	653.398	654.478	match
+211-0	211	BO142	quindi	654.94	_	46	SPEAKER_00	BO142	quindi	654.958	655.178	match
+211-1	211	BO142	durante	_	_	46	SPEAKER_00	BO142	durante	655.258	655.698	match
+211-2	211	BO142	dei	_	_	46	SPEAKER_00	BO142	dei	655.738	655.898	match
+211-3	211	BO142	processi	_	_	46	SPEAKER_00	BO142	processi	655.918	656.438	match
+211-4	211	BO142	rituali	_	657.279	46	SPEAKER_00	BO142	rituali	656.498	657.178	match
+212-0	212	BO142	eh	657.685	_	_	_	_	_	_	_	tsv_only
+212-1	212	BO142	e	_	_	46	SPEAKER_00	BO142	e	658.679	658.719	match
+212-2	212	BO142	quindi	_	_	46	SPEAKER_00	BO142	quindi	658.819	659.019	match
+212-3	212	BO142	era	_	_	46	SPEAKER_00	BO142	era	659.059	659.119	match
+212-4	212	BO142	un	_	_	46	SPEAKER_00	BO142	un	659.179	659.259	match
+212-5	212	BO142	qualcosa	_	_	46	SPEAKER_00	BO142	qualcosa	659.299	659.819	match
+212-6	212	BO142	di	_	_	46	SPEAKER_00	BO142	di	659.879	660.119	match
+212-7	212	BO142	eh	_	_	_	_	_	_	_	_	tsv_only
+212-8	212	BO142	modificabile	_	_	46	SPEAKER_00	BO142	modificabile	660.599	661.539	match
+212-9	212	BO142	impersistente	_	662.949	46	SPEAKER_00	BO142	impersistente	661.559	662.879	match
+213-0	213	BO117	((tossisce))	658.236	659.202	_	_	_	_	_	_	skipped
+214-0	214	BO142	che	663.101	_	46	SPEAKER_00	BO142	che	663.179	663.339	match
+214-1	214	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+214-2	214	BO142	cambiava	_	_	46	SPEAKER_00	BO142	cambiava	663.519	663.940	match
+214-3	214	BO142	da	_	_	46	SPEAKER_00	BO142	da	664.000	664.120	match
+214-4	214	BO142	conversazione	_	_	46	SPEAKER_00	BO142	conversazione	664.160	664.880	match
+214-5	214	BO142	a	_	_	46	SPEAKER_00	BO142	a	664.920	664.940	match
+214-6	214	BO142	conversazione	_	_	46	SPEAKER_00	BO142	conversazione	665.020	665.920	match
+214-7	214	BO142	diciamo	_	666.389	46	SPEAKER_00	BO142	diciamo	666.000	666.400	match
+215-0	215	BO142	invece	667.012	_	47	SPEAKER_00	BO142	invece	667.018	667.698	match
+215-1	215	BO142	per	_	_	47	SPEAKER_00	BO142	per	667.718	668.078	match
+215-2	215	BO142	brown	_	_	47	SPEAKER_00	BO142	brown	668.158	668.378	match
+215-3	215	BO142	e	_	_	47	SPEAKER_00	BO142	e	668.398	668.518	match
+215-4	215	BO142	levinson	_	_	47	SPEAKER_00	BO142	levinson	668.558	669.479	match
+215-5	215	BO142	la	_	_	47	SPEAKER_00	BO142	la	669.679	669.739	match
+215-6	215	BO142	faccia	_	_	47	SPEAKER_00	BO142	faccia	669.839	671.239	match
+215-7	215	BO142	era	_	_	_	_	_	_	_	_	tsv_only
+215-8	215	BO142	un	_	_	_	_	_	_	_	_	tsv_only
+215-9	215	BO142	qualcosa	_	_	_	_	_	_	_	_	tsv_only
+215-10	215	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+215-11	215	BO142	era	_	_	47	SPEAKER_00	BO142	era	671.419	671.579	match
+215-12	215	BO142	la	_	_	47	SPEAKER_00	BO142	la	671.659	671.719	match
+215-13	215	BO142	concezione	_	_	47	SPEAKER_00	BO142	concezione	671.759	672.339	match
+215-14	215	BO142	di	_	_	47	SPEAKER_00	BO142	di	672.419	672.499	match
+215-15	215	BO142	sé	_	672.864	47	SPEAKER_00	BO142	sé	672.619	672.879	match
+216-0	216	BO142	che	673.397	_	47	SPEAKER_00	BO142	che	673.419	673.539	match
+216-1	216	BO142	un	_	_	47	SPEAKER_00	BO142	un	673.599	673.659	match
+216-2	216	BO142	individuo	_	_	47	SPEAKER_00	BO142	individuo	673.719	674.259	match
+216-3	216	BO142	avrebbe	_	_	47	SPEAKER_00	BO142	aveva	674.299	674.560	mismatch
+216-4	216	BO142	elaborato	_	_	47	SPEAKER_00	BO142	elaborato	674.580	675.220	match
+216-5	216	BO142	già	_	_	47	SPEAKER_00	BO142	già	675.280	675.420	match
+216-6	216	BO142	prima	_	_	47	SPEAKER_00	BO142	prima	675.540	675.840	match
+216-7	216	BO142	di	_	_	47	SPEAKER_00	BO142	di	675.900	675.960	match
+216-8	216	BO142	confrontarsi	_	_	47	SPEAKER_00	BO142	confrontarsi	676.040	676.760	match
+216-9	216	BO142	con	_	_	47	SPEAKER_00	BO142	con	676.800	676.900	match
+216-10	216	BO142	gli	_	_	47	SPEAKER_00	BO142	gli	676.920	677.060	match
+216-11	216	BO142	altri	_	_	47	SPEAKER_00	BO142	altri	677.080	677.440	match
+216-12	216	BO142	e	_	_	47	SPEAKER_00	BO142	e	677.460	677.480	match
+216-13	216	BO142	che	_	_	47	SPEAKER_00	BO142	che	677.580	677.700	match
+216-14	216	BO142	quindi	_	_	47	SPEAKER_00	BO142	quindi	677.840	678.180	match
+216-15	216	BO142	voleva	_	678.77	47	SPEAKER_00	BO142	voleva	678.260	678.740	match
+217-0	217	BO142	eh	679.1	_	_	_	_	_	_	_	tsv_only
+217-1	217	BO142	difendere	_	_	47	SPEAKER_00	BO142	difendere	679.461	680.241	match
+217-2	217	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+217-3	217	BO142	durante	_	_	47	SPEAKER_00	BO142	durante	680.461	680.821	match
+217-4	217	BO142	la	_	_	47	SPEAKER_00	BO142	la	680.881	680.961	match
+217-5	217	BO142	conversazione	_	682.033	47	SPEAKER_00	BO142	conversazione	680.981	681.981	match
+218-0	218	BO142	la	682.778	_	48	SPEAKER_00	BO142	la	682.841	682.921	match
+218-1	218	BO142	ponevano	_	_	48	SPEAKER_00	BO142	ponevano	683.001	683.481	match
+218-2	218	BO142	quindi	_	_	48	SPEAKER_00	BO142	quindi	683.521	683.781	match
+218-3	218	BO142	più	_	_	48	SPEAKER_00	BO142	più	683.821	683.921	match
+218-4	218	BO142	da	_	_	48	SPEAKER_00	BO142	da	683.981	684.041	match
+218-5	218	BO142	un	_	_	48	SPEAKER_00	BO142	un	684.081	684.161	match
+218-6	218	BO142	punto	_	_	48	SPEAKER_00	BO142	punto	684.221	684.462	match
+218-7	218	BO142	di	_	_	48	SPEAKER_00	BO142	di	684.502	684.582	match
+218-8	218	BO142	vista	_	_	48	SPEAKER_00	BO142	vista	684.642	685.222	match
+218-9	218	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+218-10	218	BO142	eh	_	686.753	_	_	_	_	_	_	tsv_only
+219-0	219	BO142	difensivo	687.092	_	48	SPEAKER_00	BO142	difensivo	687.202	687.942	match
+219-1	219	BO142	diciamo	_	_	48	SPEAKER_00	BO142	diciamo	687.982	688.362	match
+219-2	219	BO142	la	_	_	48	SPEAKER_00	BO142	la	688.422	688.482	match
+219-3	219	BO142	conversazione	_	_	48	SPEAKER_00	BO142	conversazione	688.522	689.443	match
+219-4	219	BO142	ovvero	_	_	48	SPEAKER_00	BO142	ovvero	689.523	690.063	match
+219-5	219	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+219-6	219	BO142	eh	_	691.508	_	_	_	_	_	_	tsv_only
+220-0	220	BO142	tutti	692.593	_	49	SPEAKER_00	BO142	tutti	692.718	692.938	match
+220-1	220	BO142	quei	_	_	49	SPEAKER_00	BO142	quei	692.978	693.158	match
+220-2	220	BO142	modi	_	_	49	SPEAKER_00	BO142	modi	693.178	693.578	match
+220-3	220	BO142	in	_	_	49	SPEAKER_00	BO142	in	693.618	693.718	match
+220-4	220	BO142	cui	_	_	49	SPEAKER_00	BO142	cui	693.798	694.259	match
+220-5	220	BO142	u~	_	_	_	_	_	_	_	_	tsv_only
+220-6	220	BO142	un	_	_	49	SPEAKER_00	BO142	un	694.799	694.939	match
+220-7	220	BO142	individuo	_	_	49	SPEAKER_00	BO142	individuo	694.979	695.539	match
+220-8	220	BO142	poteva	_	_	49	SPEAKER_00	BO142	poteva	695.619	695.979	match
+220-9	220	BO142	porsi	_	_	49	SPEAKER_00	BO142	porsi	696.059	696.559	match
+220-10	220	BO142	per	_	_	49	SPEAKER_00	BO142	per	696.619	696.759	match
+220-11	220	BO142	far	_	_	49	SPEAKER_00	BO142	far	696.859	696.999	match
+220-12	220	BO142	sì	_	_	49	SPEAKER_00	BO142	sì	697.140	697.280	match
+220-13	220	BO142	che	_	_	49	SPEAKER_00	BO142	che	697.380	697.480	match
+220-14	220	BO142	la	_	_	49	SPEAKER_00	BO142	la	697.540	697.620	match
+220-15	220	BO142	sua	_	_	49	SPEAKER_00	BO142	sua	697.680	697.820	match
+220-16	220	BO142	faccia	_	_	49	SPEAKER_00	BO142	faccia	697.900	698.300	match
+220-17	220	BO142	ovvero	_	_	49	SPEAKER_00	BO142	ovvero	698.360	698.600	match
+220-18	220	BO142	l'	_	_	49	SPEAKER_00	BO142	l	698.680	698.744	match
+220-19	220	BO142	immagine	_	699.245	49	SPEAKER_00	BO142	immagine	698.744	699.260	match
+221-0	221	BO142	la	699.584	_	49	SPEAKER_00	BO142	la	699.660	699.760	match
+221-1	221	BO142	reputazione	_	_	49	SPEAKER_00	BO142	reputazione	699.800	700.441	match
+221-2	221	BO142	di	_	_	49	SPEAKER_00	BO142	di	700.501	700.581	match
+221-3	221	BO142	sè	_	_	49	SPEAKER_00	BO142	se	700.641	700.741	match
+221-4	221	BO142	stesso	_	_	49	SPEAKER_00	BO142	stesso	700.801	701.261	match
+221-5	221	BO142	non	_	_	49	SPEAKER_00	BO142	non	701.321	701.441	match
+221-6	221	BO142	potesse	_	_	49	SPEAKER_00	BO142	potesse	701.481	701.921	match
+221-7	221	BO142	essere	_	_	49	SPEAKER_00	BO142	essere	701.961	702.261	match
+221-8	221	BO142	intaccata	_	703.135	49	SPEAKER_00	BO142	intaccata	702.321	703.121	match
+222-0	222	BO142	e	703.643	_	50	SPEAKER_00	BO142	e	703.722	703.762	match
+222-1	222	BO142	da	_	_	50	SPEAKER_00	BO142	da	703.822	703.942	match
+222-2	222	BO142	questo	_	_	50	SPEAKER_00	BO142	questo	703.982	704.222	match
+222-3	222	BO142	punto	_	_	50	SPEAKER_00	BO142	punto	704.302	704.582	match
+222-4	222	BO142	di	_	_	50	SPEAKER_00	BO142	di	704.642	704.722	match
+222-5	222	BO142	vista	_	_	50	SPEAKER_00	BO142	vista	704.782	705.322	match
+222-6	222	BO142	sviluppano	_	_	50	SPEAKER_00	BO142	sviluppano	705.522	706.323	match
+222-7	222	BO142	due	_	_	50	SPEAKER_00	BO142	due	706.403	706.563	match
+222-8	222	BO142	tipi	_	_	50	SPEAKER_00	BO142	tipi	706.603	706.823	match
+222-9	222	BO142	di	_	_	50	SPEAKER_00	BO142	di	706.883	706.963	match
+222-10	222	BO142	faccia	_	_	50	SPEAKER_00	BO142	faccia	707.043	707.583	match
+222-11	222	BO142	che	_	_	50	SPEAKER_00	BO142	che	707.763	707.863	match
+222-12	222	BO142	sono	_	_	50	SPEAKER_00	BO142	sono	707.983	708.203	match
+222-13	222	BO142	la	_	_	50	SPEAKER_00	BO142	la	708.283	708.363	match
+222-14	222	BO142	faccia	_	_	50	SPEAKER_00	BO142	faccia	708.403	708.723	match
+222-15	222	BO142	positiva	_	709.483	50	SPEAKER_00	BO142	positiva	708.783	709.484	match
+223-0	223	BO142	e	709.87	_	50	SPEAKER_00	BO142	e	709.944	709.984	match
+223-1	223	BO142	la	_	_	50	SPEAKER_00	BO142	la	710.044	710.104	match
+223-2	223	BO142	faccia	_	_	50	SPEAKER_00	BO142	faccia	710.144	710.404	match
+223-3	223	BO142	negativa	_	711.186	50	SPEAKER_00	BO142	negativa	710.464	711.144	match
+224-0	224	BO142	dove	711.609	_	50	SPEAKER_00	BO142	dove	711.704	711.864	match
+224-1	224	BO142	la	_	_	50	SPEAKER_00	BO142	la	711.944	712.024	match
+224-2	224	BO142	faccia	_	_	50	SPEAKER_00	BO142	faccia	712.064	712.365	match
+224-3	224	BO142	positiva	_	_	50	SPEAKER_00	BO142	positiva	712.425	712.985	match
+224-4	224	BO142	si	_	_	50	SPEAKER_00	BO142	si	713.105	713.185	match
+224-5	224	BO142	rifà	_	_	50	SPEAKER_00	BO142	rifà	713.225	713.605	match
+224-6	224	BO142	all'	_	_	50	SPEAKER_00	BO142	all	713.805	714.020	match
+224-7	224	BO142	interesse	_	_	50	SPEAKER_00	BO142	interesse	714.020	714.665	match
+224-8	224	BO142	d~	_	_	_	_	_	_	_	_	tsv_only
+224-9	224	BO142	di	_	_	50	SPEAKER_00	BO142	di	714.745	715.165	match
+224-10	224	BO142	una	_	_	50	SPEAKER_00	BO142	un	715.246	715.726	mismatch
+224-11	224	BO142	individuo	_	716.564	50	SPEAKER_00	BO142	individuo	715.906	716.486	match
+225-0	225	BO142	di	716.904	_	51	SPEAKER_00	BO142	di	717.055	717.215	match
+225-1	225	BO142	essere	_	_	51	SPEAKER_00	BO142	essere	717.235	717.596	match
+225-2	225	BO142	apprezzato	_	_	51	SPEAKER_00	BO142	apprezzato	717.816	718.577	match
+225-3	225	BO142	acclamato	_	_	51	SPEAKER_00	BO142	acclamato	718.597	719.417	match
+225-4	225	BO142	e	_	_	51	SPEAKER_00	BO142	e	719.477	719.658	match
+225-5	225	BO142	stimato	_	720.486	51	SPEAKER_00	BO142	stimato	719.818	720.498	match
+226-0	226	BO142	mentre	720.957	_	51	SPEAKER_00	BO142	mentre	721.019	721.319	match
+226-1	226	BO142	invece	_	_	51	SPEAKER_00	BO142	invece	721.359	721.639	match
+226-2	226	BO142	la	_	_	51	SPEAKER_00	BO142	la	721.740	721.800	match
+226-3	226	BO142	faccia	_	_	51	SPEAKER_00	BO142	faccia	721.840	722.120	match
+226-4	226	BO142	negativa	_	_	51	SPEAKER_00	BO142	negativa	722.200	722.901	match
+226-5	226	BO142	è	_	_	51	SPEAKER_00	BO142	è	723.061	723.121	match
+226-6	226	BO142	l'	_	_	51	SPEAKER_00	BO142	l	723.201	723.273	match
+226-7	226	BO142	interesse	_	_	51	SPEAKER_00	BO142	interesse	723.273	723.922	match
+226-8	226	BO142	che	_	_	51	SPEAKER_00	BO142	che	724.022	724.122	match
+226-9	226	BO142	il	_	_	51	SPEAKER_00	BO142	il	724.202	724.242	match
+226-10	226	BO142	proprio	_	_	51	SPEAKER_00	BO142	proprio	724.262	724.542	match
+226-11	226	BO142	territorio	_	_	51	SPEAKER_00	BO142	territorio	724.562	725.123	match
+226-12	226	BO142	non	_	_	51	SPEAKER_00	BO142	non	725.163	725.303	match
+226-13	226	BO142	venga	_	_	51	SPEAKER_00	BO142	venga	725.343	725.583	match
+226-14	226	BO142	minacciato	_	726.221	51	SPEAKER_00	BO142	minacciato	725.663	726.264	match
+227-0	227	BO142	e	726.221	_	51	SPEAKER_00	BO142	e	726.324	726.364	match
+227-1	227	BO142	quindi	_	_	51	SPEAKER_00	BO142	quindi	726.444	726.724	match
+227-2	227	BO142	che	_	_	51	SPEAKER_00	BO142	che	726.784	726.884	match
+227-3	227	BO142	venga	_	_	51	SPEAKER_00	BO142	venga	726.944	727.165	match
+227-4	227	BO142	preservata	_	728.088	51	SPEAKER_00	BO142	preservata	727.225	728.046	match
+228-0	228	BO142	una	728.4	_	51	SPEAKER_00	BO142	una	728.506	728.666	match
+228-1	228	BO142	libertà	_	_	51	SPEAKER_00	BO142	libertà	728.706	729.087	match
+228-2	228	BO142	di	_	_	51	SPEAKER_00	BO142	di	729.167	729.247	match
+228-3	228	BO142	azione	_	_	51	SPEAKER_00	BO142	azione	729.307	729.907	match
+228-4	228	BO142	e	_	_	51	SPEAKER_00	BO142	e	730.027	730.107	match
+228-5	228	BO142	di	_	_	_	_	_	_	_	_	tsv_only
+228-6	228	BO142	eh	_	731.057	_	_	_	_	_	_	tsv_only
+229-0	229	BO142	di	731.859	732.661	51	SPEAKER_00	BO142	di	730.208	735.052	match
+230-0	230	BO142	cioè	733.647	733.97	_	_	_	_	_	_	tsv_only
+231-0	231	BO142	una	735.007	_	51	SPEAKER_00	BO142	una	735.112	735.232	match
+231-1	231	BO142	libertà	_	_	51	SPEAKER_00	BO142	libertà	735.292	735.893	match
+231-2	231	BO142	di	_	_	51	SPEAKER_00	BO142	di	736.013	736.474	match
+231-3	231	BO142	movimento	_	_	51	SPEAKER_00	BO142	movimento	736.614	737.274	match
+231-4	231	BO142	di	_	_	51	SPEAKER_00	BO142	di	737.314	737.394	match
+231-5	231	BO142	azione	_	_	51	SPEAKER_00	BO142	azione	737.434	738.375	match
+231-6	231	BO142	insomma	_	_	51	SPEAKER_00	BO142	insomma	738.656	739.076	match
+231-7	231	BO142	(.)	_	_	_	_	_	_	_	_	skipped
+231-8	231	BO142	globale	_	_	51	SPEAKER_00	BO142	globale	739.236	739.737	match
+231-9	231	BO142	ecco	_	740.205	_	_	_	_	_	_	tsv_only
+232-0	232	BO117	va	740.617	_	52	SPEAKER_01	BO117	va	739.797	740.838	match
+232-1	232	BO117	bene	_	741.161	52	SPEAKER_01	BO117	bene	740.878	741.078	match

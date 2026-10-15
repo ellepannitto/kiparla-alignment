@@ -1,0 +1,2176 @@
+{
+ "segments": [
+  {
+   "start": 0.612,
+   "end": 13.107,
+   "text": " Allora io le posso mandare, facciamo prima se le mando per email, lei però me la manda oggi stesso la mail e i titoli dei due testi.",
+   "words": [
+    {
+     "word": "Allora",
+     "start": 0.612,
+     "end": 1.493,
+     "score": 0.633,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "io",
+     "start": 1.673,
+     "end": 2.855,
+     "score": 0.602,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 3.075,
+     "end": 3.535,
+     "score": 0.546,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "posso",
+     "start": 3.616,
+     "end": 3.896,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mandare,",
+     "start": 3.956,
+     "end": 4.797,
+     "score": 0.914,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "facciamo",
+     "start": 5.197,
+     "end": 5.578,
+     "score": 0.809,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prima",
+     "start": 5.678,
+     "end": 5.918,
+     "score": 0.763,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "se",
+     "start": 5.999,
+     "end": 6.079,
+     "score": 0.922,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 6.139,
+     "end": 6.199,
+     "score": 0.814,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mando",
+     "start": 6.259,
+     "end": 6.539,
+     "score": 0.902,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 6.599,
+     "end": 6.699,
+     "score": 0.739,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "email,",
+     "start": 6.759,
+     "end": 7.34,
+     "score": 0.718,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lei",
+     "start": 7.4,
+     "end": 7.54,
+     "score": 0.779,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "però",
+     "start": 7.601,
+     "end": 7.961,
+     "score": 0.755,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "me",
+     "start": 8.141,
+     "end": 8.201,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 8.261,
+     "end": 8.301,
+     "score": 0.968,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "manda",
+     "start": 8.341,
+     "end": 8.582,
+     "score": 0.9,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "oggi",
+     "start": 8.642,
+     "end": 8.882,
+     "score": 0.853,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "stesso",
+     "start": 8.962,
+     "end": 9.403,
+     "score": 0.811,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 9.463,
+     "end": 9.523,
+     "score": 0.298,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mail",
+     "start": 9.603,
+     "end": 10.084,
+     "score": 0.786,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 10.384,
+     "end": 10.544,
+     "score": 0.925,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 10.704,
+     "end": 10.764,
+     "score": 0.729,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "titoli",
+     "start": 10.885,
+     "end": 11.325,
+     "score": 0.816,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dei",
+     "start": 11.966,
+     "end": 12.126,
+     "score": 0.784,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "due",
+     "start": 12.206,
+     "end": 12.467,
+     "score": 0.814,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "testi.",
+     "start": 12.607,
+     "end": 13.107,
+     "score": 0.869,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13692434210526316,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 14.123,
+   "end": 21.207,
+   "text": " e lei ne sceglie uno in sostituzione che riguarda l'italiano per lo studio, un approfondimento dell'italiano per lo studio.",
+   "words": [
+    {
+     "word": "e",
+     "start": 14.123,
+     "end": 14.203,
+     "score": 0.11,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lei",
+     "start": 14.223,
+     "end": 14.323,
+     "score": 0.109,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ne",
+     "start": 14.343,
+     "end": 14.523,
+     "score": 0.114,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sceglie",
+     "start": 14.543,
+     "end": 14.763,
+     "score": 0.099,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "uno",
+     "start": 14.904,
+     "end": 15.184,
+     "score": 0.162,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 15.504,
+     "end": 15.584,
+     "score": 0.192,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sostituzione",
+     "start": 15.604,
+     "end": 16.344,
+     "score": 0.285,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 16.424,
+     "end": 16.564,
+     "score": 0.79,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "riguarda",
+     "start": 16.785,
+     "end": 17.205,
+     "score": 0.874,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'italiano",
+     "start": 17.285,
+     "end": 17.765,
+     "score": 0.797,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 17.805,
+     "end": 17.905,
+     "score": 0.832,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 17.965,
+     "end": 18.065,
+     "score": 0.699,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio,",
+     "start": 18.105,
+     "end": 18.546,
+     "score": 0.747,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "un",
+     "start": 18.646,
+     "end": 18.726,
+     "score": 0.685,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "approfondimento",
+     "start": 18.766,
+     "end": 19.626,
+     "score": 0.873,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dell'italiano",
+     "start": 19.646,
+     "end": 20.247,
+     "score": 0.586,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 20.307,
+     "end": 20.387,
+     "score": 0.218,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 20.427,
+     "end": 20.527,
+     "score": 0.53,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio.",
+     "start": 20.567,
+     "end": 21.207,
+     "score": 0.759,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1535156187415123,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 21.347,
+   "end": 27.471,
+   "text": "E' quello che ho mandato anche ad altri studenti che avevano già svolto questa prima parte.",
+   "words": [
+    {
+     "word": "E'",
+     "start": 21.347,
+     "end": 21.407,
+     "score": 0.531,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "quello",
+     "start": 21.447,
+     "end": 21.647,
+     "score": 0.897,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 21.687,
+     "end": 21.767,
+     "score": 0.868,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ho",
+     "start": 21.787,
+     "end": 21.868,
+     "score": 0.275,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "mandato",
+     "start": 21.928,
+     "end": 22.408,
+     "score": 0.793,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "anche",
+     "start": 22.608,
+     "end": 23.208,
+     "score": 0.844,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ad",
+     "start": 24.009,
+     "end": 24.349,
+     "score": 0.901,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "altri",
+     "start": 24.369,
+     "end": 24.569,
+     "score": 0.839,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studenti",
+     "start": 24.609,
+     "end": 25.069,
+     "score": 0.859,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "che",
+     "start": 25.089,
+     "end": 25.169,
+     "score": 0.878,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "avevano",
+     "start": 25.189,
+     "end": 25.69,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "già",
+     "start": 25.77,
+     "end": 26.13,
+     "score": 0.764,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "svolto",
+     "start": 26.27,
+     "end": 26.65,
+     "score": 0.833,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "questa",
+     "start": 26.71,
+     "end": 26.93,
+     "score": 0.821,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prima",
+     "start": 26.97,
+     "end": 27.151,
+     "score": 0.311,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parte.",
+     "start": 27.211,
+     "end": 27.471,
+     "score": 0.388,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.1535156187415123,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 27.551,
+   "end": 28.631,
+   "text": "Dove l'ha fatto lei?",
+   "words": [
+    {
+     "word": "Dove",
+     "start": 27.551,
+     "end": 27.671,
+     "score": 0.255,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'ha",
+     "start": 27.711,
+     "end": 27.951,
+     "score": 0.504,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fatto",
+     "start": 27.991,
+     "end": 28.291,
+     "score": 0.629,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "lei?",
+     "start": 28.331,
+     "end": 28.631,
+     "score": 0.549,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.1535156187415123,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 28.711,
+   "end": 34.395,
+   "text": "Alla Ca' Foscari, c'era anche appunto con pallotti, vagoni, e si era giocato.",
+   "words": [
+    {
+     "word": "Alla",
+     "start": 28.711,
+     "end": 29.152,
+     "score": 0.682,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Ca'",
+     "start": 29.172,
+     "end": 29.312,
+     "score": 0.413,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "Foscari,",
+     "start": 29.332,
+     "end": 29.892,
+     "score": 0.526,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "c'era",
+     "start": 29.912,
+     "end": 30.032,
+     "score": 0.123,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "anche",
+     "start": 30.092,
+     "end": 30.292,
+     "score": 0.699,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "appunto",
+     "start": 30.332,
+     "end": 30.653,
+     "score": 0.659,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "con",
+     "start": 30.733,
+     "end": 31.033,
+     "score": 0.771,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "pallotti,",
+     "start": 31.073,
+     "end": 31.833,
+     "score": 0.727,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "vagoni,",
+     "start": 31.853,
+     "end": 32.614,
+     "score": 0.65,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "e",
+     "start": 32.714,
+     "end": 32.874,
+     "score": 0.859,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 32.954,
+     "end": 33.114,
+     "score": 0.694,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "era",
+     "start": 33.134,
+     "end": 33.214,
+     "score": 0.164,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "giocato.",
+     "start": 33.294,
+     "end": 34.395,
+     "score": 0.586,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.1535156187415123,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 35.255,
+   "end": 56.672,
+   "text": " E appunto perché il mio problema più principale è che io dovrei riuscire anche a verbalizzare entro questa sessione, diciamo perché io avrei la borsa di studio ergo, se non riusciamo entro la sessione di luglio, se non riusco a verbalizzare io perderei la seconda rata che sono tipo 1500 euro, quindi non mi dispiace più di altro perché riuscirei proprio col suo esame.",
+   "words": [
+    {
+     "word": "E",
+     "start": 35.255,
+     "end": 35.475,
+     "score": 0.905,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "appunto",
+     "start": 35.536,
+     "end": 35.796,
+     "score": 0.432,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "perché",
+     "start": 35.816,
+     "end": 35.996,
+     "score": 0.829,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 36.016,
+     "end": 36.056,
+     "score": 0.082,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mio",
+     "start": 36.076,
+     "end": 36.176,
+     "score": 0.107,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "problema",
+     "start": 36.196,
+     "end": 36.496,
+     "score": 0.489,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "più",
+     "start": 36.536,
+     "end": 36.676,
+     "score": 0.266,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "principale",
+     "start": 36.716,
+     "end": 37.197,
+     "score": 0.846,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "è",
+     "start": 37.217,
+     "end": 37.237,
+     "score": 0.03,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "che",
+     "start": 37.397,
+     "end": 37.517,
+     "score": 0.754,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "io",
+     "start": 37.597,
+     "end": 37.937,
+     "score": 0.816,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "dovrei",
+     "start": 38.138,
+     "end": 38.778,
+     "score": 0.53,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "riuscire",
+     "start": 38.798,
+     "end": 39.118,
+     "score": 0.524,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "anche",
+     "start": 39.138,
+     "end": 39.238,
+     "score": 0.296,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "a",
+     "start": 39.258,
+     "end": 39.278,
+     "score": 0.044,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "verbalizzare",
+     "start": 39.318,
+     "end": 40.099,
+     "score": 0.708,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "entro",
+     "start": 40.359,
+     "end": 40.78,
+     "score": 0.835,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "questa",
+     "start": 40.88,
+     "end": 41.08,
+     "score": 0.776,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "sessione,",
+     "start": 41.12,
+     "end": 41.6,
+     "score": 0.84,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "diciamo",
+     "start": 41.82,
+     "end": 42.121,
+     "score": 0.759,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "perché",
+     "start": 42.181,
+     "end": 42.421,
+     "score": 0.859,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "io",
+     "start": 42.501,
+     "end": 42.561,
+     "score": 0.647,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "avrei",
+     "start": 42.581,
+     "end": 42.781,
+     "score": 0.559,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "la",
+     "start": 42.821,
+     "end": 42.921,
+     "score": 0.394,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "borsa",
+     "start": 42.981,
+     "end": 43.182,
+     "score": 0.497,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 43.222,
+     "end": 43.262,
+     "score": 0.657,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "studio",
+     "start": 43.282,
+     "end": 43.522,
+     "score": 0.53,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ergo,",
+     "start": 43.562,
+     "end": 43.922,
+     "score": 0.826,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "se",
+     "start": 44.443,
+     "end": 44.523,
+     "score": 0.765,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 44.543,
+     "end": 44.623,
+     "score": 0.79,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "riusciamo",
+     "start": 44.643,
+     "end": 45.003,
+     "score": 0.666,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "entro",
+     "start": 45.143,
+     "end": 45.483,
+     "score": 0.77,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "la",
+     "start": 45.563,
+     "end": 45.623,
+     "score": 0.789,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "sessione",
+     "start": 45.664,
+     "end": 45.984,
+     "score": 0.93,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 46.004,
+     "end": 46.044,
+     "score": 0.006,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "luglio,",
+     "start": 46.104,
+     "end": 46.724,
+     "score": 0.392,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "se",
+     "start": 46.784,
+     "end": 46.864,
+     "score": 0.922,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 46.965,
+     "end": 47.665,
+     "score": 0.556,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "riusco",
+     "start": 47.705,
+     "end": 48.886,
+     "score": 0.496,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "a",
+     "start": 49.206,
+     "end": 49.547,
+     "score": 0.704,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "verbalizzare",
+     "start": 49.607,
+     "end": 50.107,
+     "score": 0.588,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "io",
+     "start": 50.187,
+     "end": 50.267,
+     "score": 0.763,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "perderei",
+     "start": 50.467,
+     "end": 50.788,
+     "score": 0.644,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "la",
+     "start": 50.828,
+     "end": 50.888,
+     "score": 0.506,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "seconda",
+     "start": 50.928,
+     "end": 51.168,
+     "score": 0.853,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "rata",
+     "start": 51.208,
+     "end": 51.428,
+     "score": 0.869,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "che",
+     "start": 51.468,
+     "end": 51.548,
+     "score": 0.191,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "sono",
+     "start": 51.568,
+     "end": 51.748,
+     "score": 0.526,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "tipo",
+     "start": 51.768,
+     "end": 52.149,
+     "score": 0.346,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "1500",
+     "start": 52.189,
+     "end": 52.369,
+     "score": 0.759,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "euro,",
+     "start": 52.469,
+     "end": 52.889,
+     "score": 0.573,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "quindi",
+     "start": 52.929,
+     "end": 53.089,
+     "score": 0.196,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 53.129,
+     "end": 53.31,
+     "score": 0.635,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mi",
+     "start": 53.35,
+     "end": 53.75,
+     "score": 0.712,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "dispiace",
+     "start": 53.79,
+     "end": 54.09,
+     "score": 0.603,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "più",
+     "start": 54.11,
+     "end": 54.17,
+     "score": 0.129,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "di",
+     "start": 54.19,
+     "end": 54.23,
+     "score": 0.022,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "altro",
+     "start": 54.25,
+     "end": 54.41,
+     "score": 0.152,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "perché",
+     "start": 54.43,
+     "end": 55.231,
+     "score": 0.385,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "riuscirei",
+     "start": 55.571,
+     "end": 55.892,
+     "score": 0.796,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "proprio",
+     "start": 55.912,
+     "end": 56.092,
+     "score": 0.354,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "col",
+     "start": 56.112,
+     "end": 56.252,
+     "score": 0.516,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "suo",
+     "start": 56.272,
+     "end": 56.352,
+     "score": 0.528,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "esame.",
+     "start": 56.392,
+     "end": 56.672,
+     "score": 0.745,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.12051504395074314,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 56.692,
+   "end": 57.393,
+   "text": "Ora me lo scrivo.",
+   "words": [
+    {
+     "word": "Ora",
+     "start": 56.692,
+     "end": 56.752,
+     "score": 0.115,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "me",
+     "start": 56.792,
+     "end": 56.832,
+     "score": 0.423,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "lo",
+     "start": 56.912,
+     "end": 56.972,
+     "score": 0.202,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "scrivo.",
+     "start": 57.012,
+     "end": 57.393,
+     "score": 0.505,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.12051504395074314,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 61.729,
+   "end": 64.911,
+   "text": " Il giorno in cui fa il colloquio me lo dice e facciamo la verbalizzazione.",
+   "words": [
+    {
+     "word": "Il",
+     "start": 61.729,
+     "end": 61.949,
+     "score": 0.091,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "giorno",
+     "start": 61.969,
+     "end": 62.149,
+     "score": 0.286,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 62.169,
+     "end": 62.229,
+     "score": 0.227,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "cui",
+     "start": 62.249,
+     "end": 62.369,
+     "score": 0.324,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "fa",
+     "start": 62.409,
+     "end": 62.489,
+     "score": 0.329,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 62.529,
+     "end": 62.609,
+     "score": 0.324,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "colloquio",
+     "start": 62.649,
+     "end": 63.07,
+     "score": 0.428,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "me",
+     "start": 63.11,
+     "end": 63.17,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 63.23,
+     "end": 63.27,
+     "score": 0.636,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dice",
+     "start": 63.35,
+     "end": 63.59,
+     "score": 0.601,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 63.61,
+     "end": 63.63,
+     "score": 0.038,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "facciamo",
+     "start": 63.67,
+     "end": 63.95,
+     "score": 0.894,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 64.05,
+     "end": 64.09,
+     "score": 0.867,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "verbalizzazione.",
+     "start": 64.13,
+     "end": 64.911,
+     "score": 0.681,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 64.971,
+   "end": 66.231,
+   "text": "Certo, la ringrazio.",
+   "words": [
+    {
+     "word": "Certo,",
+     "start": 64.971,
+     "end": 65.331,
+     "score": 0.648,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "la",
+     "start": 65.531,
+     "end": 65.591,
+     "score": 0.556,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ringrazio.",
+     "start": 65.631,
+     "end": 66.231,
+     "score": 0.432,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 66.291,
+   "end": 68.252,
+   "text": "Le mando le mie oggi, quindi oggi stesso.",
+   "words": [
+    {
+     "word": "Le",
+     "start": 66.291,
+     "end": 66.351,
+     "score": 0.542,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mando",
+     "start": 66.391,
+     "end": 66.591,
+     "score": 0.791,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "le",
+     "start": 66.631,
+     "end": 66.691,
+     "score": 0.192,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mie",
+     "start": 66.731,
+     "end": 66.892,
+     "score": 0.67,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "oggi,",
+     "start": 66.912,
+     "end": 67.172,
+     "score": 0.779,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "quindi",
+     "start": 67.232,
+     "end": 67.432,
+     "score": 0.832,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "oggi",
+     "start": 67.492,
+     "end": 67.632,
+     "score": 0.201,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "stesso.",
+     "start": 67.672,
+     "end": 68.252,
+     "score": 0.889,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 68.332,
+   "end": 73.995,
+   "text": "Sì, le do l'indicazione dei testi, ne sceglie uno.",
+   "words": [
+    {
+     "word": "Sì,",
+     "start": 68.332,
+     "end": 68.672,
+     "score": 0.811,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "le",
+     "start": 69.573,
+     "end": 69.653,
+     "score": 0.838,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "do",
+     "start": 69.693,
+     "end": 70.653,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'indicazione",
+     "start": 70.713,
+     "end": 71.374,
+     "score": 0.748,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dei",
+     "start": 71.454,
+     "end": 71.594,
+     "score": 0.766,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "testi,",
+     "start": 71.674,
+     "end": 72.154,
+     "score": 0.95,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ne",
+     "start": 72.574,
+     "end": 72.674,
+     "score": 0.87,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sceglie",
+     "start": 72.694,
+     "end": 73.395,
+     "score": 0.702,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "uno.",
+     "start": 73.455,
+     "end": 73.995,
+     "score": 0.622,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 74.475,
+   "end": 79.478,
+   "text": "Entrambi riguardano l'italiano per lo studio e le due per lo studio dell'edificio.",
+   "words": [
+    {
+     "word": "Entrambi",
+     "start": 74.475,
+     "end": 75.035,
+     "score": 0.624,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "riguardano",
+     "start": 75.095,
+     "end": 75.556,
+     "score": 0.928,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "l'italiano",
+     "start": 75.656,
+     "end": 76.116,
+     "score": 0.805,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 76.176,
+     "end": 76.276,
+     "score": 0.884,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 76.316,
+     "end": 76.396,
+     "score": 0.838,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio",
+     "start": 76.436,
+     "end": 76.816,
+     "score": 0.757,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "e",
+     "start": 76.856,
+     "end": 76.896,
+     "score": 0.705,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "le",
+     "start": 76.956,
+     "end": 77.056,
+     "score": 0.639,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "due",
+     "start": 77.156,
+     "end": 77.337,
+     "score": 0.935,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "per",
+     "start": 77.477,
+     "end": 77.577,
+     "score": 0.753,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "lo",
+     "start": 77.637,
+     "end": 77.717,
+     "score": 0.792,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "studio",
+     "start": 77.757,
+     "end": 78.077,
+     "score": 0.832,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "dell'edificio.",
+     "start": 78.117,
+     "end": 79.478,
+     "score": 0.639,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 79.518,
+   "end": 80.378,
+   "text": "Certo, certo.",
+   "words": [
+    {
+     "word": "Certo,",
+     "start": 79.518,
+     "end": 79.758,
+     "score": 0.203,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "certo.",
+     "start": 79.978,
+     "end": 80.378,
+     "score": 0.434,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 80.658,
+   "end": 84.42,
+   "text": "In sostituzione di tutti i materiali della prima parte.",
+   "words": [
+    {
+     "word": "In",
+     "start": 80.658,
+     "end": 80.718,
+     "score": 0.975,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sostituzione",
+     "start": 80.778,
+     "end": 81.539,
+     "score": 0.854,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 81.619,
+     "end": 81.719,
+     "score": 0.787,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "tutti",
+     "start": 81.819,
+     "end": 82.979,
+     "score": 0.896,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "i",
+     "start": 83.199,
+     "end": 83.259,
+     "score": 0.476,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "materiali",
+     "start": 83.299,
+     "end": 83.74,
+     "score": 0.794,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "della",
+     "start": 83.78,
+     "end": 83.96,
+     "score": 0.781,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "prima",
+     "start": 84.02,
+     "end": 84.22,
+     "score": 0.454,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "parte.",
+     "start": 84.26,
+     "end": 84.42,
+     "score": 0.25,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 84.46,
+   "end": 90.023,
+   "text": "La seconda invece comprende veramente i saggi della seconda parte, più ci sarebbe il testo, quello per l'apprendimento metodologico.",
+   "words": [
+    {
+     "word": "La",
+     "start": 84.46,
+     "end": 84.5,
+     "score": 0.044,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "seconda",
+     "start": 84.54,
+     "end": 84.78,
+     "score": 0.167,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "invece",
+     "start": 84.82,
+     "end": 84.94,
+     "score": 0.078,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "comprende",
+     "start": 84.98,
+     "end": 85.3,
+     "score": 0.635,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "veramente",
+     "start": 85.32,
+     "end": 85.681,
+     "score": 0.601,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "i",
+     "start": 85.701,
+     "end": 85.721,
+     "score": 0.548,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "saggi",
+     "start": 85.761,
+     "end": 86.001,
+     "score": 0.665,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "della",
+     "start": 86.041,
+     "end": 86.221,
+     "score": 0.499,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "seconda",
+     "start": 86.241,
+     "end": 86.501,
+     "score": 0.511,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "parte,",
+     "start": 86.561,
+     "end": 86.901,
+     "score": 0.794,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "più",
+     "start": 87.061,
+     "end": 87.121,
+     "score": 0.056,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ci",
+     "start": 87.181,
+     "end": 87.241,
+     "score": 0.598,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "sarebbe",
+     "start": 87.281,
+     "end": 87.541,
+     "score": 0.89,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 87.561,
+     "end": 87.642,
+     "score": 0.512,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "testo,",
+     "start": 87.682,
+     "end": 88.062,
+     "score": 0.49,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "quello",
+     "start": 88.082,
+     "end": 88.262,
+     "score": 0.71,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "per",
+     "start": 88.302,
+     "end": 88.422,
+     "score": 0.344,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "l'apprendimento",
+     "start": 88.482,
+     "end": 89.122,
+     "score": 0.405,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "metodologico.",
+     "start": 89.162,
+     "end": 90.023,
+     "score": 0.608,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_01"
+  },
+  {
+   "start": 90.103,
+   "end": 90.423,
+   "text": "Sì, sì.",
+   "words": [
+    {
+     "word": "Sì,",
+     "start": 90.103,
+     "end": 90.323,
+     "score": 0.449,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sì.",
+     "start": 90.343,
+     "end": 90.423,
+     "score": 0.187,
+     "speaker": "SPEAKER_00"
+    }
+   ],
+   "avg_logprob": -0.13356164148817323,
+   "speaker": "SPEAKER_00"
+  },
+  {
+   "start": 91.904,
+   "end": 109.372,
+   "text": " e il colloquio consiste così come è descritto sul programma nell'analisi di una sequenza di interazione in classe ok perfetto e in questo punto io verrei per morale portando questo però si scrive regolarmente si si mi scrive regolarmente e oggi non mi viene questo non so se non lo so no questo è il suo grazie la ringrazio un attimo solo",
+   "words": [
+    {
+     "word": "e",
+     "start": 91.904,
+     "end": 91.924,
+     "score": 0.089,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "il",
+     "start": 92.004,
+     "end": 92.044,
+     "score": 0.074,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "colloquio",
+     "start": 92.064,
+     "end": 92.504,
+     "score": 0.074,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "consiste",
+     "start": 92.524,
+     "end": 93.164,
+     "score": 0.141,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "così",
+     "start": 93.404,
+     "end": 93.644,
+     "score": 0.562,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "come",
+     "start": 93.725,
+     "end": 93.865,
+     "score": 0.79,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "è",
+     "start": 93.885,
+     "end": 93.905,
+     "score": 0.032,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "descritto",
+     "start": 93.985,
+     "end": 94.345,
+     "score": 0.789,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sul",
+     "start": 94.405,
+     "end": 94.565,
+     "score": 0.877,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "programma",
+     "start": 94.605,
+     "end": 95.205,
+     "score": 0.871,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "nell'analisi",
+     "start": 95.605,
+     "end": 96.206,
+     "score": 0.893,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 96.266,
+     "end": 96.326,
+     "score": 0.925,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "una",
+     "start": 96.386,
+     "end": 96.506,
+     "score": 0.734,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "sequenza",
+     "start": 96.566,
+     "end": 97.006,
+     "score": 0.875,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "di",
+     "start": 97.066,
+     "end": 97.126,
+     "score": 0.742,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "interazione",
+     "start": 97.146,
+     "end": 97.647,
+     "score": 0.694,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "in",
+     "start": 97.707,
+     "end": 97.767,
+     "score": 0.492,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "classe",
+     "start": 97.827,
+     "end": 98.187,
+     "score": 0.732,
+     "speaker": "SPEAKER_00"
+    },
+    {
+     "word": "ok",
+     "start": 98.287,
+     "end": 98.467,
+     "score": 0.591,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "perfetto",
+     "start": 98.627,
+     "end": 99.087,
+     "score": 0.403,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "e",
+     "start": 99.147,
+     "end": 99.167,
+     "score": 0.592,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "in",
+     "start": 99.187,
+     "end": 99.227,
+     "score": 0.022,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "questo",
+     "start": 99.247,
+     "end": 99.407,
+     "score": 0.868,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "punto",
+     "start": 99.447,
+     "end": 99.607,
+     "score": 0.89,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "io",
+     "start": 99.628,
+     "end": 99.668,
+     "score": 0.01,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "verrei",
+     "start": 99.688,
+     "end": 99.968,
+     "score": 0.641,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "per",
+     "start": 100.188,
+     "end": 100.268,
+     "score": 0.696,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "morale",
+     "start": 100.328,
+     "end": 100.668,
+     "score": 0.626,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "portando",
+     "start": 100.708,
+     "end": 101.048,
+     "score": 0.418,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "questo",
+     "start": 101.068,
+     "end": 101.909,
+     "score": 0.63,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "però",
+     "start": 101.969,
+     "end": 102.129,
+     "score": 0.674,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 102.269,
+     "end": 102.529,
+     "score": 0.521,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "scrive",
+     "start": 102.549,
+     "end": 102.909,
+     "score": 0.502,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "regolarmente",
+     "start": 102.929,
+     "end": 103.99,
+     "score": 0.443,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 104.03,
+     "end": 104.09,
+     "score": 0.849,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "si",
+     "start": 104.11,
+     "end": 104.81,
+     "score": 0.647,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mi",
+     "start": 104.97,
+     "end": 105.05,
+     "score": 0.566,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "scrive",
+     "start": 105.07,
+     "end": 105.29,
+     "score": 0.501,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "regolarmente",
+     "start": 105.31,
+     "end": 105.791,
+     "score": 0.53,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "e",
+     "start": 105.811,
+     "end": 105.831,
+     "score": 0.034,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "oggi",
+     "start": 105.931,
+     "end": 106.051,
+     "score": 0.822,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 106.071,
+     "end": 106.151,
+     "score": 0.153,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "mi",
+     "start": 106.171,
+     "end": 106.251,
+     "score": 0.333,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "viene",
+     "start": 106.271,
+     "end": 106.391,
+     "score": 0.15,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "questo",
+     "start": 106.451,
+     "end": 106.651,
+     "score": 0.19,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 106.691,
+     "end": 106.811,
+     "score": 0.758,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "so",
+     "start": 106.831,
+     "end": 106.891,
+     "score": 0.106,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "se",
+     "start": 106.931,
+     "end": 106.991,
+     "score": 0.464,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "non",
+     "start": 107.011,
+     "end": 107.091,
+     "score": 0.276,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "lo",
+     "start": 107.131,
+     "end": 107.191,
+     "score": 0.19,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "so",
+     "start": 107.231,
+     "end": 107.471,
+     "score": 0.572,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "no",
+     "start": 107.531,
+     "end": 107.632,
+     "score": 0.538,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "questo",
+     "start": 107.752,
+     "end": 107.892,
+     "score": 0.267,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "è",
+     "start": 107.912,
+     "end": 107.932,
+     "score": 0.004,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "il",
+     "start": 107.952,
+     "end": 107.992,
+     "score": 0.329,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "suo",
+     "start": 108.032,
+     "end": 108.192,
+     "score": 0.572,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "grazie",
+     "start": 108.252,
+     "end": 108.452,
+     "score": 0.166,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "la",
+     "start": 108.492,
+     "end": 108.592,
+     "score": 0.225,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "ringrazio",
+     "start": 108.632,
+     "end": 108.912,
+     "score": 0.221,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "un",
+     "start": 109.032,
+     "end": 109.092,
+     "score": 0.194,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "attimo",
+     "start": 109.112,
+     "end": 109.252,
+     "score": 0.103,
+     "speaker": "SPEAKER_01"
+    },
+    {
+     "word": "solo",
+     "start": 109.272,
+     "end": 109.372,
+     "score": 0.242,
+     "speaker": "SPEAKER_01"
+    }
+   ],
+   "avg_logprob": -0.1958575593524201,
+   "speaker": "SPEAKER_01"
+  }
+ ],
+ "language": "it",
+ "min_speakers": 2,
+ "max_speakers": 2
+}
